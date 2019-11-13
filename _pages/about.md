@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This blog is the informal and conversational outlet for the The [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html) at Fred Hutch. The Coop, for short, is a cooperative that includes all groups and individuals at Fred Hutch interested in bioinformatics and data science. Started at [Fred Hutch](https://www.fredhutch.org/en.html), The Coop aims to address duplication of effort, wasted resources including time and money, lack of shared knowledge and best practices, and lost collaboration opportunities as it relates to data science.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+For more information please check out:
+- Public facing site at [thecoop.fredhutch.org](https://research.fhcrc.org/coop/en.html)
+- Find answers in the [Fred Hutch's Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/)
+- Join us at our [upcoming events](https://research.fhcrc.org/coop/en/community/participate.html) 
+- Or during our [office hours](https://sciwiki.fredhutch.org/scicomputing/reference_training/#office-hours) or in our [community groups](https://sciwiki.fredhutch.org/scicomputing/reference_training/#community-groups)
+- View our [available classes](http://www.fredhutch.io/resources/) at [Fredhutch.io](http://www.fredhutch.io/)
+- Chat with us on [Slack](https://fhbig.slack.com/) 
