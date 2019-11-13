@@ -4,7 +4,7 @@ last_modified_at: 2019-08-11T16:20:02-05:00
 categories:
   - community
 ---
-#### Welcome to the Fred Hutch Coop Community blog!
+## Welcome to the Fred Hutch Coop Community blog!
 
 Are you a [Fred Hutch](https://www.fredhutch.org/en.html) employee actively involved in data-intensive research? Are you interested in learning more about this type of research? Well, you've come to the right place!
 
@@ -24,7 +24,7 @@ The Coop began in November 2018 to facilitate community building, assess the dat
 
 ![Fred Hutch Biomedical Data Science Wiki](/assets/images/2019-11-04-wiki-page.png)
 
-#### What kind of things will appear in the Coop blog?
+## What kind of things will appear in the Coop blog?
 
 We're planning to use this blog as a way to share more detailed information about our community than is currently accessible through either the newsletter or Slack. In particular, our posts will occupy one or more of the following categories:
 - **community:** announcements and explanations about Coop events and programs
