@@ -8,7 +8,7 @@ logo:/assets/images/blog_logo.jpg
 header:
   overlay_color: "#123054"
   overlay_image: /assets/images/erica-savig-cytometry.png
-excerpt: "The Fred Hutch Coop poop...."
+excerpt: "The Fred Hutch Coop...."
 feature_row:
   - title: "Posts"
     excerpt: "See posts from the Coop."
