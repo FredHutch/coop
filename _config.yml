@@ -21,9 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: username
 minimal_mistakes_skin: contrast
 search: true
-# header:
-  # teaser: "/assets/images/header.jpg"
 logo: "/assets/images/blog_logo.jpg"
+masthead_title: ""
   
 # Build settings
 markdown: kramdown
