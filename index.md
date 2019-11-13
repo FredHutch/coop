@@ -6,6 +6,7 @@ author_profile: true
 permalink: /
 header:
   overlay_color: "#123054"
+  overlay_image: /images/erica-savig-cytometry.png
 excerpt: "The Fred Hutch Coop...."
 feature_row:
   - title: "Posts"
