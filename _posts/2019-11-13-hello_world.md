@@ -10,8 +10,6 @@ Are you a [Fred Hutch](https://www.fredhutch.org/en.html) employee actively invo
 
 The [Fred Hutch Bioinformatics & Data Science Cooperative](http://thecoop.fredhutch.org), more commonly known as the Coop, is a community-driven organization of researchers and support staff united by a common interest in data-intensive computation and related technical methods. **We build community to share knowledge and accelerate research.**
 
-![Bioinformatics & Data Science Cooperative](/assets/2019-11-04-coop-page.png)
-
 Who is included in our community? We welcome all Fred Hutch and [SCCA](https://www.seattlecca.org) employees interested in data and computation, from lab managers and faculty to interns and graduate students. Our participants have job titles ranging from lab technician to data analyst, and are engaged in research that may be clinical, laboratory, or exclusively computational. Even if you're not a Fred Hutch affiliate, we hope you'll find useful information in our public online materials.
 
 The Coop began in November 2018 to facilitate community building, assess the data and computation needs of our community, and serve as a one-stop shop for information about resources and activities surrounding data-intensive science at Fred Hutch. We work collaboratively with [other groups at Fred Hutch](https://research.fhcrc.org/coop/en/community/coop-friends.html) supporting such research and keep our [webpage](http://thecoop.fredhutch.org) public so potential collaborators external to the Hutch can find us. In addition, we support the following programs for our community:
@@ -21,8 +19,6 @@ The Coop began in November 2018 to facilitate community building, assess the dat
 - **fredhutch.io classes:** [fredhutch.io](http://www.fredhutch.io) is a project aimed at developing educational resources and structured short-form courses about reproducible computational methods. [Courses](http://www.fredhutch.io/resources/) are offered periodically to Fred Hutch and SCCA employees free of charge.
 - **Calendars:** We maintain event calendars to assist our community in staying up-to-date on opportunities for participation. Check out the ways to access our event information through Google Calendars, Outlook, and CenterNet [here](https://research.fhcrc.org/coop/en/community/participate.html).
 - **Fred Hutch Biomedical Data Science Wiki:** Our [Data Science Wiki](https://sciwiki.fredhutch.org/) is a collaborative and curated collection of resources about data generation and scientific computing, created by and for our Fred Hutch research community.
-
-![Fred Hutch Biomedical Data Science Wiki](/assets/2019-11-04-wiki-page.png)
 
 ## What kind of things will appear in the Coop blog?
 
