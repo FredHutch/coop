@@ -1,13 +1,13 @@
 ---
 title: The Coop
-layout: single
+layout: splash
 classes: wide
 author_profile: true
 permalink: /
 header:
   overlay_color: "#123054"
   overlay_image: /assets/images/header.jpg
-excerpt: "The Fred Hutch Coop...."
+excerpt: "The Fred Hutch Coop poop...."
 feature_row:
   - title: "Posts"
     excerpt: "See posts from the Coop."
