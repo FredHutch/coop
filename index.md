@@ -7,7 +7,10 @@ permalink: /
 header:
   overlay_color: "#123054"
   overlay_image: /assets/images/skyline_img.jpeg
-excerpt: "The Fred Hutch Coop...."
+  actions:
+    - label: "Read Latest"
+      url: /posts/
+excerpt: "The Bioinformatics & Data Science Cooperative"
 feature_row:
   - title: "Posts"
     excerpt: "See posts from the Coop."
