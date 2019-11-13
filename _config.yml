@@ -21,10 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: username
 minimal_mistakes_skin: contrast
 search: true
-# logo: "/assets/images/blog_logo.jpg"
-# masthead_title: " "
-header:
-  image: /assets/images/blog_logo.jpg
+logo: <img src="{{ site.baseurl }}/assets/images/blog_logo.jpg" alt="FH Big icon" width="600" align="left|middle" hspace="0"></a>
   
 # Build settings
 markdown: kramdown
