@@ -1,5 +1,5 @@
 ---
-title: The Coop
+title: The Coop Blog
 layout: splash
 classes: wide
 author_profile: true
@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Read Latest"
       url: /posts/
-excerpt: "The Bioinformatics & Data Science Cooperative"
+excerpt: "A blog for the Bioinformatics & Data Science Cooperative at Fred Hutch"
 feature_row:
   - title: "Posts"
     excerpt: "See posts from the Coop."
