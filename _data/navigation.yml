@@ -1,9 +1,9 @@
 main:
   - title: "Posts"
-    url: /posts/
+    url: coop/posts/
   - title: "Categories"
-    url: /categories/
+    url: coop/categories/
   - title: "Calendar"
-    url: /calendar/
+    url: coop/calendar/
   - title: "About"
-    url: /about/
+    url: coop/about/
