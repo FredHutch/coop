@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: " "
+title: "The Coop"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   All things data science at the Fred Hutch
@@ -21,7 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: username
 minimal_mistakes_skin: contrast
 search: true
-logo: <img src="/assets/images/blog_logo.jpg" alt="FH Big icon" width="600" align="left|middle" hspace="0">
   
 # Build settings
 markdown: kramdown
