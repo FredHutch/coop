@@ -4,7 +4,6 @@ layout: splash
 classes: wide
 author_profile: true
 permalink: /
-logo: /assets/images/blog_logo.jpg
 header:
   overlay_color: "#123054"
   overlay_image: /assets/images/erica-savig-cytometry.png
