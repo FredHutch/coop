@@ -2,15 +2,8 @@
 title: "Slack"
 last_modified_at: 2019-08-11T16:20:02-05:00
 categories:
-  - Blog
+  - Community
 tags:
-  - communication
-  - slack
-  - channel
-  - slack channel
-  - python
-  - R
-  - nextflow
 ---
 
 #### Slack is a communication tool
@@ -23,7 +16,7 @@ Once you have installed and launched Slack it’s time to **join the community**
 
 _Channels_, which most are open, help you organize conversations around a topic or project within the workspace. When you make a channel, then everyone can see what is going on in that channel. This means it’s a good idea to create channels for different projects, topics, or a conversation between certain team members. You can also create private channels if you want to have a private discussion with just a few team members. Additionally, you can direct message a member which works like email reaching a member or multiple members quickly and directly.
 
-#### How do you join a channel? 
+#### How do you join a channel?
 
 Click "Channel" on the sidebar to search for existing channels. Then select the channel of interest you want to join. Here are some established channels you may want to join. These channels are design to help create and support the bioinformatic community here at the Hutch.
 
@@ -35,7 +28,7 @@ Click "Channel" on the sidebar to search for existing channels. Then select the 
 - *#software-engineers* - A channel for software development engineers and others creating user-facing software applications and tools to discuss challenges and get support
 - *#nextflow* - User community support for using Nextflow at the Fred Hutch
 
-Once joined and viewing a channel make sure to check out the channel’s _details_, _highlights_ and any _pinned items_ which you can see by clicking and viewing channel details as they contain valuable information which may be of help to you. 
+Once joined and viewing a channel make sure to check out the channel’s _details_, _highlights_ and any _pinned items_ which you can see by clicking and viewing channel details as they contain valuable information which may be of help to you.
 
 #### Communication tips
 
@@ -56,7 +49,7 @@ Here are some ideas to keep supportive communication flowing
 - Do not double post. Only ask a question once, in the relevant channel but feel free to cross post to other relevant channels by sharing the link to the original post or question
 - Who moderates the communities??? The communities moderate the communities.
 
-#### Things to note 
+#### Things to note
 You can do some other useful things in Slack like
 
 1. [Polls](https://simplepoll.rocks/faq/)
