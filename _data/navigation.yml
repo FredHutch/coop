@@ -1,9 +1,17 @@
-main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Calendar"
-    url: /calendar/
-  - title: "About"
-    url: /about/
+frontpage:
+  - title: "Links"
+    children:
+      - title: "Home"
+        url: /
+      - title: "What's New"
+        url: /whats-new/
+      - title: "Calendar"
+        url: /calendar/
+      - title: "About"
+        url: /about/
+  - title: "Blog"
+    children:
+      - title: "Posts by Year"
+        url: /year-archive/
+      - title: "Posts by Tag"
+        url: /tags/
