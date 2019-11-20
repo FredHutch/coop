@@ -2,11 +2,8 @@
 title: "Overview of Community Groups"
 last_modified_at: 2019-08-11T16:20:02-05:00
 categories:
-  - Blog
+  - Community
 tags:
-  - community groups
-  - slack
-  - slack channels
 ---
 
 #### Overview of Community Groups
