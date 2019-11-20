@@ -48,6 +48,7 @@ Here are some ideas to keep supportive communication flowing
 - Post in the appropriate channel based on subject matter, tool, or topic
 - Do not double post. Only ask a question once, in the relevant channel but feel free to cross post to other relevant channels by sharing the link to the original post or question
 - Who moderates the communities??? The communities moderate the communities.
+- Add content to your profile to make it easier for others to communicate with you!
 
 #### Things to note
 You can do some other useful things in Slack like
