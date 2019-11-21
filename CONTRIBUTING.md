@@ -15,6 +15,16 @@ Possible content includes:
 - report from a community group meeting
 - announcements about events
 
+## Required content
+
+TEMPLATE_YYYY-MM-DD-title.md
+
+- title
+- author
+- category (see above)
+- tags
+- main content, we recommend posts on the shorter side (no more than five paragraphs)
+
 ## Contribute via email
 
 If you'd like to submit a blog post outside of GitHub, please email your content to `coophelp` at `fredhutch.org`
@@ -25,9 +35,7 @@ Include info to introduce GitHub
 
 - fork the [repository](https://github.com/FredHutch/coop)
 - in your fork, create a new branch with a name that reflects your blog post (e.g., `python-december`)
-- copy template (TEMPLATE_YYYY-MM-DD-title.md), renaming file with date and short title
-- required in header: title, date/time, author, category (see above), tags
-- add content
+- copy template, renaming file with date and short title, add content
 - submit PR to `gh-pages` branch in main repo
 
 ## Adding yourself as a contributor
