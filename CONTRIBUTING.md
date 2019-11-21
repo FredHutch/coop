@@ -11,23 +11,22 @@ Each post belongs to at least one of our three main categories:
 
 Possible content includes:
 - repost from your own blog
-- description of a new data-oriented tool you're excited about
+- description of a new data-oriented tool you're using
 - report from a community group meeting
 - announcements about events
 
 ## Required content
 
-TEMPLATE_YYYY-MM-DD-title.md
+COOP-TEMPLATE-title.md
 
 - title
-- author
 - category (see above)
 - tags
 - main content, we recommend posts on the shorter side (no more than five paragraphs)
 
 ## Contribute via email
 
-If you'd like to submit a blog post outside of GitHub, please email your content to `coophelp` at `fredhutch.org`
+If you'd like to submit a blog post outside of GitHub, please email your [content](#required-content) to `coophelp` at `fredhutch.org`
 
 ## Contribute via GitHub
 
