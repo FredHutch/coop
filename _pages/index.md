@@ -1,5 +1,5 @@
 ---
-title: The Coop Blog
+title: " "
 layout: splash
 classes: wide
 author_profile: true
@@ -14,7 +14,7 @@ excerpt: "A blog for the Bioinformatics & Data Science Cooperative at Fred Hutch
 feature_row:
   - title: "Posts"
     excerpt: "See posts from the Coop."
-    url: /posts/
+    url: /categories/
     btn_class: "btn--primary"
     btn_label: "Read more"
   - title: "Calendar"
@@ -29,4 +29,8 @@ feature_row:
     btn_label: "About Us"
 share: true
 ---
+{% for post in site.posts %}
+   {% include archive-single.html %}
+{% endfor %}
+
 {% include feature_row %}
