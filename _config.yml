@@ -105,10 +105,9 @@ category_archive:
 #tag_archive:
 #  type: liquid
 #  path: /tags/
-# --- ADDITIONAL SETTINGS ---
-google_site_verification: "yourVerificationCode"
+
+# Analytics
 analytics:
-  provider: "google-gtag"
+  provider: "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: "UA-########-#"
-    anonymize_ip: false # default
+    tracking_id: UA-153287171-1
