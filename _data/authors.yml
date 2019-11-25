@@ -1,0 +1,38 @@
+# /_data/authors.yml
+
+Kate Hertweck:
+  name        : "Kate Hertweck"
+  bio         : "Bioinformatics Training Manager (Staff Scientist)"
+  links:
+    - label: "Affiliation"
+      url: http://www.fredhutch.io
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Justin Burge:
+  name        : "Justin Burge"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
+
+Coop:
+  name   : "The Fred Hutch Bioinformatics & Data Science Cooperative"
+  avatar : "/assets/images/tinyH.png"
+  bio    : #"My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/FredHutch/coop"
+    - label: "Coop Slack"
+      icon: "fab fa-fw fa-slack"
+      url: "https://fhbig.slack.com/"
