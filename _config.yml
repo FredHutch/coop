@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "The Fred Hutch Bioinformatics & Data Science Cooperative"
-  avatar : "/assets/images/tinyH.png"
+#   avatar : "/assets/images/tinyH.png"
   bio    : #"My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "GitHub"
