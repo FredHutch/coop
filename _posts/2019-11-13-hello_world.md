@@ -1,8 +1,8 @@
 ---
 title: "Hello World"
-last_modified_at: 2019-08-11T16:20:02-05:00
+last_modified_at: 2019-11-13T16:20:02-05:00
 categories:
-  - community
+  - Community
 ---
 ## Welcome to the Fred Hutch Coop Community blog!
 
