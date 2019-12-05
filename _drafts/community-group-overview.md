@@ -1,12 +1,8 @@
 ---
 title: "Overview of Community Groups"
-last_modified_at: 2019-08-11T16:20:02-05:00
 categories:
-  - Blog
+  - Community
 tags:
-  - community groups
-  - slack
-  - slack channels
 ---
 
 #### Overview of Community Groups
@@ -15,7 +11,7 @@ The [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/
 
 #### What they are
 
-Here are some of the current community groups that we have here at the Hutch but it's not exhaustive as you can always create a new one but following the [guidelines here](.../2010-01-07-post-overview_community_group#how-to-start-one). 
+Here are some of the current community groups that we have here at the Hutch but it's not exhaustive as you can always create a new one but following the [guidelines here](.../2010-01-07-post-overview_community_group#how-to-start-one).
 
 - **Coop community meetings**: The Coop hosts community meetings once a quarter to share information from the data science community at the Hutch. Join us to learn about projects and events happening in our community! _**When & where**: Quarterly, usually A1-303 but check calendars_
 
@@ -50,5 +46,3 @@ We'll use this information to:
 * post to the Google and Outlook calendars (we usually don't add community groups to CenterNet)
 *announce in our monthly newsletter and on Slack
 * list on our webpage and the training page on the Fred Hutch Biomedical Data Science Wiki.
-
-
