@@ -1,6 +1,5 @@
 ---
-title: "Pithy title here" # replace with the title of your post
-last_modified_at:  # don't worry about this; we'll add this if needed
+title: "Title goes here" # replace with the title of your post
 categories: # delete the categories that do not apply
   - Community
   - Technical
