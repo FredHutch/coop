@@ -1,6 +1,5 @@
 ---
 title: "An introduction to the Coop Slack for very new members"
-last_modified_at: 2019-08-11T16:20:02-05:00
 categories:
   - Community
 tags:
