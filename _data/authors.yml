@@ -4,31 +4,30 @@ Kate Hertweck:
   name        : "Kate Hertweck"
   bio         : "Bioinformatics Training Manager (Staff Scientist)"
   links:
-    - label: "Affiliation"
-      url: http://www.fredhutch.io
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+    - label: "fredhutch.io"
+      icon: "fas fa-link" 
+      url: "http://www.fredhutch.io"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/k8hertweck"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/k8hert"
 
 Justin Burge:
   name        : "Justin Burge"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
+  bio         : "Training and Outreach Specialist"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+    - label: "fredhutch.io"
+      icon: "fas fa-link" 
+      url: "http://www.fredhutch.io"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Chilliwack"
 
-Coop:
-  name   : "The Fred Hutch Bioinformatics & Data Science Cooperative"
-#   avatar : "/assets/images/tinyH.png"
-  bio    : #"My awesome biography constrained to a sentence or two goes here."
+The Coop:
+  name   : "The Coop"
+  bio    : " " # blank string creates a line space
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -36,3 +35,12 @@ Coop:
     - label: "Coop Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://fhbig.slack.com/"
+    - label: "Events Calendar"
+      icon: "fas fa-calendar-alt"
+      url: https://calendar.google.com/calendar/embed?src=gd30dlifri4fu7h104cuqdj0dg%40group.calendar.google.com&ctz=America%2FLos_Angeles
+    - label: "Coop Website"
+      icon: "fas fa-link"
+      url: "https://research.fhcrc.org/coop/en.html"
+    - label: "Fred Hutch SciWiki"
+      icon: "fas fa-link"
+      url: "https://sciwiki.fredhutch.org/"

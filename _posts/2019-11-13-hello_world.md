@@ -1,5 +1,6 @@
 ---
 title: "Hello World"
+author: The Coop
 last_modified_at: 2019-11-13T16:20:02-05:00
 categories:
   - Community
