@@ -1,5 +1,6 @@
 ---
 title: "Sharing knowledge through the Fred Hutch Biomedical Data Science Wiki"
+author: Kate Hertweck
 last_modified_at: 2019-12-02T16:20:02-05:00
 categories:
   - Community
