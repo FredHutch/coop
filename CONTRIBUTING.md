@@ -24,7 +24,7 @@ Possible content includes:
 - announcements about events
 - anything else you think would be of interest to the broader community!
 
-For some ideas, check out our [GitHub issues for potential blog topics](https://github.com/fredhutch/coop/issues?q=is%3Aissue+is%3Aopen+label%3Apost). Also feel free to file an issue if there is a topic you'd like to see discussed!
+For some ideas, check out our [GitHub issues for potential blog topics](https://github.com/fredhutch/coop/issues?q=is%3Aissue+is%3Aopen+label%3Apost). Also feel free to [file an issue](https://github.com/FredHutch/coop/issues/new?assignees=&labels=post&template=blog-post-idea.md&title=) if there is a topic you'd like to see blogged about and discussed! Additionally, if you [come across a bug please report it here](https://github.com/FredHutch/coop/issues/new?assignees=&labels=&template=bug-report.md&title=) and if there is a [feature or enhancement you would like to suggest for the site please make that here](https://github.com/FredHutch/coop/issues/new?assignees=&labels=infrastructure&template=feature-or-enhancement-request.md&title=).
 
 ## Required content for a blog post
 
