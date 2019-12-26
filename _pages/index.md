@@ -29,8 +29,13 @@ feature_row:
     btn_label: "About Us"
 share: true
 ---
-{% for post in site.posts %}
-   {% include archive-single.html %}
+{% for post in site.posts limit:1 %}
+  <h1>
+    <a href="{{ post.url}}">{{ post.title }}</a>
+  </h1>
+  <p><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+  {{ post.content }}
+
 {% endfor %}
 
 {% include feature_row %}
