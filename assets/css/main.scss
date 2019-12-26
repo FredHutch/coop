@@ -14,7 +14,7 @@
 @charset "utf-8";
 $link-color: #39b6b9 !default;
 $primary-color: #123054 !default;
-$border-color: #ffffff !default;
+$border-color: #e4e4e4 !default;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 

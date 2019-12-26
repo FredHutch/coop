@@ -58,24 +58,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   name   : "The Coop"
-#   avatar : "/assets/images/tinyH.png"
-#   bio    : "My awesome biography constrained to a sentence or two goes here."
-#   links:
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/FredHutch/coop"
-#     - label: "Coop Slack"
-#       icon: "fab fa-fw fa-slack"
-#       url: "https://fhbig.slack.com/"
-#     - label: "Calendar of Events"
-#       icon: "far fa-calendar"
-#       url: https://calendar.google.com/calendar/embed?src=gd30dlifri4fu7h104cuqdj0dg%40group.calendar.google.com&ctz=America%2FLos_Angeles
-#     - label: "Website"
-#       icon: "fas fa-globe"
-#       url: https://research.fhcrc.org/coop/en.html
-
 footer:
   links:
     - label: "GitHub"
@@ -111,7 +93,7 @@ defaults:
       path: ""
       type: contributors
     values:
-      layout: single
+      layout: collections
       share: false
       
 category_archive:
