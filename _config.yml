@@ -90,10 +90,10 @@ defaults:
       author_profile: true
   # _contributors
   - scope:
-      path: ""
+      path: "_contributors"
       type: contributors
     values:
-      layout: collections
+      layout: single
       share: false
       
 category_archive:
