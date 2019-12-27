@@ -1,20 +1,22 @@
 ---
-title: Kate Hertweck
+title: Kate Hertweck  ## this is your name
+position: Bioinformatics Training Manager (Staff Scientist)
+affiliation: Computational Biology, Bioinformatics & Data Science Cooperative at Fred Hutch, Fredhutch.io
+domain: Scientific Computing - writing and editing
 ---
-## Affiliation
-Computational Biology (Public Health Sciences), [Bioinformatics & Data Science Cooperative at Fred Hutch](https://research.fhcrc.org/coop/en.html),
-[Fredhutch.io](http://www.fredhutch.io)
-
 ## Title
+{{ page.position }}
 
-Bioinformatics Training Manager (Staff Scientist)
+## Affiliation
+
+{{ page.affiliation }}
 
 ## Contribution Domain and Type
 
-Scientific Computing - writing and editing
+{{ page.domain }}
 
 ### Links
-
+<!-- Add your links below -->
 - [Fredhutch.io](http://www.fredhutch.io/)
 - [Github](https://github.com/k8hertweck)
 - [Twitter](https://twitter.com/k8hert)

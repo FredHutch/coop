@@ -1,18 +1,20 @@
 ---
-title: Justin Burge
+title: Justin Burge  ## this is your name
+position: Training and Outreach Specialist
+affiliation: Bioinformatics & Data Science Cooperative, Fredhutch.io
+domain: Scientific Computing - writing and editing
 ---
-## Affiliation
-[Bioinformatics & Data Science Cooperative at Fred Hutch](https://research.fhcrc.org/coop/en.html),
-[Fredhutch.io](http://www.fredhutch.io)
-
 ## Title
+{{ page.position }}
 
-Training and Outreach Specialist
+## Affiliation
+
+{{ page.affiliation }}
 
 ## Contribution Domain and Type
 
-Scientific Computing - writing and editing
+{{ page.domain }}
 
 ### Links
-
+<!-- Add your links below -->
 - [Github](https://github.com/Chilliwack)
