@@ -1,19 +1,14 @@
 ---
-name: The Coop
-title: Bioinformatics & Data Science Cooperative (The Coop)
+title: The Coop
+position: Bioinformatics & Data Science Cooperative 
 affiliation: Bioinformatics & Data Science Cooperative, Fredhutch.io, Computational Biology (Public Health Sciences)
 ---
+## Title
+{{ page.position }}
+
 ## Affiliation
 
-[Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html), [fredhutch.io](http://www.fredhutch.io), Computational Biology (Public Health Sciences)
-
-## Title
-
-Bioinformatics & Data Science Cooperative (The Coop)
-
-## Contribution Domain and Type
-
-Bioinformatics and Data Science - writing and editing
+{{ page.affiliation }}
 
 ### Links
 

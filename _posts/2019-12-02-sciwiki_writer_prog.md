@@ -5,6 +5,12 @@ last_modified_at: 2019-12-02T16:20:02-05:00
 categories:
   - Community
 ---
+{% for contributor in site.contributors %}
+{% if page.author == contributor.title %}
+  By: <a href="{{ contributor.url }}"> {{ contributor.title }} - {{ contributor.position }}</a>
+  {% break %}
+{% endif %}
+{% endfor %}
 
 [Fred Hutch](https://www.fredhutch.org/en.html) includes a large and diverse community of researchers engaged in data-intensive science. Keeping track of best practices and resources among this community is a challenging task! A dedicated group of researchers and staff created the [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/about/#why-we-started) in spring 2018 to address this challenge. The [Wiki](https://sciwiki.fredhutch.org/) is a collaborative and curated collection of resources about data generation and scientific computing. It features both standard articles as well as [tutorials](https://sciwiki.fredhutch.org/compdemos/) on common data-related tasks, created by and for our Fred Hutch research community.
 

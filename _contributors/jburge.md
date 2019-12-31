@@ -1,17 +1,14 @@
 ---
 title: Justin Burge
+position: Training and Outreach Specialist 
+affiliation: Bioinformatics & Data Science Cooperative, Fredhutch.io
 ---
-## Affiliation
-[Bioinformatics & Data Science Cooperative at Fred Hutch](https://research.fhcrc.org/coop/en.html),
-[Fredhutch.io](http://www.fredhutch.io)
-
 ## Title
+{{ page.position }}
 
-Training and Outreach Specialist
+## Affiliation
 
-## Contribution Domain and Type
-
-Scientific Computing - writing and editing
+{{ page.affiliation }}
 
 ### Links
 

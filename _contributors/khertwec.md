@@ -1,17 +1,14 @@
 ---
 title: Kate Hertweck
+position: Bioinformatics Training Manager (Staff Scientist) 
+affiliation: Bioinformatics & Data Science Cooperative, Fredhutch.io
 ---
-## Affiliation
-Computational Biology (Public Health Sciences), [Bioinformatics & Data Science Cooperative at Fred Hutch](https://research.fhcrc.org/coop/en.html),
-[Fredhutch.io](http://www.fredhutch.io)
-
 ## Title
+{{ page.position }}
 
-Bioinformatics Training Manager (Staff Scientist)
+## Affiliation
 
-## Contribution Domain and Type
-
-Scientific Computing - writing and editing
+{{ page.affiliation }}
 
 ### Links
 
