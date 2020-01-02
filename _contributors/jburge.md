@@ -1,7 +1,7 @@
 ---
 title: Justin Burge
 position: Training and Outreach Specialist 
-affiliation: Bioinformatics & Data Science Cooperative, Fredhutch.io
+affiliation: The Coop, fredhutch.io
 ---
 ## Title
 {{ page.position }}
