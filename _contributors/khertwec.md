@@ -1,7 +1,7 @@
 ---
 title: Kate Hertweck
-position: Bioinformatics Training Manager (Staff Scientist) 
-affiliation: Bioinformatics & Data Science Cooperative, Fredhutch.io
+position: Bioinformatics Training Manager 
+affiliation: The Coop, fredhutch.io
 ---
 ## Title
 {{ page.position }}
