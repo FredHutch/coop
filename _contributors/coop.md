@@ -1,8 +1,7 @@
 ---
 title: The Coop
 position: Bioinformatics & Data Science Cooperative 
-affiliation: Bioinformatics & Data Science Cooperative, Fredhutch.io, Computational Biology (Public Health Sciences)
-domain: Bioinformatics and Data Science - writing and editing
+affiliation: Fred Hutchinson Cancer Research Center
 ---
 ## Title
 {{ page.position }}
