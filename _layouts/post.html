@@ -4,7 +4,7 @@ layout: single
 
 <p>{% for contributor in site.contributors %}
 {% if page.author == contributor.title %}
-  Written by: <a href="{{ contributor.url }}"> {{ contributor.title }} - {{ contributor.position }}</a>
+  Written by: <a href="{{ site.baseurl }}{{ contributor.url }}"> {{ contributor.title }} - {{ contributor.position }}</a>
   {% break %}
 {% endif %}
 {% endfor %}
