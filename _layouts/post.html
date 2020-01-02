@@ -1,0 +1,12 @@
+---
+layout: single
+---
+
+<p>{% for contributor in site.contributors %}
+{% if page.author == contributor.title %}
+  Written by: <a href="{{ contributor.url }}"> {{ contributor.title }} - {{ contributor.position }}</a>
+  {% break %}
+{% endif %}
+{% endfor %}
+</p>
+{{ content }}

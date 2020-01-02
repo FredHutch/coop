@@ -34,6 +34,13 @@ share: true
     <a href="{{ post.url}}">{{ post.title }}</a>
   </h1>
   <p><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+  {% for contributor in site.contributors %}
+  {% if post.author == contributor.title %}
+  Written by: <a href="{{ contributor.url }}"> {{ contributor.title }} - {{ contributor.position }}</a>
+  {% break %}
+  {% endif %}
+  {% endfor %}
+  
   {{ post.content }}
 
 {% endfor %}
