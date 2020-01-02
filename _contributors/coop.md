@@ -1,6 +1,6 @@
 ---
-title: The Coop
-position: Bioinformatics & Data Science Cooperative 
+title: The Coop Team
+position: Fred Hutch Bioinformatics & Data Science Cooperative 
 affiliation: Fred Hutchinson Cancer Research Center
 ---
 ## Title
