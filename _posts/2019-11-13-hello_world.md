@@ -1,6 +1,6 @@
 ---
 title: "Hello World! - Welcome to the Fred Hutch Coop Community blog"
-author: The Coop
+author: The Coop Team
 last_modified_at: 2019-11-13T16:20:02-05:00
 categories:
   - Community
