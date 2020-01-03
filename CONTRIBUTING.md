@@ -29,14 +29,14 @@ For some ideas, check out our [GitHub issues for potential blog topics](https://
 ## Required content for a blog post
 
 - **title:** A short, catchy description of to entice readers
-- **author:** Your name, which should match your [contributor file](#adding-yourself-as-contributor). If you do not have a contributor file, please feel free to contact one of our team members to assist you.
+- **author:** Your name, which should match your [contributor file](#adding-yourself-as-a-contributor). If you do not have a contributor file, please feel free to contact one of our team members to assist you.
 - **categories:** Community, Technical, or Science, as described [above](#what-kind-of-posts-are-appropriate-for-our-blog)
-- **tags:** Suggested keywords that can help readers find information from among our blog posts
+- **tags:** Suggested keywords that can help readers find information from among our blog posts. Please suggest a few tags following [our guidelines](#tags).
 - **content:** This is the body of the blog post! We recommend relatively short posts (no more than five paragraphs), equivalent to a three minute read. Pictures and links to other sites are also great!
 
 ## Contribute via email
 
-If you'd like to submit a blog post and don't want to deal with technical details, please email your [content](#required-content) to `coophelp` at `fredhutch.org`.
+If you'd like to submit a blog post and don't want to deal with technical details, please email your [content](#required-content-for-a-blog-post) to `coophelp` at `fredhutch.org`.
 
 ## Contribute via GitHub
 
@@ -45,7 +45,7 @@ This blog is published through [GitHub](https://github.com), and we are happy to
 - Fork the [repository](https://github.com/FredHutch/coop)
 - In your fork, create a new branch with a name that reflects your blog post (e.g., `python-december`)
 - Copy the [markdown blog post template](/drafts/TEMPLATE-post-title.md) to a new file named to reflect your post (e.g., `python-december.md`)
-- Modify the header and body of the template to reflect [required content](#required-content), save to the [drafts folder](/drafts/), and commit to your branch
+- Modify the header and body of the template to reflect [required content](#required-content-for-a-blog-post), save to the [drafts folder](/drafts/), and commit to your branch
 - Submit a PR to the `gh-pages` branch in [this repository](https://github.com/FredHutch/coop)
 
 The Coop blog maintainers will review your content and ask for clarification if needed. When everyone is satisfied, we'll accept the pull request and arrange for the post to be published.
@@ -56,7 +56,7 @@ We list all contributors on our [Contributors](({{ site.baseurl }}/contributors/
 - title
 - position
 - affiliation
-- each of the links
+- links (GitHub, Twitter, personal website, lab website, etc)
 
 If you would prefer to not be listed on our contributors page, you should encase your name in quotation marks in the `author` field of your post.
 
@@ -64,6 +64,7 @@ If you would prefer to not be listed on our contributors page, you should encase
 
 The information below is for maintainers of this blog (members of the team coop-blog-maintainers). This includes:
 - [Reviewing and publishing blog posts](#reviewing-and-publishing)
+- [Tags](#tags)
 - [Formatting and layout](#formatting-and-layout)
 
 ### Reviewing and publishing
@@ -73,21 +74,25 @@ Submitted posts are reviewed, edited, and published by the Coop blog maintainer 
 For team members:
 
 - If a submission is received via email, create a new branch and add the post to the drafts folder, then proceed as described below for pull requests.
-- Pull requests (PRs) are accepted from contributors forking the repository and adding a new file to the [drafts folder](#drafts).
-- Review the pull request to ensure all [required content](#required-content) is present, and also edit for grammar, spelling, and formatting.
-- Accept/merge the PR when the content meets requirements, ensuring the file is located in the [drafts folder](#drafts).
+- Pull requests (PRs) are accepted from contributors forking the repository and adding a new file to the [drafts folder](/drafts/).
+- Review the pull request to ensure all [required content](#required-content-for-a-blog-post) is present, and also edit for grammar, spelling, and formatting.
+- Accept/merge the PR when the content meets requirements, ensuring the file is located in the [drafts folder](/drafts/).
 - Change the filename to include the required [`YEAR-MONTH-DAY-title.md` format](https://mmistakes.github.io/minimal-mistakes/docs/posts/) and ensure the [front matter](https://jekyllrb.com/docs/front-matter/) is accurately formatted. Extra notes on front matter:
   - `categories` should be one or more of `Science`, `Technical`, `Community` (note capitalization)
   - `tags` should be lowercase
   - `last_modified_at` is only required to override the date in the filename
-- If the author is a first-time contributor, you may need to create a [contributor file](#adding-yourself-as-contributor) for them.
+- If the author is a first-time contributor, you may need to create a [contributor file](#adding-yourself-as-a-contributor) for them.
 - If necessary, build the site locally to [render posts in the drafts folder](https://jekyllrb.com/docs/posts/#drafts) prior to publishing.
 - Publish the post by moving it to the [posts folder](/posts/), and notify the submitter when it is available.
 - Delete the branch for the PR (if necessary).
 
 ### Tags
 
-Tags should appear in lowercase, and may represent a variety of different characteristics.
+Tags should appear in lowercase, and may represent a variety of different characteristics:
+- coding language (e.g., r, python)
+- a community group or slack channel (e.g., data viz, shiny)
+- your lab, research group, or division at Fred Hutch
+- general topics (e.g., workflows, automation, reproducibility)
 
 ### Formatting and layout
 
