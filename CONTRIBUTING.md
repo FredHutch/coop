@@ -28,14 +28,15 @@ For some ideas, check out our [GitHub issues for potential blog topics](https://
 
 ## Required content for a blog post
 
-- **Title:** A short, catchy description of to entice readers
-- **Category:** Community, Technical, or Science, as described [above](#what-kind-of-posts-are-appropriate-for-our-blog)
-- **Tags:** Suggested keywords that can help readers find information from among our blog posts
-- **Blog content:** This is the body of the blog post! We recommend relatively short posts (no more than five paragraphs), equivalent to a three minute read. Pictures and links to other sites are also great!
+- **title:** A short, catchy description of to entice readers
+- **author:** Your name, which should match your [contributor file](#adding-yourself-as-contributor). If you do not have a contributor file, please feel free to contact one of our team members to assist you.
+- **categories:** Community, Technical, or Science, as described [above](#what-kind-of-posts-are-appropriate-for-our-blog)
+- **tags:** Suggested keywords that can help readers find information from among our blog posts
+- **content:** This is the body of the blog post! We recommend relatively short posts (no more than five paragraphs), equivalent to a three minute read. Pictures and links to other sites are also great!
 
 ## Contribute via email
 
-If you'd like to submit a blog post and don't want to deal with technical details, please email your [content](#required-content) to `coophelp` at `fredhutch.org`
+If you'd like to submit a blog post and don't want to deal with technical details, please email your [content](#required-content) to `coophelp` at `fredhutch.org`.
 
 ## Contribute via GitHub
 
@@ -51,7 +52,13 @@ The Coop blog maintainers will review your content and ask for clarification if 
 
 ## Adding yourself as a contributor
 
-More information coming soon!
+We list all contributors on our [Contributors](({{ site.baseurl }}/contributors/)) page. This page is rendered from files in the (contributors)[/contributors/] folder. You can create one of your own by using one of our current authors as a template, changing the following fields:
+- title
+- position
+- affiliation
+- each of the links
+
+If you would prefer to not be listed on our contributors page, you should encase your name in quotation marks in the `author` field of your post.
 
 ## Errata
 
@@ -65,16 +72,18 @@ Submitted posts are reviewed, edited, and published by the Coop blog maintainer 
 
 For team members:
 
-- Pull requests (PR) are accepted from contributors forking the repository and adding a new file to the [drafts folder](#drafts).
+- If a submission is received via email, create a new branch and add the post to the drafts folder, then proceed as described below for pull requests.
+- Pull requests (PRs) are accepted from contributors forking the repository and adding a new file to the [drafts folder](#drafts).
 - Review the pull request to ensure all [required content](#required-content) is present, and also edit for grammar, spelling, and formatting.
 - Accept/merge the PR when the content meets requirements, ensuring the file is located in the [drafts folder](#drafts).
 - Change the filename to include the required [`YEAR-MONTH-DAY-title.md` format](https://mmistakes.github.io/minimal-mistakes/docs/posts/) and ensure the [front matter](https://jekyllrb.com/docs/front-matter/) is accurately formatted. Extra notes on front matter:
   - `categories` should be one or more of `Science`, `Technical`, `Community` (note capitalization)
   - `tags` should be lowercase
   - `last_modified_at` is only required to override the date in the filename
+- If the author is a first-time contributor, you may need to create a [contributor file](#adding-yourself-as-contributor) for them.
 - If necessary, build the site locally to [render posts in the drafts folder](https://jekyllrb.com/docs/posts/#drafts) prior to publishing.
 - Publish the post by moving it to the [posts folder](/posts/), and notify the submitter when it is available.
-- If a submission is received via email, one of the team members will create a new branch and add the post to the drafts folder, then create the pull request and proceed as described above.
+- Delete the branch for the PR (if necessary).
 
 ### Tags
 
