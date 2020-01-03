@@ -4,6 +4,9 @@ author: The Coop Team
 last_modified_at: 2019-11-13T16:20:02-05:00
 categories:
   - Community
+tags:
+  - announcement
+  - communication
 ---
 
 Are you a [Fred Hutch](https://www.fredhutch.org/en.html) employee actively involved in data-intensive research? Are you interested in learning more about this type of research? Well, you've come to the right place!
