@@ -28,7 +28,7 @@ For some ideas, check out our [GitHub issues for potential blog topics](https://
 
 ## Required content for a blog post
 
-- **title:** A short, catchy description of to entice readers
+- **title:** A short, catchy description to entice readers
 - **author:** Your name, which should match your [contributor file](#adding-yourself-as-a-contributor). If you do not have a contributor file, please feel free to contact one of our team members to assist you.
 - **categories:** Community, Technical, or Science, as described [above](#what-kind-of-posts-are-appropriate-for-our-blog)
 - **tags:** Suggested keywords that can help readers find information from among our blog posts. Please suggest a few tags following [our guidelines](#tags).
@@ -52,7 +52,7 @@ The Coop blog maintainers will review your content and ask for clarification if 
 
 ## Adding yourself as a contributor
 
-We list all contributors on our [Contributors](({{ site.baseurl }}/contributors/)) page. This page is rendered from files in the (contributors)[/contributors/] folder. You can create one of your own by using one of our current authors as a template, changing the following fields:
+We list all contributors on our [Contributors](https://fredhutch.github.io/coop/contributors/) page. This page is rendered from files in the [gh-pages/contributors/](https://github.com/FredHutch/coop/tree/gh-pages/_contributors) folder. You should create one of your own by using one of our current authors as a template, changing the following fields:
 - title
 - position
 - affiliation
@@ -93,6 +93,13 @@ Tags should appear in lowercase, and may represent a variety of different charac
 - a community group or slack channel (e.g., data viz, shiny)
 - your lab, research group, or division at Fred Hutch
 - general topics (e.g., workflows, automation, reproducibility)
+
+Tags are added to your post by adding the following structure to your post's markup:
+```
+tags: # here we have added tags to R and python to the blog post
+   - r
+   - python
+ ```
 
 ### Formatting and layout
 
