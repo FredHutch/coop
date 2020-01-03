@@ -4,8 +4,8 @@ author: Carly Strasser
 categories: # delete the categories that do not apply
   - Community
 tags: # add a few lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
-  - coop
-  - year-in-review
+  - announcement
+  - year in review
 ---
 
 In July of 2018, I found myself at a Mexican restaurant in South Lake Union, sitting across the booth from a friend-of-a-friend and future colleague, Kate Hertweck. I hadn’t yet started at Fred Hutch, and Kate had only been there a few weeks, but we both agreed we were going to bring positive change to the organization.
