@@ -13,7 +13,7 @@ tags:
 
 At the Coop, or the Hutch's [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html), Slack is used to create and support a community of researchers, scientists, post-docs and all groups and individuals within the community interested in bioinformatics and data science. It’s a great place to get support for a particular tool, ask a question, or get guidance from others within the community like yourself.
 
-![slack_convo](/assets/slack-discussions/2020-01-08-11-44-45.png)
+![slack-convo](/assets/slack-new/2020-01-08-13-10-10.png)
 
 [Slack](https://slack.com) is also used by many more teams and departments here and abroad to communicate. If you already have Slack installed or know how to do so go ahead and continue on else if you are brand new to Slack heading to the [_Getting Started_](https://slack.com/help/articles/218080037-getting-started-for-new-members) on the company’s page may benefit you , then come back : )
 
@@ -33,6 +33,8 @@ Click the plus sign next to "Channel" on the sidebar to search for existing chan
 - *#question-and-answer* - This is the place to ask questions related to scientific computing, bioinformatics, statistics, data sciences, programming or anything technical/academic. And please help us and share your knowledge here as well
 - *#r-user-comm* - Slack channel focused on R users where you can converse with other R users across the organization about approaches, tools, packages, or problems
 
-Once joined and viewing a channel make sure to check out the channel’s _details_, _highlights_ and any _pinned items_ which you can see by clicking and viewing channel details as they contain valuable information which may be of help to you.
+Once joined and viewing a channel make sure to check out the channel’s _details_, _highlights_ and any _pinned items_ which you can see by clicking and viewing channel details as they contain valuable information which may be of help to you. Additionally, you might want to fill out your [profile](https://slack.com/help/articles/204092246-Edit-your-profile) on slack as well.
+
+![slack_profile](/assets/slack-new/2020-01-08-13-04-43.png)
 
 [Check this blog post out](_drafts/slack-discussions.md) for some ideas to keep supportive communication flowing on slack.

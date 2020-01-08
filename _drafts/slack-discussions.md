@@ -11,7 +11,7 @@ tags:
 
 At the Coop, or the Hutch's [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html), Slack is used to create and support a community of researchers, scientists, post-docs and all groups and individuals within the community interested in bioinformatics and data science. It’s a great place to get support for a particular tool, ask a question, or get guidance from others within the community like yourself.
 
-![slack_convo](/assets/slack-discussions/2020-01-08-11-44-45.png)
+![slack-convo](/assets/slack-discussions/2020-01-08-13-10-33.png)
 
 [Slack](https://slack.com) is also used by many more teams and departments here and abroad to communicate. If you are new to Slack check out our [introduction post here](_posts/slack-new.md).
 
@@ -38,4 +38,6 @@ Here are some ideas to keep supportive communication flowing.
 - Do not double post. Only ask a question once, in the relevant channel but feel free to cross post to other relevant channels by sharing the link to the original post or question
 - Want to collect some polling data in the channel for your lab or team? Check out [Polls](https://simplepoll.rocks/faq/) which allows you to conduct polls within the Slack channel
 - [Emojis](https://slack.com/help/articles/202931348-use-emoji-and-emoticons)
+- [Wanna use gifs?](https://slack.com/help/articles/204714258-giphy-for-slack)
+- [Or disable the gifs](https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji)
 - Who moderates the communities??? The communities moderate the communities.
