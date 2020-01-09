@@ -45,7 +45,7 @@ This blog is published through [GitHub](https://github.com), and we are happy to
 - Fork the [repository](https://github.com/FredHutch/coop)
 - In your fork, create a new branch with a name that reflects your blog post (e.g., `python-december`)
 - Copy the [markdown blog post template](/drafts/TEMPLATE-post-title.md) to a new file named to reflect your post (e.g., `python-december.md`)
-- Modify the header and body of the template to reflect [required content](#required-content-for-a-blog-post), save to the [drafts folder](/drafts/), and commit to your branch
+- Modify the header and body of the template to reflect [required content](#required-content-for-a-blog-post), save to the [drafts folder](https://github.com/FredHutch/coop/tree/gh-pages/_drafts), and commit to your branch
 - Submit a PR to the `gh-pages` branch in [this repository](https://github.com/FredHutch/coop)
 
 The Coop blog maintainers will review your content and ask for clarification if needed. When everyone is satisfied, we'll accept the pull request and arrange for the post to be published.
