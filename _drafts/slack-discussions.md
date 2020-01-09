@@ -1,5 +1,5 @@
 ---
-title: "Slack is a communication"
+title: "Slack is a communication tool"
 author: The Coop Team
 categories:
   - Community
