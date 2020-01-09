@@ -1,0 +1,39 @@
+---
+title: "Welcome to the URSSI" # replace with the title of your post, a short catchy description to entice readers
+author: Justin Burge # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
+categories: # delete the categories that do not apply and keep at least one
+  - Community
+  - Technical
+  - Science
+tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
+  - reproducibility
+  - open science
+  - r
+  - python
+---
+Back in August of last year Kate posted this awesome opportunity with [URSSI](http://urssi.us/about/) to the #general channel on Slack...
+
+![URSSI-slack](/assets/URSSI/2020-01-08-16-11-28.png)
+
+I applied, got accepted and spent December 17-19th at the University of Washington's eScience Institute learning more about research software engineering. The [URSSI Winter School](http://urssi.us/blog/2019/07/09/applications-now-open-for-the-urssi-winter-school-in-research-software-engineering/) was aimed at early-career researchers, including graduate students and postdocs, who are familiar with the basics such as the Unix shell, version control with Git, and Python programming, yet would like to learn more about best-practices for developing research software in a hands-on workshop. What did I learn?
+
+Topics that were covered included:
+- Software design and modularity
+- Collaborative software development via GitHub
+- Software testing in Python
+- Peer code review
+- Packaging and distributing Python software
+- Documentation
+- Licensing, open sharing, and software citation
+
+The two and half days consisted of lectures on these topics along with hands-on exercises that allowed participates to practice the concepts covered in the lectures. The Principal Investigator, [Karthik Ram](https://github.com/karthik), the [instructors](https://github.com/si2-urssi/winterschool#instructors), as well as the [teaching assistants](https://github.com/si2-urssi/winterschool#teaching-assistants) were all amazing! They brought first-hand experience, were knowledgeable, and more than willing to assist and help on an one-on-one basis. I don't know if URSSI plans on holding the Winter School again at the University of Washington but if so and you can make it and are interested I highly recommend it. I plan on writing in the near future more posts going deeper in-depth on these topics but I wanted in the short-term to at least share with the community and link-out to [some of their decks and materials](https://github.com/si2-urssi/winterschool) which might be helpful. So without further ado...
+
+- [Software Design](http://carver.cs.ua.edu/Slides/URSSI-WinterSchool-Design.pdf)
+- [Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)
+- [Structuring Python Packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/)
+- [Collaboration with Git/GitHub/Workflows](http://inundata.org/talks/git-collaboration/#/) & [Git Exercises](https://jameshowison.github.io/peer_production_course/docs/additional_git_exercises.html)
+- [Testing and Continuous Integration](https://kyleniemeyer.github.io/research-software-dev-modules/module-testing-ci/)
+- [Peer Code Review](http://carver.cs.ua.edu/Slides/URSSI-WinterSchool-PeerCodeReview.pdf)
+- [Open Science & Software Citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) & [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/)
+
+Thanks for supporting our community, and stay tuned for more information!
