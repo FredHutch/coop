@@ -66,6 +66,8 @@ The information below is for maintainers of this blog (members of the team coop-
 - [Reviewing and publishing blog posts](#reviewing-and-publishing)
 - [Tags](#tags)
 - [Formatting and layout](#formatting-and-layout)
+- [Check for broken links](#checking-for-broken-links)
+- [Referencing a Fred Hutch username](referencing-a-fred-hutch-username)
 
 ### Reviewing and publishing
 
@@ -113,3 +115,15 @@ tags: # here we have added tags to R and python to the blog post
 - Additional modifications for the blog theme are from:
   - [Bioinformatics Interest Group (FHBig)](https://fredhutch.github.io/FHBig/)
   - [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org)
+
+### Checking for broken links
+To check for broken links, you can type `rake test`. This will exit with an error if there are any broken links, and list the broken links and the files they are found in.
+
+If you are inside the Fred Hutch network, you can type `rake testlocal` and that will include internal URLs in the check.
+
+### Referencing a Fred Hutch username
+Please if you need to reference a Fred Hutch username, do not write the entire email address out, just put the username in backticks like this:
+
+```
+`username`
+```
