@@ -1,5 +1,5 @@
 ---
-title: "Slack is a communication tool"
+title: "Ideas to keep supportive Slack communication flowing"
 author: The Coop Team
 categories:
   - Community
