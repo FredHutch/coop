@@ -5,7 +5,6 @@ title: ''
 labels: post
 projects: Content Calendar
 assignees: ''
-
 ---
 **Title:** _(A short, catchy description to entice readers)_
 
