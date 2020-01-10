@@ -3,6 +3,7 @@ name: Blog post idea
 about: Describe your idea for a blog post
 title: ''
 labels: post
+projects: Content Calendar
 assignees: ''
 
 ---
