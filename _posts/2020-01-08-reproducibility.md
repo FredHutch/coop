@@ -2,9 +2,9 @@
 title: "December 2019 Coop Panel Summary: Reproducibility in data-intensive science"
 author: Kate Hertweck
 categories: # delete the categories that do not apply
-#  - Community
-#  - Technical
-  - Science
+  - Community
+  - Technical
+#  - Science
 tags:   # add a few lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - reproducibility
   - open science
