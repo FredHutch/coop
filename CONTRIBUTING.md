@@ -65,7 +65,8 @@ If you would prefer to not be listed on our contributors page, you should encase
 The information below is for maintainers of this blog (members of the team coop-blog-maintainers). This includes:
 - [Reviewing and publishing blog posts](#reviewing-and-publishing)
 - [Tags](#tags)
-- [Formatting and layout](#formatting-and-layout)
+- [Formatting and style](#formatting-and-style)
+- [Rendering and layout](#rendering-and-layout)
 
 ### Reviewing and publishing
 
@@ -101,15 +102,53 @@ tags: # here we have added tags to R and python to the blog post
    - python
  ```
 
-### Formatting and layout
+### Formatting and style
 
-- This blog renders from the `gh-pages` branch.
-- The template for the blog is [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). The following links and language were included in the original README and are copied here for convenience:
+- Please do not include entire email addresses in a post. If you would like to include contact information for a Fred Hutch email, please put the username in backticks like this:
+
+```
+`username`
+```
+
+### Rendering and layout
+
+- The template for the blog is [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). Additional modifications for the blog theme are from:
+  - [Bioinformatics Interest Group (FHBig)](https://fredhutch.github.io/FHBig/)
+  - [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org)
+- General information on Minimal Mistakes rendering was included in the template's README and are copied here for convenience:
   - Please see [this page](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) for additional information on configuration.
   - If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll).
   - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
   - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
   - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
-- Additional modifications for the blog theme are from:
-  - [Bioinformatics Interest Group (FHBig)](https://fredhutch.github.io/FHBig/)
-  - [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org)
+- This blog renders from the `gh-pages` branch.
+
+#### Building the site locally
+
+You may want to build a copy of this wiki locally (on your own computer) to make sure that it looks the way you want before pushing your changes.
+
+1. Clone the repo locally
+1. Install Ruby (version 1.9.2 or later).
+**Note**: most modern Mac computers already have Ruby installed. If you still need Ruby,
+it can be found [here](https://www.ruby-lang.org/en/downloads/).
+1. On Mac, install xcode commandline tools `xcode-select --install`
+
+1. You may need to install `bundler`. Type
+   `which bundler` to see if it is already
+   installed. If nothing is returned, then
+   install `bundler` with `gem install bundler`.
+   If that fails, try `sudo gem install bundler`.
+   
+1. You may need to install gems used by the site.
+   Type `gem install -g Gemfile` to install all of the gems the site uses.
+
+1. To build and view the site locally, from the cloned repo directory run
+   `bundle install` then run `bundle exec jekyll serve`. Once the
+   site is built you can view it at
+   [http://localhost:4000](http://localhost:4000).
+
+#### Checking for broken links
+
+To check for broken links, run `rake test` on your clone of the repository. This will exit with an error if there are any broken links, and list the broken links and the files they are found in.
+
+If you are inside the Fred Hutch network, you can type `rake testlocal` and that will include internal URLs in the check.
