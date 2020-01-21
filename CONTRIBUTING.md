@@ -104,6 +104,7 @@ tags: # here we have added tags to R and python to the blog post
 
 ### Formatting and style
 
+- For subheadings, use second-level markdown formatting (```##```) and [sentence case](https://apastyle.apa.org/style-grammar-guidelines/capitalization/sentence-case).
 - Please do not include entire email addresses in a post. If you would like to include contact information for a Fred Hutch email, please put the username in backticks like this:
 
 ```
