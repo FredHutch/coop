@@ -41,6 +41,7 @@ If you are viewing the conversations in a channel and would like to know more ab
 Click on "Channel" in the left sidebar to see other channels available in our workspace. Select a channel to view the most recent posts and decide if you'd like to join. Some of the most popular channels currently available include:
 
 - *#data-viz* - Discussion about methods of data visualization, announcements for the weekly Data Viz Group.
+- *#nextflow* - Working group to develop and troubleshoot pipelines for Nextflow workflow manager
 - *#python-user-comm* - Topics related to Python coding, including programming methods, packages, IDEs, projects, and the weekly Python User Group.
 - *#r-user-comm* - Troubleshooting and recommendations for R statistical programming, including the weekly R User Group. May periodically feature pirate jokes.
 
