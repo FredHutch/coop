@@ -1,5 +1,5 @@
 ---
-title: "Ideas to keep supportive Slack communication flowing"
+title: "Making the most of Slack"
 author: The Coop Team
 categories:
   - Community
@@ -9,35 +9,48 @@ tags:
   - onboarding
 ---
 
-At the Coop, or the Hutch's [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html), Slack is used to create and support a community of researchers, scientists, post-docs and all groups and individuals within the community interested in bioinformatics and data science. It’s a great place to get support for a particular tool, ask a question, or get guidance from others within the community like yourself.
+In our [previous post](_posts/slack-new.md), we provided a basic introduction to Slack as a communication mechanism and oriented you to Fred Hutch's Coop Communities Slack workspace. A few reminders that are useful even for existing members:
+- Fill out your [profile](https://slack.com/help/articles/204092246-Edit-your-profile) to maximize your networking opportunities!
+- Find more channels by clicking "Channel" in the lefthand sidebar, and look at the channel details for more information.
 
 ![slack-convo](/assets/slack-discussions/2020-01-08-13-10-33.png)
 
-[Slack](https://slack.com) is also used by many more teams and departments here and abroad to communicate. If you are new to Slack check out our [introduction post here](_posts/slack-new.md).
+Once you have a feel for how Slack works, here are some ideas to customize your workspace and make the most of this resource.
 
-_Channels_, which most are open, help you organize conversations around a topic or project within the workspace. When you make a channel, then everyone can see the conversation and what is discussed in that channel. It’s a good idea to create channels for different projects, topics, or a conversation between team members. You can also create private channels if you want to have a private discussion with just a few team members. Additionally, you can direct message a member which works like email reaching a member or multiple members quickly and directly.
+## Managing discussions
 
-Click the plus sign next to "Channel" on the sidebar to search for existing channels. Then select the channel of interest you want to join. [Here are some established channels](https://sciwiki.fredhutch.org/scicomputing/reference_training/#community-groups) at the Hutch that you may want to join. These channels are design to help create and support the bioinformatic community here at Fred Hutch.
+If you're wondering _How do I get started?_ or _Where do I post?_, here are some tips to help you think about the best way to converse with other people in Slack channels.
 
-Once joined and viewing a channel make sure to check out the channel’s _details_, _highlights_ and any _pinned items_ which you can see by clicking and viewing channel details as they contain valuable information which may be of help to you.
+- Post in the appropriate channel based on subject matter, tool, or topic. Sometimes this can be challenging to determine in a new-to-you workspace, but the channel descriptions should help guide you. It usually helps to choose the most specific channel possible. For example, a question about the best R package for a certain type of data visualization could go in #general, #question-and-answer, or #data-viz, but would probably get the most responses in #r-user-group since it's specific to a certain programming language.
+- If you'd like to respond directly to someone else's post on Slack, start a **thread!** [_Threads_](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-) allow you to reply directly to a message, preserve context and encourage conversation without distracting the larger channel's conversational flow. To start a thread, hover over the message in the channel you want to converse about and click the "Start a thread" icon.
+- We recommend not double posting the same question in multiple channels, as it can be confusing keeping track of answers. If you think another channel might be able to help, we've had luck sharing the link to the original post or question (click on the three dots to the right of the post to find the "Copy link" option).
 
-Here are some ideas to keep supportive communication flowing.
+## Notifications
 
-- A member says something in a channel that you want to converse or add to but _what do you do_? **You start a thread.** [_Threads_](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-) allow you to reply directly to a message, preserve context and encourage conversation without distracting the larger channel's conversational flow. To start a thread, hover over the message in the channel you want to converse about and click the "Start a thread" icon.
-- You can use the at sign “@” combined with certain keywords like `@everyone` or `@channel` to alter the way members are notified about the message in which you embed them in. **BUT** with great power comes great responsibility and _there is an etiquette_ to using these `@terms` and they are listed below.
-- do not `@` unless you really mean it and it would be of value to the group
-- `@channel` - alerts anyone who has joined the channel whether they are online or not
-- `@here` - only alerts people who are both in the channel and currently using Slack (ex. time sensitive stuff use this one)
-- `@all` - alerts everyone in the group
-- `@everyone` - is only to be used in a team’s _#general_ channel
-- You can also [change your notifications levels](https://slack.com/help/articles/201355156-guide-to-desktop-notifications) as well
-- Use threads when appropriate. When responding to an old message, respond in a or to the thread so that it is easier to follow the conversation and doesn’t disrupt other conversations that may be happening in the larger channel
-- Tag someone if you are speaking to them using `@` then type in their name
-- Format your code properly. When sharing code, use single backticks (`) for short code snippets, and triple backticks (```) for multi-line code snippets
-- Post in the appropriate channel based on subject matter, tool, or topic
-- Do not double post. Only ask a question once, in the relevant channel but feel free to cross post to other relevant channels by sharing the link to the original post or question
-- Want to collect some polling data in the channel for your lab or team? Check out [Polls](https://simplepoll.rocks/faq/) which allows you to conduct polls within the Slack channel
-- [Emojis](https://slack.com/help/articles/202931348-use-emoji-and-emoticons)
-- [Wanna use gifs?](https://slack.com/help/articles/204714258-giphy-for-slack)
-- [Or disable the gifs](https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji)
-- Who moderates the communities??? The communities moderate the communities.
+Do you have an urgent announcement that requires immediate attention, or would you like to give specific people a heads-up about your post? Slack allows you to notify people using the at sign (@). With great power comes great responsibility, so here are a few hints to proper etiquette when people in Slack.
+
+Use the appropriate `@` for your purpose:
+- `@username` - [notifies an individual](https://slack.com/help/articles/205240127-Mention-a-member) that your comment is directed at them; if you aren't sure of someone's username, try typing `@` and Slack will show a list of members. Start typing a name to narrow down the options.
+- `@here` - alerts only people who are both in the channel and currently using Slack; inactive users will receive the notification the next time they open Slack. This is our preferred method of notifying users about optional but time-sensitive messages.
+- `@channel` - alerts anyone who has joined the channel whether they are online or not; we use this for urgent messages and high-priority messages.
+- `@everyone` - notifies everyone in the Slack workspace.
+
+Because the last three methods [notify a group of people](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace), we suggest using them only infrequently. This is because folks who have Slack installed on their desktops and phones probably don't want to receive too many notifications! If you're interested in modifying when you receive notifications through Slack and for what purpose, please see Slack's guides to [mobile notifications](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace) and [desktop notifications](https://slack.com/help/articles/201355156-Guide-to-desktop-notifications).
+
+## Formatting and post content
+
+Writing and responding to posts in Slack is fairly straightforward, and Slack's instructions to [formatting messages](https://slack.com/help/articles/202288908-Format-your-messages) covers the basics. A few additional tips to managing messages on Slack:
+
+- If you're including computer code in your post, there are a few ways you can make it more legible for your colleagues. If referencing code inline (within a sentence), surround the code with backtick symbols (`), so it appears as `computer code`. For multiple lines in a code chunk, begin your text with triple backticks (```), so it formats as a block of code:
+
+![formatting code]({{ site.baseurl }}/assets/slack-discussions/2020-01-28-11-02-11.png)
+
+- If you're sharing more than a few lines of code, consider creating a [code snippet](https://slack.com/help/articles/204145658-Create-a-snippet).
+- Want to collect some polling data in the channel for your lab or team? We've enabled [polls](https://simplepoll.rocks/faq/) in our workspace so you can quickly gain feedback.
+- A wide variety of emojis are available in Slack, and can be used both within messages and as reactions to posts. Learn more about finding emojis and even adding custom emojis [here](https://slack.com/help/articles/202931348-use-emoji-and-emoticons).
+- We've enabled the use of gifs in our workspace through the [Giphy app](https://slack.com/help/articles/204714258-giphy-for-slack). If animated images and emojis are
+- Animated images and emojis can be distracting for some participants. Slack includes an option to [disable animations and gifs](https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji)
+
+## Getting help
+
+Still have questions? The [Slack Help Center](https://slack.com/help) has lots of great tips! Also feel free to contact a [member of the Coop Team](https://research.fhcrc.org/coop/en/contact.html) or email `coophelp` at `fredhutch.org`.
