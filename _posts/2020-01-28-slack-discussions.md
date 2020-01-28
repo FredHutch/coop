@@ -13,7 +13,7 @@ In our [previous post](_posts/slack-new.md), we provided a basic introduction to
 - Fill out your [profile](https://slack.com/help/articles/204092246-Edit-your-profile) to maximize your networking opportunities!
 - Find more channels by clicking "Channel" in the lefthand sidebar, and look at the channel details for more information.
 
-![slack-convo](/assets/slack-discussions/2020-01-08-13-10-33.png)
+![slack-convo]({{ site.baseurl }}/assets/slack-discussions/2020-01-08-13-10-33.png)
 
 Once you have a feel for how Slack works, here are some ideas to customize your workspace and make the most of this resource.
 
