@@ -41,9 +41,9 @@ Because the last three methods [notify a group of people](https://slack.com/help
 
 Writing and responding to posts in Slack is fairly straightforward, and Slack's instructions to [formatting messages](https://slack.com/help/articles/202288908-Format-your-messages) covers the basics. A few additional tips to managing messages on Slack:
 
-- If you're including computer code in your post, there are a few ways you can make it more legible for your colleagues. If referencing code inline (within a sentence), surround the code with backtick symbols (`), so it appears as `computer code`. For multiple lines in a code chunk, begin your text with triple backticks, so it formats as a block of code:
+- If you're including computer code in your post, there are a few ways you can make it more legible for your colleagues. If referencing code inline (within a sentence), surround the code with backtick symbols (`), so it appears as `computer code`. For multiple lines in a code chunk, begin your text with triple backticks (```), so it formats as a block of code:
 
-![image placeholder](/assets/slack-discussions/)
+![formatting code]({{ site.baseurl }}/assets/slack-discussions/2020-01-28-11-02-11.png)
 
 - If you're sharing more than a few lines of code, consider creating a [code snippet](https://slack.com/help/articles/204145658-Create-a-snippet).
 - Want to collect some polling data in the channel for your lab or team? We've enabled [polls](https://simplepoll.rocks/faq/) in our workspace so you can quickly gain feedback.
