@@ -27,7 +27,7 @@ If you're wondering _How do I get started?_ or _Where do I post?_, here are some
 
 ## Notifications
 
-Do you have an urgent announcement that requires immediate attention, or would you like to give specific people a heads-up about your post? Slack allows you to notify people using the at sign (@). With great power comes great responsibility, so here are a few hints to proper etiquette when people in Slack.
+Do you have an urgent announcement that requires immediate attention, or would you like to give specific people a heads-up about your post? Slack allows you to notify people using the at sign (@). With great power comes great responsibility though, so here are a few hints for proper etiquette when communicating with people in Slack.
 
 Use the appropriate `@` for your purpose:
 - `@username` - [notifies an individual](https://slack.com/help/articles/205240127-Mention-a-member) that your comment is directed at them; if you aren't sure of someone's username, try typing `@` and Slack will show a list of members. Start typing a name to narrow down the options.
@@ -41,14 +41,14 @@ Because the last three methods [notify a group of people](https://slack.com/help
 
 Writing and responding to posts in Slack is fairly straightforward, and Slack's instructions to [formatting messages](https://slack.com/help/articles/202288908-Format-your-messages) covers the basics. A few additional tips to managing messages on Slack:
 
-- If you're including computer code in your post, there are a few ways you can make it more legible for your colleagues. If referencing code inline (within a sentence), surround the code with backtick symbols (`), so it appears as `computer code`. For multiple lines in a code chunk, begin your text with triple backticks (```), so it formats as a block of code:
+- If you're including computer code in your post, there are a few ways you can make it more legible for your colleagues. If referencing code inline (within a sentence), surround the code with backtick symbols (\`), so it appears as `computer code`. For multiple lines in a code chunk, begin your text with triple backticks (\`\`\`), so it formats as a block of code:
 
 ![formatting code]({{ site.baseurl }}/assets/slack-discussions/2020-01-28-11-02-11.png)
 
 - If you're sharing more than a few lines of code, consider creating a [code snippet](https://slack.com/help/articles/204145658-Create-a-snippet).
-- Want to collect some polling data in the channel for your lab or team? We've enabled [polls](https://simplepoll.rocks/faq/) in our workspace so you can quickly gain feedback.
+- Want to collect some polling data in the channel from your lab or team? We've enabled [polls](https://simplepoll.rocks/faq/) in our workspace so you can quickly poll your group and gain feedback.
 - A wide variety of emojis are available in Slack, and can be used both within messages and as reactions to posts. Learn more about finding emojis and even adding custom emojis [here](https://slack.com/help/articles/202931348-use-emoji-and-emoticons).
-- We've enabled the use of gifs in our workspace through the [Giphy app](https://slack.com/help/articles/204714258-giphy-for-slack). If animated images and emojis are
+- We've also enabled the use of gifs in our workspace through the [Giphy app](https://slack.com/help/articles/204714258-giphy-for-slack).
 - Animated images and emojis can be distracting for some participants. Slack includes an option to [disable animations and gifs](https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji)
 
 ## Getting help
