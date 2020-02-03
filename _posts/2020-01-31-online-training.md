@@ -16,7 +16,7 @@ Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScwxpSP6WDn
 - About you: name, email, affiliation
 - About the course: link to where it is located online, anticipated timeline and cost
 
-The deadline for applications is noon on Monday, February 18. Please keep in mind the following guidelines:
+The deadline for applications is noon on Tuesday, February 18. Please keep in mind the following guidelines:
 - You must be a Fred Hutch employee to receive the award.
 - The payment for the course or subscription must be completed between March 1 and June 30.
 - Following the February 18 application deadline, the Coop Team will assess all applications and prioritize funding based on availability of equivalent resources at Fred Hutch and potential impact on current research. Awardees will be notified by February 25.
