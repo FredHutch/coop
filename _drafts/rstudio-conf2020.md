@@ -11,12 +11,22 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
 
 Conference overview https://blog.rstudio.com/2019/07/15/rstudio-conf-2020/
 Videos of all talks will eventually be available on [RStudio's resources page](https://resources.rstudio.com)
+Workshop materials here: https://github.com/rstudio-conf-2020
+Twitter feed: https://twitter.com/search?q=%23rstudioconf2020
 
-Jenny Bryan's keynote https://github.com/jennybc/debugging#readme
-
-Teacups, Giraffes, and Statistics https://tinystats.github.io/teacups-giraffes-and-statistics/index.html
-TidyBlocks http://tidyblocks.tech
-Data Science for Software Engineering https://ds4se.tech/
-[Jeff Leek](http://jtleek.com/index.html) [Using Data Science to Create Economic Opportunities in Baltimore](https://docs.google.com/presentation/d/1ZMrlruXg5yZJPEdKVt5wyMwG89k2e8_maPuFhQwf5u0/edit#slide=id.p)
+Education resources:
+- Teacups, Giraffes, and Statistics https://tinystats.github.io/teacups-giraffes-and-statistics/index.html
+- TidyBlocks http://tidyblocks.tech
+- [Jeff Leek](http://jtleek.com/index.html) [Using Data Science to Create Economic Opportunities in Baltimore](https://docs.google.com/presentation/d/1ZMrlruXg5yZJPEdKVt5wyMwG89k2e8_maPuFhQwf5u0/edit#slide=id.p)
 
 Data visualization tips
+- rayshader package for 3D plots
+- gifski package creates gifs using purrr
+- reduce clutter by adding whitespace and linebreaks
+- a little knowledge about typesetting can go a long way! [Practical Typography](https://practicaltypography.com)
+- color theory, my personal favorite is [ColorBrewer](http://colorbrewer2.org)
+- Rmarkdown themes, gallery [here](https://www.datadreaming.org/post/r-markdown-theme-gallery/)
+
+More technical:
+- Jenny Bryan's keynote https://github.com/jennybc/debugging#readme
+- Frank Harrell Graphical clinical trial reporting https://www.fharrell.com/talk/rstudio20/
