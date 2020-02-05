@@ -10,9 +10,9 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
 ---
 #### What it is Nextflow?
 
-[Nextflow](https://www.nextflow.io/) is one of a handful of workflow managers that have become popular in the last few years. Generally speaking, workflow managers are software tools that make it easier to run complex bioinformatic analyses that involve multiple steps, each of which may invoke a different piece of software with different environmental dependencies or resource requirements. Other workflow managers that people may recognize are Snakemake, Cromwell, Toil, and CWL. The benefits of a workflow manager like Nextflow is that it makes it easier to run your analysis while transparently managing all of the issues that tend to crop up when running a shell script like missing dependencies, not enough resources, cryptic failures and errors, or unable to easily publish or transfer the workflow to collaborators.
+Workflow managers are software that facilitate the setup, execution, and monitoring of scientific analyses that involve multiple steps. These are especially important for complex bioinformatic analyses that require various software dependencies and resource requirements, and can make your analysis both easier to troubleshoot and more reproducible. [Nextflow](https://www.nextflow.io/) is one of a handful of workflow managers that have become popular in the last few years. Generally speaking, workflow managers are software tools that make it easier to run complex bioinformatic analyses that involve multiple steps, each of which may invoke a different piece of software with different environmental dependencies or resource requirements. Other workflow managers that people may recognize are Snakemake, Cromwell, Toil, and CWL. The benefits of a workflow manager like Nextflow is that it makes it easier to run your analysis while transparently managing all of the issues that tend to crop up when running a shell script like missing dependencies, not enough resources, cryptic failures and errors, or difficulty sharing the workflow with collaborators.
 
-Nextflow is free and open source software distributed under the Apache 2.0 license and is developed by the [Comparative Bioinformatics group](https://www.crg.eu/en/programmes-groups/notredame-lab) at the [Barcelona Centre for Genomic Regulation (CRG)](https://www.crg.eu/). They have extensive documentation on how to write workflows and [run Nextflow on their documentation pages](https://www.nextflow.io/docs/latest/index.html). There is also [NF-Core](https://nf-co.re/), a community effort and curated collection of analysis pipelines built using Nextflow. Think of it as a repository of workflows. Additionally and more importantly, staff and research scientists here at Fred Hutch have created this [page to help get you up and running with Nextflow](https://sciwiki.fredhutch.org/compdemos/nextflow/) using the minimum requirements and AWS for the execution. The Fred Hutch research community is also building out and maintaining a [set of Nextflow workflows here as well](https://github.com/FredHutch/reproducible-workflows/tree/master/nextflow).
+Nextflow is free and open source software distributed under the Apache 2.0 license and is developed by the [Comparative Bioinformatics group](https://www.crg.eu/en/programmes-groups/notredame-lab) at the [Barcelona Centre for Genomic Regulation (CRG)](https://www.crg.eu/). They have extensive documentation on how to write workflows and [run Nextflow on their documentation pages](https://www.nextflow.io/docs/latest/index.html). There is also [NF-Core](https://nf-co.re/), a community effort and curated collection of analysis pipelines built using Nextflow. Think of it as a repository of Nextflow workflows. Additionally and more importantly, staff and research scientists here at Fred Hutch have created this [page to help get you up and running with Nextflow](https://sciwiki.fredhutch.org/compdemos/nextflow/) using the minimum requirements and AWS for the execution. The Fred Hutch research community is also building out and maintaining a [set of Nextflow workflows here as well](https://github.com/FredHutch/reproducible-workflows/tree/master/nextflow).
 
 #### How it is used at Fred Hutch?
 
@@ -24,35 +24,25 @@ A workflow in Nextflow is a text file written in a particular format containing 
         - scaling up with cloud computing resources
         - utilizing detailed workflow summary reports
 
-Some examples of the workflows designed and used here specifically help align proteins with DIAMOND, cluster proteins quicker, provide taxonomy counts using mothur, or provides taxonomic classification. Nextflow workflows are also being used here for concurrently processing large batches of samples for bacterial genomic annotation. Researchers here have implemented a simple workflow which enables any researcher to run the [PGAP, developed by NCBI](https://github.com/ncbi/pgap), genome annotation pipeline on their own collection of bacterial genomes and [details can be found here](https://github.com/FredHutch/PGAP-nf). Nextflow can also be used in ribosomal 16S amplicon analysis using [MaLiAmPi](https://github.com/jgolob/maliampi/) which is a phylogenetic placement-based pipeline for handling 16S rRNA amplicons. It can also be leverage to automate the common task of sequencing the genome of microbial isolates using the [UniCycler assembler in an easy-to-use workflow](https://github.com/FredHutch/unicycler-nf/). The community here has also made it easier with Nextflow to do microbial pan-genome analysis using the [anvi'o software suite](http://merenlab.org/software/anvio/). Now researchers have an easy point of entry with a [workflow that imports a set of bacterial genomes into the anvi’o database format, and then launches a graphical viewer which allows the user to explore their pan-genome collection](https://github.com/FredHutch/nf-anvio-pangenome). Nextflow workflows are also being used here for [microbial RNA seq](https://github.com/FredHutch/microbial-rnaseq) and for [parallelizing whole-genome sequencing](https://github.com/FredHutch/nf-viral-metagenomics) to then align and matchback against reference database yet in a distributed cloud service. More details can be found here, [Bioinformatics Tools for Microbiome Analysis](https://sciwiki.fredhutch.org/compdemos/microbiome_tools/).
+Some examples of the workflows designed and used here specifically help align proteins with DIAMOND, cluster proteins quicker, provide taxonomy counts using mothur, or provides taxonomic classification. Nextflow workflows are also being used here for concurrently processing large batches of samples for bacterial genomic annotation. Researchers here have implemented a simple Nextflow workflow which enables any researcher to run the [PGAP, developed by NCBI](https://github.com/ncbi/pgap), genome annotation pipeline on their own collection of bacterial genomes with more [details found here](https://github.com/FredHutch/PGAP-nf). Nextflow can also be used in ribosomal 16S amplicon analysis using [MaLiAmPi](https://github.com/jgolob/maliampi/) which is a phylogenetic placement-based pipeline for handling 16S rRNA amplicons. It can be leverage to automate the common task of sequencing the genome of microbial isolates using the [UniCycler assembler in an easy-to-use workflow](https://github.com/FredHutch/unicycler-nf/). The community here has also made it easier to do microbial pan-genome analysis with Nextflow using the [anvi'o software suite](http://merenlab.org/software/anvio/). Now researchers have an easy point of entry with a [workflow that imports a set of bacterial genomes into the anvi’o database format](https://github.com/FredHutch/nf-anvio-pangenome), and then launches a graphical viewer which allows the user to explore their pan-genome collection. Nextflow workflows are also being used here for [microbial RNA seq](https://github.com/FredHutch/microbial-rnaseq) and for [parallelizing whole-genome sequencing](https://github.com/FredHutch/nf-viral-metagenomics) to then align and matchback against a reference database in a distributed cloud service. More details about Nextflow-based tools used for microbiome analysis at Fred Hutch can be found here, [Bioinformatics Tools for Microbiome Analysis](https://sciwiki.fredhutch.org/compdemos/microbiome_tools/). Fred Hutch researchers are [building and maintaining](https://github.com/FredHutch?utf8=%E2%9C%93&q=nf&type=&language=) a set of Nextflow workflows for use by the [general community here](https://github.com/FredHutch/reproducible-workflows/tree/master/nextflow) and are also providing [examples of how to write your own workflows](https://sciwiki.fredhutch.org/compdemos/nextflow/) in Nextflow. Check out the supporting documentation on the [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/compdemos/nextflow/).
 
+#### Want to learn more?
 
-Fred Hutch researchers are building and maintaining a set of Nextflow workflows for use by the [general community here](https://github.com/FredHutch/reproducible-workflows/tree/master/nextflow) and  also providing an example of how to write your own workflows.
+If you want to learn more about Nextflow to see if it makes sense for you feel free to use the resources available to you at the Hutch. The [Bioinformatics & Data Science Cooperative or Coop](https://research.fhcrc.org/coop/en.html) supports a series of [community groups](https://sciwiki.fredhutch.org/scicomputing/reference_training/#community-groups) with one of them being for Nextflow. The Nextflow User Group meets every other Thursday in the Coop Lab (Arnold M1-B406) from 11-12pm to discuss issues related to the use of Nextflow. The group welcomes Nextflow users of all levels of expertise as well as those just learning about the tool. Check out the [Coop calendar](https://fredhutch.github.io/FHBig/calendar/) for the latest schedules. In addition to the Nextflow User Group the Coop also supports a #nextflow [slack channel](https://fredhutch.github.io/coop/community/slack-new/) as well and you can find more information about that [here](https://sciwiki.fredhutch.org/scicomputing/reference_training/#community-groups).
 
-Some Nextflow-based tools used for microbiome analysis at Fred Hutch can be found in the accompanying documentation https://sciwiki.fredhutch.org/compdemos/microbiome_tools/
+Finally, the Translational Data Science IRC is sponsoring, with support from the Fred Hutch Microbiome Research Initiative, training in Nextflow April 23-24 which will include
 
-- latest happenings of NF at FH?
-        - Translational Data Science IRC is sponsoring a full training, with support from the Fred Hutch Microbiome Research Initiative, which will include:
-            - Overview of Nextflow workflow system
-            - Language syntax and data structures
-            - Simple pipeline implementation
-            - Pipeline sharing and reproducibility
-            - Managing dependencies with containers
-            - Error recovery and strategies for error handling
-            - Implementation of an example variant calling pipeline
+- Overview of Nextflow workflow system
+- Language syntax and data structures
+- Simple pipeline implementation
+- Pipeline sharing and reproducibility
+- Managing dependencies with containers
+- Error recovery and strategies for error handling
+- Implementation of an example variant calling pipeline
 
-            Apply now for a space in the training at https://www.surveymonkey.com/r/8DT7FBR. There is no cost to attend, but space is limited. Applications will be open until February 21st, and final acceptances will be sent out by March 6th.
-            
-            What: Nextflow Training
-            Where: The Coop Lab (Arnold M1-B406)
-            When: April 23-24, 2020
-            Contact: Sam Minot, Staff Scientist, Microbiome Research Initiative – sminot@fredhutch.org
+Apply now for a space in the training at https://www.surveymonkey.com/r/8DT7FBR. There is no cost to attend, but space is limited. Applications will be open until February 21st, and final acceptances will be sent out by March 6th.
 
-
-
-#### Some of the gotchas
-- link out to Eli's writings
-
-#### Best practices of Nextflow at FH
-
-#### Link out to SciWiki
+What: Nextflow Training
+Where: The Coop Lab (Arnold M1-B406)
+When: April 23-24, 2020
+Contact: Sam Minot, Staff Scientist, Microbiome Research Initiative
