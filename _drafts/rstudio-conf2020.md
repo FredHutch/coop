@@ -28,5 +28,8 @@ Data visualization tips
 - Rmarkdown themes, gallery [here](https://www.datadreaming.org/post/r-markdown-theme-gallery/)
 
 More technical:
-- Jenny Bryan's keynote https://github.com/jennybc/debugging#readme
+- Jenny Bryan's keynote https://github.com/jennybc/debugging#readme, https://resources.rstudio.com/rstudio-conf-2020/object-of-type-closure-is-not-subsettable-jenny-bryan-2
 - Frank Harrell Graphical clinical trial reporting https://www.fharrell.com/talk/rstudio20/
+
+Recommendations from other Hutch attendees:
+- Technical debt is a social issue: https://resources.rstudio.com/rstudio-conf-2020/technical-debt-is-a-social-problem-mr-gordon-shotwell-2
