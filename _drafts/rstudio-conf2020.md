@@ -26,6 +26,6 @@ There were multiple awesome sessions focusing on data visualization principles a
 
 These presentations are more technical, but may be of interest to folks at the Hutch:
 - Jenny Bryan's keynote on debugging has loads of useful information! [GitHub](https://github.com/jennybc/debugging#readme), [video](https://resources.rstudio.com/rstudio-conf-2020/object-of-type-closure-is-not-subsettable-jenny-bryan-2)
-- [Technical debt is a social issue](https://resources.rstudio.com/rstudio-conf-2020/technical-debt-is-a-social-problem-mr-gordon-shotwell-2)
+- [Technical debt is a social issue](https://techdebt.shotwell.ca/#1)
 - [Simplified Data Quality Monitoring of Dynamic Longitudinal Data: A Functional Programming Approach](https://resources.rstudio.com/rstudio-conf-2020/simplified-data-quality-monitoring-of-dynamic-longitudinal-data-a-functional-programming-approach-jacqueline-gutman)
 - [R for Graphical Clinical Trial Reporting](https://www.fharrell.com/talk/rstudio20/)
