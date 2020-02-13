@@ -1,8 +1,10 @@
 ---
 title: "Overview of Community Groups"
+author: The Coop Team
 categories:
   - Community
 tags:
+  - user groups
 ---
 
 #### Overview of Community Groups
@@ -22,8 +24,6 @@ Here are some of the current community groups that we have here at the Hutch but
 - **Python coding group**: Discusses methods of programming in Python and troubleshoots code of participants. Python coders of all levels of expertise are welcome. See the #python-user-comm channel on The Coop Communities Slack for more information.
 
 - **R coding group**: Discusses R packages, R code and troubleshoots code of participants. R coders of all levels of expertise are welcome. See the #r-user-comm channel on The Coop Communities Slack for more information.
-
-- **Software design group**: Discusses issues related to software engineering and interface design and invites speakers on specific topics and participants to share their coding projects. This group is not focused on a specific programming language, but rather on issues common across software projects. See the #software-engineers channel on The Coop Communities Slack for more information.
 
 #### How to start one
 
