@@ -44,6 +44,7 @@ We received dozens of comments from respondents about the impact of the Coop and
 
 #### Underlying data ####
 In the last 6 months, how often have you attended or engaged in the following Coop-supported activities?
+
 **Resource** | **Never** | **Rarely** | **Sometimes** | **Often** | **Daily** |
 --- | :---: | :---: | :---: | :---: | :---: |
 Coop Slack | 6 | 11 | 14 | 12 | 10 |
@@ -55,12 +56,13 @@ Biomed Wiki | 16 | 8 | 15 | 11 | 3 |
 Monthly Coop meeting | 9 | 11 | 17 | 16 | 0 |
 
 Indicate your level of agreement with the following statements
+
 **Statement** | **Strongly disagree** | **Disagree** | **Neutral** | **Agree** | **Strongly agree** |
 --- | :---: | :---: | :---: | :---: | :---: |
 The Coop helps me learn about resources and activities for data-intensive science at the Hutch | 2 | 1 | 6 | 17 | 27 |
 The Coop helps me improve my data and computational skills | 2 | 2 | 10 | 21 | 18 |
 The Coop helps me network with other Hutch researchers working on similar topics. | 2 | 2 | 9 | 18 | 22 |
 I have used methods and/or skills learned from Coop activities in my research | 2 | 5 | 15 | 16 | 15 |
-The Coop is an important and valuable resource for Hutch researchers. | 2 | 1 | 3 | 11 | 36 . |
+The Coop is an important and valuable resource for Hutch researchers. | 2 | 1 | 3 | 11 | 36 |
 
 Thanks for supporting our community, and stay tuned for more information!
