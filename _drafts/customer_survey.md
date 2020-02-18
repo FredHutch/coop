@@ -31,16 +31,16 @@ We asked three sets of questions to get information on (1) use of resources gene
 ### Impact ###
 “Indicate your level of agreement with the following statements”
 
-![](/assets/customer_survey/statements.png){:height="1728px" width="280"}
+![](/assets/customer_survey/statements.png){:height="1728px" width="778"}
 
 ### Comments ###
 We received dozens of comments from respondents about the impact of the Coop and fredhutch.io. A few of our favorites:
 
-- “Every code issue I've posted on the Slack channel has been responded to within a few hours, and usually solved in a day or two.”
-- “The Coop has been a fantastic resource for networking. I wish it had existed when I started at the Hutch over 7 years ago.”
-- “I have found a community of like-minded folks that care as much about programming as they do the data and getting results. I have attended multiple meetings where I was able to get interesting ideas that improved my approach to a problem and share my ideas to help others resolve their issues. By getting out of our silos, I believe my life as a Hutchian has been much improved.”
-- “I believe that an organization like The Coop is essential for the continued success of the center as a whole, as well as myself as an individual researcher.”
-- “The Coop is awesome! Love how it brings all the data/viz/informatics people together and also connects us with resources in the form of SciComp staff (who are amazing) + training opportunities. Thank you for your efforts.”
+- _“Every code issue I've posted on the Slack channel has been responded to within a few hours, and usually solved in a day or two.”_
+- _“The Coop has been a fantastic resource for networking. I wish it had existed when I started at the Hutch over 7 years ago.”_
+- _“I have found a community of like-minded folks that care as much about programming as they do the data and getting results. I have attended multiple meetings where I was able to get interesting ideas that improved my approach to a problem and share my ideas to help others resolve their issues. By getting out of our silos, I believe my life as a Hutchian has been much improved.”_
+- _“I believe that an organization like The Coop is essential for the continued success of the center as a whole, as well as myself as an individual researcher.”_
+- _“The Coop is awesome! Love how it brings all the data/viz/informatics people together and also connects us with resources in the form of SciComp staff (who are amazing) + training opportunities. Thank you for your efforts.”_
 
 ### Underlying data ###
 In the last 6 months, how often have you attended or engaged in the following Coop-supported activities?
