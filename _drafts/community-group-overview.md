@@ -9,40 +9,43 @@ tags:
 
 #### Overview of Community Groups
 
-The [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html), otherwise known as The Coop, is a cooperative that includes all groups and individuals at [Fred Hutch](https://www.fredhutch.org/en.html) interested in bioinformatics and data science. To help stimulate that interest and encourage learning and growth the Coop has a [newsletter](https://research.fhcrc.org/coop/en/newsletter.html), [slack channels](_posts/_drafts/DRAFT_2019-11-07-post-Slack.md), and a [calendar](https://fredhutch.github.io/FHBig/calendar/) of events. The Coop has also established and actively supports and encourages [community groups](https://research.fhcrc.org/coop/en/community/hosted-groups.html). Community groups are loose associations of individuals in the community who come together regularly around a particular tool, language, skill etc. and meet either quarterly, monthly, or weekly depending on the groups needs. These meetings usually focus on best practices, new approaches, tools, information sharing, or demoing a new workflow or process that others in the community may find valuable.
+The [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html), otherwise known as The Coop, is a cooperative that includes all groups and individuals at [Fred Hutch](https://www.fredhutch.org/en.html) interested in bioinformatics and data science. To help stimulate that interest and encourage learning and growth the Coop has a [newsletter](https://research.fhcrc.org/coop/en/newsletter.html), [slack channels](https://fredhutch.github.io/coop/community/slack-new/), and a [calendar](https://fredhutch.github.io/FHBig/calendar/) of events. The Coop has also established and actively supports and encourages community groups. [Community groups](https://research.fhcrc.org/coop/en/community/hosted-groups.html) are loose associations of individuals in the community who come together regularly around a particular tool, language, skill etc. and meet either quarterly, monthly, or weekly depending on the groups needs. These meetings usually focus on best practices, new approaches, tools, information sharing, or demoing a new workflow or process that others in the community may find valuable.
 
-#### What they are
+#### Current Community Groups
 
-Here are some of the current community groups that we have here at the Hutch but it's not exhaustive as you can always create a new one but following the [guidelines here](.../2010-01-07-post-overview_community_group#how-to-start-one).
+Here are some of the [current community groups](https://research.fhcrc.org/coop/en/community/hosted-groups.html) that we have here at the Hutch but it's not exhaustive as you can always create a new one by following the [guidelines here](.../2010-01-07-post-overview_community_group#how-to-start-one).
 
-- **Coop community meetings**: The Coop hosts community meetings once a quarter to share information from the data science community at the Hutch. Join us to learn about projects and events happening in our community! _**When & where**: Quarterly, usually A1-303 but check calendars_
+- **Coop Community Meetings**: The Coop hosts community meetings once a quarter to share information from the data science community at the Hutch. Join us to learn about projects and events happening in our community! _**When & where**: Quarterly, usually A1-303 but check [calendars](https://fredhutch.github.io/FHBig/calendar/)_
 
-- **Data visualization group**: Develops visualizations from data released by TidyTuesday. All programming languages (and even non-coders!) are welcome. See the #data-viz channel on The Coop Communities Slack for more information.
+- **Data Visualization Group**: The Data Viz group meets weekly to brainstorm visualization ideas and create figures using data released by TidyTuesday. All programming languages (and even non-coders!) are welcome. Learn more about what to expect [here](https://github.com/FredHutch/community_groups/blob/master/data_viz.md). When & where: every Wednesday from noon to 1 pm in the Coop Lab (M1-B406, Arnold) See the #data-viz channel on [The Coop Communities Slack](https://fredhutch.github.io/coop/community/slack-new/) for more information.
 
-- **Nextflow group**: Discusses issues related to the use of Nextflow (and other workflow managers like Cromwell) at Fred Hutch. The group welcomes Nextflow users of all levels of expertise as well as those just learning about the tool. See the #nextflow channel on The Coop Communities Slack for more information.
+- **Nextflow Group**: Discusses issues related to the use of Nextflow (and other workflow managers like Cromwell) at Fred Hutch. The group welcomes Nextflow users of all levels of expertise as well as those just learning about the tool. See the #nextflow channel on [The Coop Communities Slack](https://fredhutch.github.io/coop/community/slack-new/) for more information.
 
-- **Python coding group**: Discusses methods of programming in Python and troubleshoots code of participants. Python coders of all levels of expertise are welcome. See the #python-user-comm channel on The Coop Communities Slack for more information.
+- **Python User Group**: The Python User Group meets weekly to discuss programming, data analysis, and troubleshooting in python as well as dedicate one meeting a month to general software development; topics will be announced ahead of time. Bring your lunch, code, questions, and thoughts! Python coders of all levels of expertise are welcome. Contact the Coop (coophelp at fredhutch.org) for more information. Additionally, check out the #python-user-comm channel on the [Coop Communities Slack](https://fredhutch.github.io/coop/community/slack-new/) and our other training and community resources at [Training, Community and Finding Help](https://sciwiki.fredhutch.org/scicomputing/reference_training/). Current meeting schedules and locations are available on the [Google calendar](https://fredhutch.github.io/FHBig/calendar/).
+When & where: every Friday from noon to 1 pm in the Coop Lab (M1-B406, Arnold)
 
-- **R coding group**: Discusses R packages, R code and troubleshoots code of participants. R coders of all levels of expertise are welcome. See the #r-user-comm channel on The Coop Communities Slack for more information.
+- **R Coding Group**: The R User Group meets weekly to discuss programming, data analysis, and troubleshooting in R. Bring your lunch, code, questions, and thoughts! R coders of all levels of expertise are welcome. Contact the Coop (coophelp at fredhutch.org) for more information. Additionally, check out the #r-user-comm channel on the [Coop Communities Slack](https://fredhutch.github.io/coop/community/slack-new/) and our other training and community resources at [Training, Community and Finding Help](https://sciwiki.fredhutch.org/scicomputing/reference_training/). Note: If you do not have a laptop available to you we still want you to come!! You can email code privately ahead of each event to Amy Paguirigan (apaguiri at fredhutch.org). Current meeting schedules and locations are available on the [Google calendar](https://fredhutch.github.io/FHBig/calendar/).
+
+When & where: every Thursday from noon to 1 pm in the Coop Lab (M1-B406, Arnold)
 
 #### How to start one
 
-The Coop is happy to support formation of new community groups related to data science activities. We ask that you answer a few questions to guide your planning process:
+[The Coop](https://research.fhcrc.org/coop/en.html) is also happy to support the formation of new community groups related to data science activities. We only ask that you answer a few questions to guide your planning process:
 
 * What are the goals of your group?
 * Who is interested in participating
 * Who will lead/facilitate the group?
-* How often do you want to meet? Some groups meet weekly, every other week, or on the first/second/etc day of the month.
-It may help to look at some of the information about existing groups to help get an idea of what has been working for our community so far. You can also post in the Coop Community Slack to gauge interest in the community. Once you are committed to the meeting details, contact one of the Coop team members with the following information:
+* How often do you want to meet? Some groups meet weekly, other's bi-weekly, or on the first/second/etc day of the month.
+It may help to look at some of the information about existing groups to get an idea of what has been working for our community so far. You can also post in the [Coop Community Slack](https://fredhutch.github.io/coop/community/slack-new/#joining-the-coop-communities-slack-workspace) to gauge interest in the community. Once you are committed to the meeting details, contact `coophelp` at fredhutch with the following information:
 
-* Title (e.g., "Python coding group")
-* Description (e.g., "Any Python users (beginner to advanced) are welcome to attend this session and to talk about programming and data analysis in Python. Bring your lunch, your code questions, and your thoughts! Contact this person for more information.")
-* Open or closed? We prefer community groups to be open to everyone. If you request a group to be closed, we'll add "[closed]" to the title.
-* Who is the point of contact? We'll need someone to help answer questions about scheduling, etc.
-*Time and date of the first meeting, and the continued schedule (so we can put a repeat on calendars)
+* _Title_ (e.g., "Python coding group")
+* _Description_ (e.g., "Any Python users (beginner to advanced) are welcome to attend this session and to talk about programming and data analysis in Python. Bring your lunch, your code questions, and your thoughts! Contact this person for more information.")
+* _Open or closed?_ We prefer community groups to be open to everyone. If you request a group to be closed, we'll add "[closed]" to the title.
+* _Who is the point of contact?_ We'll need someone to help answer questions about scheduling, etc.
+*_Time and date of the first meeting_, and the continued schedule (so we can put a repeat on calendars)
 
 We'll use this information to:
 
-* post to the Google and Outlook calendars (we usually don't add community groups to CenterNet)
-*announce in our monthly newsletter and on Slack
-* list on our webpage and the training page on the Fred Hutch Biomedical Data Science Wiki.
+* Post to the Google and Outlook calendars (we usually don't add community groups to CenterNet)
+* Announce the group in our monthly newsletter and on Slack
+* List the group on our webpage and the training page on the Fred Hutch Biomedical Data Science Wiki
