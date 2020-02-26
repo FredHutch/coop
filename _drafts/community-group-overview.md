@@ -38,11 +38,15 @@ When & where: every Thursday from noon to 1 pm in the Coop Lab (M1-B406, Arnold)
 * How often do you want to meet? Some groups meet weekly, other's bi-weekly, or on the first/second/etc day of the month.
 It may help to look at some of the information about existing groups to get an idea of what has been working for our community so far. You can also post in the [Coop Community Slack](https://fredhutch.github.io/coop/community/slack-new/#joining-the-coop-communities-slack-workspace) to gauge interest in the community. Once you are committed to the meeting details, contact `coophelp` at fredhutch with the following information:
 
-* **_Title_** (e.g., "Python coding group")
-* **_Description_** (e.g., "Any Python users (beginner to advanced) are welcome to attend this session and to talk about programming and data analysis in Python. Bring your lunch, your code questions, and your thoughts! Contact this person for more information.")
-* **_Open or closed?_** We prefer community groups to be open to everyone. If you request a group to be closed, we'll add "[closed]" to the title.
-* **_Who is the point of contact?_** We'll need someone to help answer questions about scheduling, etc.
-* **_Time and date of the first meeting_** and the continued schedule (so we can put a repeat on calendars)
+> **_Title_** (e.g., "Python coding group")
+
+> **_Description_** (e.g., "Any Python users (beginner to advanced) are welcome to attend this session and to talk about programming and data analysis in Python. Bring your lunch, your code questions, and your thoughts! Contact this person for more information.")
+
+> **_Open or closed?_** We prefer community groups to be open to everyone. If you request a group to be closed, we'll add "[closed]" to the title.
+
+> **_Who is the point of contact?_** We'll need someone to help answer questions about scheduling, etc.
+
+> **_Time and date of the first meeting_** and the continued schedule (so we can put a repeat on calendars)
 
 We'll use this information to:
 
