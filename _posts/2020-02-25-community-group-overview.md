@@ -7,11 +7,11 @@ tags:
   - user groups
 ---
 
-#### Overview of Community Groups
+## Overview of Community Groups
 
 To help stimulate interest in bioinformatics and data science while also encouraging learning and growth we here at [the Coop](https://research.fhcrc.org/coop/en.html) have started a [newsletter](https://research.fhcrc.org/coop/en/newsletter.html), manage [slack channels](https://fredhutch.github.io/coop/community/slack-new/), and publish a [calendar](https://fredhutch.github.io/FHBig/calendar/) of events. We've also established and actively support and encourage community groups. [Community groups](https://research.fhcrc.org/coop/en/community/hosted-groups.html) are loose associations of individuals in the community who come together regularly around a particular tool, language, skill etc. and meet either quarterly, monthly, or weekly depending on the groups needs. These meetings usually focus on best practices, new approaches, tools, information sharing, or demoing a new workflow or process that others in the community may find valuable. Current meeting schedules and locations are available on the [Google calendar](https://fredhutch.github.io/FHBig/calendar/).
 
-#### Current Community Groups
+## Current Community Groups
 
 Interested in starting a community group focused on a topic not listed here? See below for instructions on how to request a new group.
 
@@ -29,7 +29,7 @@ Interested in starting a community group focused on a topic not listed here? See
 
 - **Cromwell Workflow Manager Group**: Meets every two weeks on Thursday from 11am-12pm in the Coop Lab (M1-B406, Arnold) to be a discussion and troubleshooting group for Cromwell users. For more information, see the #cromwell-wdl channel in the Coop Communities Slack, or contact Amy Paguirigan (apaguiri at fredhutch.org) for more information.
 
-#### How to start one
+## How to start one
 
 [The Coop](https://research.fhcrc.org/coop/en.html) is also happy to support the formation of new community groups related to data science activities. We only ask that you answer a few questions to guide your planning process:
 
