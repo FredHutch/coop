@@ -26,12 +26,12 @@ We asked three sets of questions to get information on (1) use of resources gene
 ### Use of Resources ###
 “In the last 6 months, how often have you attended or engaged in the following Coop-supported activities?”
 
-![](/assets/customer_survey/resources.png)
+![]({{ site.baseurl }}/assets/customer_survey/resources.png)
 
 ### Impact ###
 “Indicate your level of agreement with the following statements”
 
-![](/assets/customer_survey/statements.png)
+![]({{ site.baseurl }}/assets/customer_survey/statements.png)
 
 ### Comments ###
 We received dozens of comments from respondents about the impact of the Coop and fredhutch.io. A few of our favorites:
