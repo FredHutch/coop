@@ -1,4 +1,4 @@
-title: "The Carpentries Instructor Training"
+title: "The Carpentries Instructor Training at Fred Hutch"
 author: Kate Hertweck
 categories: # delete the categories that do not apply and keep at least one
   - Community
