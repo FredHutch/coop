@@ -12,7 +12,7 @@ tags:
 
 Following completion of this training, attendees are encouraged to complete the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/index.html) to become fully certified as a Carpentries instructor. Additional opportunities to gain teaching experience are also available through [fredhutch.io](http://www.fredhutch.io).
 
-Not sure if this training is for you? Your attendance at this workshop will help you:
+Not sure if this training is for you? Please keep in mind that you don't have to have expert coding skills to benefit from this training! Your attendance at this workshop will help you:
 - Develop a solid understanding of how to teach computational methods for both classroom and outreach activities
 - Learn about educational psychology, which benefits both you and your future students
 - Build your teaching skills by practicing teaching coding and data skills to other class participants
