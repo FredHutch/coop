@@ -1,8 +1,9 @@
+---
 title: "The Carpentries Instructor Training at Fred Hutch"
 author: Kate Hertweck
-categories: # delete the categories that do not apply and keep at least one
+categories: 
   - Community
-tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
+tags: 
   - teaching
   - training
 ---
