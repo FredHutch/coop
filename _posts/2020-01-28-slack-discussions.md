@@ -9,7 +9,7 @@ tags:
   - onboarding
 ---
 
-In our [previous post]({{ site.baseurl }}/community/2020-01-22-slack-new.md), we provided a basic introduction to Slack as a communication mechanism and oriented you to Fred Hutch's Coop Communities Slack workspace. A few reminders that are useful even for existing members:
+In our [previous post](https://fredhutch.github.io/coop/community/slack-new/), we provided a basic introduction to Slack as a communication mechanism and oriented you to Fred Hutch's Coop Communities Slack workspace. A few reminders that are useful even for existing members:
 - Fill out your [profile](https://slack.com/help/articles/204092246-Edit-your-profile) to maximize your networking opportunities!
 - Find more channels by clicking "Channel" in the lefthand sidebar, and look at the channel details for more information.
 
