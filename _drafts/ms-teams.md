@@ -1,5 +1,5 @@
 ---
-title: "Helpful hints for virtual meetings"
+title: "A quick overview to using MS Teams for online meetings"
 author: Kate Hertweck
 categories: # delete the categories that do not apply and keep at least one
   - Community
