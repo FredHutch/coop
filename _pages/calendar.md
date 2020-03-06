@@ -11,7 +11,7 @@ If you have events you'd like to see appear on the Coop Calendar, please contact
 
 ## Showing Coop Calendars in your calendar
 
-- [Google](https://calendar.google.com/calendar/embed?src=gd30dlifri4fu7h104cuqdj0dg%40group.calendar.google.com&ctz=America%2FLos_Angeles): click on the link, then click "+ Google Calendar" in the bottom right corner of the screen to add to your own Google Calendar
+- [Google](https://calendar.google.com/calendar/embed?src=gd30dlifri4fu7h104cuqdj0dg%40group.calendar.google.com&ctz=America%2FLos_Angeles): click on the link (or using the calendar above), click "+ Google Calendar" in the bottom right corner ato add to your own Google Calendar
 - Outlook (only available individuals with a HutchNetID)
   - On the Home tab of your calendar click "Open Calendar"
   - In the search box type in "The Coop Email"
