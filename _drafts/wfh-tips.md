@@ -1,5 +1,5 @@
 ---
-title: "How to Work From Home and Maintain What's Left of Your Sanity"
+title: "A Quick Guide to Working From Home"
 author: Lauren Wolfe 
 categories: 
   - Community
@@ -16,6 +16,7 @@ The first thing that felt exciting to me about working from home was the prospec
   * It might be obvious but keep regular meals.
   * Figure out what cues help you get into 'work mode' and put you in a good mindset.
   * Schedule time to see a friend and get outside - I've found myself craving structure and have scheduled with a friend who is also working from home to meet twice a week to walk the dogs.
+  * Remember that having a routine means setting an end point! When you're work day is over put your work away and enjoy the rest of your day.
 
 ### Designate a Workspace
 Working from the couch wasn't just hard on my motivation but actually became physically painful. Couch slouch is real! It's been difficult but since I've put more focus on creating a clean, more ergonomic workspace my body and brain have felt much better.
