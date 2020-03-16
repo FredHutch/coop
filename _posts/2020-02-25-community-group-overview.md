@@ -4,7 +4,7 @@ author: The Coop Team
 categories:
   - Community
 tags:
-  - user groups
+  - community groups
 ---
 To help stimulate interest in bioinformatics and data science while also encouraging learning and growth we here at [the Coop](https://research.fhcrc.org/coop/en.html) have started a [newsletter](https://research.fhcrc.org/coop/en/newsletter.html), manage [slack channels](https://fredhutch.github.io/coop/community/slack-new/), and publish a [calendar](https://fredhutch.github.io/coop/calendar/) of events. We've also established and actively support and encourage community groups. [Community groups](https://research.fhcrc.org/coop/en/community/hosted-groups.html) are loose associations of individuals in the community who come together regularly around a particular tool, language, skill etc. and meet either quarterly, monthly, or weekly depending on the groups needs. These meetings usually focus on best practices, new approaches, tools, information sharing, or demoing a new workflow or process that others in the community may find valuable. Current meeting schedules and locations are available on the [Google calendar](https://fredhutch.github.io/coop/calendar/).
 
