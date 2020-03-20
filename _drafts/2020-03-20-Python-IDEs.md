@@ -17,7 +17,10 @@ In the [_Python User Group_](https://sciwiki.fredhutch.org/scicomputing/referenc
 
 - [VSCode](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md) - **Free**
 
- ![](/assets/Python-IDEs/2020-03-20-15-31-55.png)
+![](/assets/Python-IDEs/2020-03-20-15-31-55.png)](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md)
+
+
+ ![]()
 
 - [PyCharm](https://github.com/zyd14/pycharm_demo/blob/master/README.md) - **Free/Paid**
 
