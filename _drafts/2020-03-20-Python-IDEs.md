@@ -34,7 +34,7 @@ But these arent the only ones..
 
 Therefore, with so many free options it really comes down to personal preference. There are though some features that you should look for in your IDE of choice such as:
 
-- **PEP-8 Linter** - linting highlights syntactical and stylistic problems in your Python code which helps to mitigate potential errors and improves your coding. [PEP-8 is the most common style guide](https://www.python.org/dev/peps/pep-0008/) for python.
+- **PEP-8 Linter** - [linting](https://en.wikipedia.org/wiki/Lint_%28software%29) highlights syntactical and stylistic problems in your Python code which helps to mitigate potential errors and improves your coding. [PEP-8 is the most common style guide](https://www.python.org/dev/peps/pep-0008/) for python.
 
 - **Debugger** - a [debugger](https://en.wikipedia.org/wiki/Debugger) allows you to quickly resolve bugs, issues or errors in your code by allowing you to quickly setup breakpoints at a particular line and then step in, out, or thru the code while viewing not only code output and actions but also variable assignment.
 
