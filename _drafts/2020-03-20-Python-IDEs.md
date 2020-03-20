@@ -40,7 +40,7 @@ Therefore, with so many free options it really comes down to personal preference
 
 - **Version Control Integration** - [version control](https://en.wikipedia.org/wiki/Version_control) facilitates collaboration as it assists in the management of changes to documents or code and constructs some rigor around a development process. A popular version control platform is GitHub but it isn't the only one. What _is_ important is that your IDE of choice integrates with the version control your team is using.
 
-- **Shell Integration** - this isnt a deal breaker but it makes it nice and most IDEs have this where with a keystroke you can pull up a window that has a shell instance running allowing you to interact with your OS, or [ssh into remote](https://sciwiki.fredhutch.org/scicomputing/access_methods/#ssh-clients-for-remote-computing-resources) computing or cloud resources.
+- **Shell Integration** - this isnt a deal breaker but it makes it nice and most IDEs have this where with a keystroke you can pull up a window that has a shell instance running allowing you to interact with your OS, or [ssh into remote computing]((https://sciwiki.fredhutch.org/scicomputing/access_methods/#ssh-clients-for-remote-computing-resources)) or cloud resources.
 
 - **Text Editor Integration** - again not a deal breaker but most of them have a text editor. What is important is that it can render or preview [Markdown files](https://sciwiki.fredhutch.org/compdemos/vscode_markdown_howto/) 
 
