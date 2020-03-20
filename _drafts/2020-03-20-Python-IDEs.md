@@ -38,7 +38,7 @@ Therefore, with so many free options it really comes down to personal preference
 
 - **Debugger** - a [debugger](https://en.wikipedia.org/wiki/Debugger) allows you to quickly resolve bugs, issues or errors in your code by allowing you to quickly setup breakpoints at a particular line and then step in, out, or thru the code while viewing not only code output and actions but also variable assignment.
 
-- **Version Control Integration** - [version control](https://en.wikipedia.org/wiki/Version_control) facilitates collaboration as it assists in the management of changes to documents or code and constructs some rigor around a development process. A popular version control platform is GitHub but it isn't the only one. What _is_ important is that your IDE of choice integrates with your team's version control.
+- **Version Control Integration** - [version control](https://en.wikipedia.org/wiki/Version_control) facilitates collaboration as it assists in the management of changes to documents or code and constructs some rigor around a development process. A popular version control platform is GitHub but it isn't the only one. What _is_ important is that your IDE of choice integrates with the version control your team is using.
 
 - **Shell Integration** - this isnt a deal breaker but it makes it nice and most IDEs have this where with a keystroke you can pull up a window that has a shell instance running allowing you to interact with your OS, or [ssh into remote](https://sciwiki.fredhutch.org/scicomputing/access_methods/#ssh-clients-for-remote-computing-resources) computing or cloud resources.
 
