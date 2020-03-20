@@ -46,4 +46,4 @@ Therefore, with so many free options it really comes down to personal preference
 
 Word to the wise, most of these features just mentioned are usually not built into the IDE itself and are made available to the user as an extension that they have to install in the IDE. The major IDEs though are getting better at including these features/extensions as default or pre-installed for the user. If not you might have to search and install to add them to your IDE environment.
 
-I hope these points have inspired you to try a new IDE and help to make you more productive. Thanks for supporting the bioinformatics and data science community
+I hope these points have inspired you to try out a new IDE and or help to make you more productive. Thanks for supporting the bioinformatics and data science community!
