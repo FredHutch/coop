@@ -17,15 +17,15 @@ In the [_Python User Group_](https://sciwiki.fredhutch.org/scicomputing/referenc
 
 - [VSCode](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md) - **Free**
 
-[![VSCode](/assets/Python-IDEs/2020-03-20-15-31-55.png)](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md)
+[![VSCode]({{ site.baseurl }}/assets/Python-IDEs/2020-03-20-15-31-55.png)](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md)
 
 - [PyCharm](https://github.com/zyd14/pycharm_demo/blob/master/README.md) - **Free/Paid**
 
-[![PyCharm](/assets/Python-IDEs/2020-03-20-15-39-46.png)](https://github.com/zyd14/pycharm_demo/blob/master/README.md)
+[![PyCharm]({{ site.baseurl }}/assets/Python-IDEs/2020-03-20-15-39-46.png)](https://github.com/zyd14/pycharm_demo/blob/master/README.md)
 
 - [Jupyter Lab](https://github.com/Chilliwack/jupyter_demo/blob/master/README.md) - **Free/Open Source**
 
-[![Jupyter](/assets/Python-IDEs/2020-03-20-15-41-39.png)](https://github.com/Chilliwack/jupyter_demo/blob/master/README.md)
+[![Jupyter]({{ site.baseurl }}/assets/Python-IDEs/2020-03-20-15-41-39.png)](https://github.com/Chilliwack/jupyter_demo/blob/master/README.md)
 
 But these aren't the only ones..
 
