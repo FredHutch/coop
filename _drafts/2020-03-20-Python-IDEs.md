@@ -17,18 +17,15 @@ In the [_Python User Group_](https://sciwiki.fredhutch.org/scicomputing/referenc
 
 - [VSCode](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md) - **Free**
 
-![](/assets/Python-IDEs/2020-03-20-15-31-55.png)](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md)
-
-
- ![]()
+[![](/assets/Python-IDEs/2020-03-20-15-31-55.png)](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md)
 
 - [PyCharm](https://github.com/zyd14/pycharm_demo/blob/master/README.md) - **Free/Paid**
 
-![](/assets/Python-IDEs/2020-03-20-15-39-46.png)
+[![](/assets/Python-IDEs/2020-03-20-15-39-46.png)](https://github.com/zyd14/pycharm_demo/blob/master/README.md)
 
 - [Jupyter Lab](https://github.com/Chilliwack/jupyter_demo/blob/master/README.md) - **Free/Open Source**
 
-![](/assets/Python-IDEs/2020-03-20-15-41-39.png)
+[![](/assets/Python-IDEs/2020-03-20-15-41-39.png)](https://github.com/Chilliwack/jupyter_demo/blob/master/README.md)
 
 But these arent the only ones..
 
@@ -37,15 +34,15 @@ But these arent the only ones..
 
 Therefore, with so many free options it really comes down to personal preference. There are though some features that you should look for in your IDE of choice such as:
 
-- *PEP-8 Linter* - linting highlights syntactical and stylistic problems in your Python code which helps to mitigate potential errors and improves your coding. [PEP-8 is the most common style guide](https://www.python.org/dev/peps/pep-0008/) for python.
+- **PEP-8 Linter** - linting highlights syntactical and stylistic problems in your Python code which helps to mitigate potential errors and improves your coding. [PEP-8 is the most common style guide](https://www.python.org/dev/peps/pep-0008/) for python.
 
-- *Debugger* - a [debugger](https://en.wikipedia.org/wiki/Debugger) allows you to quickly resolve bugs, issues or errors in your code by allowing you to quickly setup breakpoints at a particular line and then step in, out, or thru the code while viewing not only code output and actions but also variable assignment.
+- **Debugger** - a [debugger](https://en.wikipedia.org/wiki/Debugger) allows you to quickly resolve bugs, issues or errors in your code by allowing you to quickly setup breakpoints at a particular line and then step in, out, or thru the code while viewing not only code output and actions but also variable assignment.
 
-- *Version Control Integration* - [version control](https://en.wikipedia.org/wiki/Version_control) facilitates collaboration as it assists in the management of changes to documents or code and constructs some rigor around a development process. A popular version control platform is GitHub but it isn't the only one. What _is_ important is that your IDE of choice integrates with your team's version control.
+- **Version Control Integration** - [version control](https://en.wikipedia.org/wiki/Version_control) facilitates collaboration as it assists in the management of changes to documents or code and constructs some rigor around a development process. A popular version control platform is GitHub but it isn't the only one. What _is_ important is that your IDE of choice integrates with your team's version control.
 
-- *Shell Integration* - this isnt a deal breaker but it makes it nice and most IDEs have this where with a keystroke you can pull up a window that has a shell instance running allowing you to interact with your OS, or [ssh into remote](https://sciwiki.fredhutch.org/scicomputing/access_methods/#ssh-clients-for-remote-computing-resources) computing or cloud resources.
+- **Shell Integration** - this isnt a deal breaker but it makes it nice and most IDEs have this where with a keystroke you can pull up a window that has a shell instance running allowing you to interact with your OS, or [ssh into remote](https://sciwiki.fredhutch.org/scicomputing/access_methods/#ssh-clients-for-remote-computing-resources) computing or cloud resources.
 
-- *Text Editor Integration* - again not a deal breaker but most of them have a text editor. What is important is that it can render or preview [Markdown files](https://sciwiki.fredhutch.org/compdemos/vscode_markdown_howto/) 
+- **Text Editor Integration** - again not a deal breaker but most of them have a text editor. What is important is that it can render or preview [Markdown files](https://sciwiki.fredhutch.org/compdemos/vscode_markdown_howto/) 
 
 Word to the wise, most of these features just mentioned are usually not built into the IDE itself and are made available to the user as an extension they have to install. The major IDEs though are getting better at including these features/extensions as default or pre-installed for the user. If not you might have to search and install to add them to your IDE enviroment.
 
