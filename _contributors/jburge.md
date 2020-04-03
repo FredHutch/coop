@@ -1,6 +1,6 @@
 ---
 title: Justin Burge
-position: Training and Outreach Specialist 
+position: Training and Outreach Specialist (2019-2020)
 affiliation: The Coop, fredhutch.io, Fred Hutchinson Cancer Research Center
 ---
 ## Title

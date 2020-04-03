@@ -1,6 +1,6 @@
 ---
 title: Carly Strasser
-position: Director of Alliances and Data Strategy
+position: Director of Alliances and Data Strategy (2018-2020)
 affiliation: The Coop, Fred Hutchinson Cancer Research Center
 ---
 ## Title
