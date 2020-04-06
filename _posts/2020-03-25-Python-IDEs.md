@@ -1,6 +1,6 @@
 ---
-title: "Python User Group's: Python IDEs"
-author: The Coop Team 
+title: "Report from the Python User Group: Python IDEs"
+author: Justin Burge
 categories:
   - Community
   - Technical
@@ -9,32 +9,38 @@ tags:
   - python
 ---
 
-From 2016 to now [Fredhutch.IO](https://www.fredhutch.io/resources/) has taught roughly 342 Fred Hutch employees in the _Introduction to R_ course and since the middle of 2018, 245 in the _Introduction to Python_. In those introductory courses we use integrated development environments or IDEs like Rstudio and [Jupyter Notebook](https://jupyter.org/) respectively to teach the material and run the code yet, they are not the only ones.
+Since summer 2018, 245 Fred Hutch employees have taken _Introduction to Python_ through [Fredhutch.io](https://www.fredhutch.io). This introductory course introduces participants to [Jupyter Notebooks](https://jupyter.org/) as an integrated development environment, or IDE.
 
-Even though [Rstudio](https://rstudio.com/) is widely used by many R users the same cannot be said for Python. If you are just starting out with Python or want to explore other options now might be a good time.
+While Jupyter notebooks are a great tool, there are other options for interfaces to write and run Python code. In the [_Python User Group_](https://sciwiki.fredhutch.org/scicomputing/reference_training/#community-groups), we recently looked at three popular IDEs for Python. Frequent attendees of the group wrote up a few overviews highlighting the more popular Python IDEs nowadays which you can peruse below.
 
-In the [_Python User Group_](https://sciwiki.fredhutch.org/scicomputing/reference_training/#community-groups), we recently looked at three popular IDEs for python. Frequent attendees of the group wrote-up a couple of overviews highlighting the more popular Python IDEs nowadays which you can peruse below.
+## Visual Studio Code (VS Code)
 
-- [VSCode](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md) - **Free**
+[VS Code](https://code.visualstudio.com) is a free IDE from Microsoft. The screenshot below previews the demo by Koshlan Mayer-Blackwell; you can read the entire content [here](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md).
 
 [![VSCode]({{ site.baseurl }}/assets/Python-IDEs/2020-03-20-15-31-55.png)](https://github.com/kmayerb/visual_studio_code_demo/blob/master/README.md)
 
-- [PyCharm](https://github.com/zyd14/pycharm_demo/blob/master/README.md) - **Free/Paid**
+## PyCharm
+
+[PyCharm](https://www.jetbrains.com/pycharm/download) is free with an option to pay for an upgrade with more services. Zach Romer's demo is screenshot below; view the entire report [here](https://github.com/zyd14/pycharm_demo/blob/master/README.md).
 
 [![PyCharm]({{ site.baseurl }}/assets/Python-IDEs/2020-03-20-15-39-46.png)](https://github.com/zyd14/pycharm_demo/blob/master/README.md)
 
-- [Jupyter Lab](https://github.com/Chilliwack/jupyter_demo/blob/master/README.md) - **Free/Open Source**
+## Jupyter Lab
+
+[Jupyter Lab](https://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html) is a free and open source project. A demo by me (Justin Burge) is screenshot below, though the complete report is available [here](https://github.com/Chilliwack/jupyter_demo/blob/master/README.md).
 
 [![Jupyter]({{ site.baseurl }}/assets/Python-IDEs/2020-03-20-15-41-39.png)](https://github.com/Chilliwack/jupyter_demo/blob/master/README.md)
 
-But these aren't the only ones..
+## Other options and choosing one to use
+
+But these aren't the only options...
 
 - [Atom](https://atom.io/) - **Free/Open Source**
 - [Spyder](https://www.spyder-ide.org/) - **Free**
 
-Therefore, with so many free options it really comes down to personal preference. There are though some features that you should look for in your IDE of choice such as:
+Therefore, with so many free options it really comes down to personal preference. There are some features that you should look for in your IDE of choice such as:
 
-- **PEP-8 Linter** - [linting](https://en.wikipedia.org/wiki/Lint_%28software%29) highlights syntactical and stylistic problems in your Python code which helps to mitigate potential errors and improves your coding. [PEP-8 is the most common style guide](https://www.python.org/dev/peps/pep-0008/) for python.
+- **Linter** - [linting](https://en.wikipedia.org/wiki/Lint_%28software%29) highlights syntactical and stylistic problems in your Python code which helps to mitigate potential errors and improves your coding. [PEP-8 is the most common style guide](https://www.python.org/dev/peps/pep-0008/) for python.
 
 - **Debugger** - a [debugger](https://en.wikipedia.org/wiki/Debugger) allows you to quickly resolve bugs, issues or errors in your code by allowing you to quickly setup breakpoints at a particular line and then step in, out, or thru the code while viewing not only code output and actions but also variable assignment.
 
