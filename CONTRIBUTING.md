@@ -8,7 +8,7 @@ The content below includes:
 - [Contribute via email](#contribute-via-email)
 - [Contribute via GitHub](#contribute-via-github)
 - [Adding yourself as a contributor](#adding-yourself-as-a-contributor)
-- [Walkthrough for Contributing via Github GUI](#walkthrough-of-contributing-via-github-gui)
+- [Walkthrough for contributing via Github GUI](#walkthrough-for-contributing-via-github-gui)
 - [Errata](#errata) (for the Coop blog maintainers: reviewing posts, publishing, and changing site layout)
 
 ## What kind of posts are appropriate for our blog?
