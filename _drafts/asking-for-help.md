@@ -1,3 +1,14 @@
+---
+title: "Title goes here"
+author: Lauren Wolfe
+categories:
+  - Community
+tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
+  - help
+  - coding
+  - communication
+---
+
 As some of us find ourselves with extra time on our hands in the COVID-19 era, many at Fred Hutch are looking to sharpen their programming skills. Luckily, we have some amazing opportunities and resources to learn digitally through groups like the Coop/fredhutch.io and TDS-IRC. A natural consequence of more people learning to code is an increase in messages to Slack channels, community groups, and personal messages asking for assistance with coding and software. At first glance, many of these messages seem straightforward: `Hi, I can't install tidyverse. Can you please help?`. This is a reasonable and polite request, but is actually difficult for us to answer. It will take a few back and forth messages, possibly running some code again, to diagnose the issue. How can you make this process run more smoothly? In this post we will go over some norms and best-practices for asking for coding help through slack, email, or online forum.
 
 First, I want to note that a fear of asking for help can be compounded by very real oppressive structures and lived experience. Women, gender-diverse folks, and people of color experience vitriol online at higher rates. Further, these groups often encounter increased scrutiny at work that can make regularly asking for help more intimidating and possibly detrimental to career progress. It's important to cultivate a work environment that actively addresses power structures to create a space that encourages open, vulnerable communication and where asking for help feels comfortable to all. Here at the Coop we are committed to ensuring that everyone feels welcome and encouraged to ask for assistance. If you have any comments, suggestions, or concerns please reach out to either Kate Hertwick or Lauren Wolfe via email, Slack, or Teams.
