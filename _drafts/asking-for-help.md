@@ -1,5 +1,5 @@
 ---
-title: "Title goes here"
+title: "Best practices for asking for coding help"
 author: Lauren Wolfe
 categories:
   - Community
