@@ -32,9 +32,12 @@ First, I want to note that a fear of asking for help can be compounded by very r
 
 5. **Archive your discussion so it can be useful to others**
 
-- No one else should have to suffer through pages of purple links to find the answer they're looking for. It's always good practice to share back what you've learned. 
+- No one else should have to suffer through pages of purple links to find the answer they're looking for. It's always good practice to share back what you've learned.
+  - [File an issue](https://github.com/FredHutch/wiki/issues) for the content to be added to the Biomedical Data Science Wiki
+  - Write a post about what you've learned for the [Coop Blog](https://fredhutch.github.io/coop/)!
 
 - If you have requested help through a forum and a response solved your problem make sure you go back and mark the correct answer to let folks know what worked. It can even be helpful to note what answers did not work for you and why.
+  - This idea applies when asking for help through the Coop Slack channels. It's always encouraged to report back with what worked and what did not.
 
 ## More resources
 While this post generally focuses on getting help through online forums many of these tips apply when asking for help in person as well. For more in-depth information on effectively asking for coding help check out these two articles:
