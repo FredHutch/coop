@@ -13,7 +13,7 @@ As some of us find ourselves with extra time on our hands in the COVID-19 era, m
 
 First, I want to note that a fear of asking for help can be compounded by very real oppressive structures and lived experience. Women, gender-diverse folks, and people of color experience vitriol online at higher rates. Further, these groups often encounter increased scrutiny at work that can make regularly asking for help more intimidating and possibly detrimental to career progress. It's important to cultivate a work environment that actively addresses power structures to create a space that encourages open, vulnerable communication and where asking for help feels comfortable to all. Here at the Coop we are committed to ensuring that everyone feels welcome and encouraged to ask for assistance. If you have any comments, suggestions, or concerns please reach out to either Kate Hertwick or Lauren Wolfe via email, Slack, or Teams.
 
-1. **Do some research before posting/asking**
+**Do some research before posting/asking**
 
 - The first step to encountering a problem is trying to solve it or at least understand it as much as you can on your own. Toss your error code on google, peruse help forums, try a few solutions. 
 
@@ -21,11 +21,11 @@ First, I want to note that a fear of asking for help can be compounded by very r
 
 - *Worst case scenario:* No working results turn up. While this can be a frustrating process it will help you further diagnose your problem (if only by determining what doesn't work) and enable you to describe the situation more clearly. 
 
-2. **Clearly state your problem**
+**Clearly state your problem**
 
 - The quality of the answers you receive is directly related to the quality of the question posed. A good question is concise and systematically addresses the problem. Make sure that before posting any code that you properly introduce and give context to the question you are asking. Enough detail should be provided that someone could answer you without requesting more information. For example, if you're having trouble with software installation, it's incredibly helpful to include both the exact error message or behavior you're receiving, as well as the operating system of your computer.
 
-3. **Make sure your problem is reproducible**
+**Make sure your problem is reproducible**
 
 - If you are asking for help with a coding problem, it is best practice to provide a minimal reproducible example of the code that you need help with. An ideal example uses the minimal amount of code required to reproduce the problem and includes all the parts necessary to reproduce the problem including inputs and desired output. The test code should reliably reproduce the problem you're trying to solve. 
 
@@ -33,7 +33,7 @@ First, I want to note that a fear of asking for help can be compounded by very r
 
 - Make sure that the code you show doesn't contain any sensitive information like personal information, passcodes, etc.
 
-4. **Be nice!**
+**Be nice!**
 
 - Generally, the people you're going to for help on online forums are unpaid and volunteering their time and expertise. Kindness and understanding go a long way.
 
@@ -41,7 +41,7 @@ First, I want to note that a fear of asking for help can be compounded by very r
 
 - Try and remember there are real humans behind the screen and brush off folks who may be less than welcoming.
 
-5. **Archive your discussion so it can be useful to others**
+**Archive your discussion so it can be useful to others**
 
 - No one else should have to suffer through pages of purple links to find the answer they're looking for. It's always good practice to share back what you've learned.
   - [File an issue](https://github.com/FredHutch/wiki/issues) for the content to be added to the Biomedical Data Science Wiki
