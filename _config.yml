@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog is the informal and conversational outlet for the Bioinformatics & Data Science Cooperative at Fred Hutch.
 # twitter_username: username
 # github_username: username
+future: false
 minimal_mistakes_skin: contrast
 search: true
   
