@@ -17,7 +17,7 @@ First, I want to note that a fear of asking for help can be compounded by very r
 
 - The first step to encountering a problem is trying to solve it or at least understand it as much as you can on your own. Toss your error code on google, peruse help forums, try a few solutions. 
 
-- *Best case scenario:* Someone has already asked your exact question and the solution provided works for you! It's good practice to double-check that your question has not already been answered n an Internet forum like [StackOverflow](https://stackoverflow.com/) or the [GATK Community Forum](https://gatk.broadinstitute.org/hc/en-us/community/topics) before posting..
+- *Best case scenario:* Someone has already asked your exact question and the solution provided works for you! It's good practice to double-check that your question has not already been answered on an Internet forum like [StackOverflow](https://stackoverflow.com/) or the [GATK Community Forum](https://gatk.broadinstitute.org/hc/en-us/community/topics) before posting..
 
 - *Worst case scenario:* No working results turn up. While this can be a frustrating process it will help you further diagnose your problem (if only by determining what doesn't work) and enable you to describe the situation more clearly. 
 
