@@ -23,4 +23,4 @@ The deadline for applications is noon on Tuesday, February 18. Please keep in mi
 - If you’re not sure where to find a course, please see [this list](https://sciwiki.fredhutch.org/scicomputing/reference_training/#resources-on-the-web) of course providers other folks at the Hutch have recommended.
 - In return for funding your participation in the course, all we ask in return is a short (e.g., two paragraph) summary of the course. We hope this will provide useful information for your peers who may be interested in taking the course too!
 
-Please contact Kate Hertweck or Justin Burge with any questions. 
+Please contact coophelp at fredhutch.org with any questions.

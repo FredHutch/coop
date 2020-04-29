@@ -1,6 +1,6 @@
 ---
-title: Carly Strasser
-position: Director of Alliances and Data Strategy (2018-2020)
+title: Lauren Wolfe
+position: Research Data Specialist
 affiliation: The Coop, Fred Hutchinson Cancer Research Center
 ---
 ## Title
@@ -12,5 +12,5 @@ affiliation: The Coop, Fred Hutchinson Cancer Research Center
 
 ### Links
 <!-- Add your links below -->
-- [Github](https://github.com/strasser)
-- [Twitter](https://twitter.com/carlystrasser)
+- [Github](https://github.com/lakikowolfe)
+- [Twitter](https://twitter.com/cwolfnado)
