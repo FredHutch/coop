@@ -8,6 +8,7 @@ The content below includes:
 - [Contribute via email](#contribute-via-email)
 - [Contribute via GitHub](#contribute-via-github)
 - [Adding yourself as a contributor](#adding-yourself-as-a-contributor)
+- [Walkthrough for contributing via Github GUI](#walkthrough-for-contributing-via-github-gui)
 - [Errata](#errata) (for the Coop blog maintainers: reviewing posts, publishing, and changing site layout)
 
 ## What kind of posts are appropriate for our blog?
@@ -60,6 +61,78 @@ We list all contributors on our [Contributors](https://fredhutch.github.io/coop/
 
 If you would prefer to not be listed on our contributors page, you should encase your name in quotation marks in the `author` field of your post.
 
+## Walkthrough for Contributing via Github GUI
+*See [this Github Guide](https://guides.github.com/activities/hello-world/) for more information on contributing using the GUI and an overview of branching, committing, and creating pull requests with helpful gifs*
+
+1. Fork the blog repository @ [https://github.com/FredHutch/coop](https://github.com/FredHutch/coop) by clicking `Fork` in the top right corner.
+
+2. In your forked repo click the `Branch` button in the top left corner.
+    - Should drop down, showing a text box and listing all branches.
+
+3. In the text box that says `Find or create branch` type in your new branch name and hit `Enter`.
+    - Branch names should be concise and descriptive of the work you will be doing on that branch.
+        - ex: `typo-fixes`
+    - This should take you to your new branch. You should see your branch name listed on the branch button. You can toggle between branches using this button.
+
+4. If you haven't done so already - create a contributor file.
+    - From the main repo page click `_contributors`.
+    - To create your file click `Create new file` in the top right corner.
+    - Name your file `<hutchid>.md`
+        - Ex: `lwolfe.md`
+    - Copy and paste this template into your file.
+```
+        ---
+        title: #Replace this comment with your name
+        position: #Replace this comment with your job title
+        affiliation: #Replace this comment with your affiliation
+        ---
+        ## Title
+        {{ page.position }}
+        
+        ## Affiliation
+        
+        {{ page.affiliation }}
+        
+        ### Links
+        <!-- Add your links below -->
+        - [Github](https://github.com/<your_github_handle>)
+        - [Twitter](https://twitter.com/<your_twitter_handle>)
+        - [<descriptive text>](<url>) #follow this format to create links
+```
+    - See an example filled out template [here](https://raw.githubusercontent.com/FredHutch/coop/gh-pages/_contributors/lwolfe.md).
+    - Add a descriptive commit message and commit your changes.
+
+5. Create your post!
+    - Navigate to the `_drafts` folder.
+    - To create your file click `Create new file` in the top right corner.
+    - Copy this template into your new file and fill in with your post.
+```
+        ---
+        title: "Title goes here" # replace with the title of your post, a short catchy description to entice readers
+        author: AUTHOR_NAME # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
+        categories: # delete the categories that do not apply and keep at least one
+          - Community
+          - Technical
+          - Science
+        tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
+          - r
+          - python
+        ---
+        ##Replace this with the content for your blog post 
+```
+    - Add a descriptive commit message and commit your changes.
+
+6. If you need to you can go back to your post at any time and edit by clicking the button with a pencil icon on it in the upper right corner of your document. Remember to add a descriptive commit message to log what changes you made!
+
+7. Once your post is finalized you can create a pull request to alert the blog moderators that your post is ready!
+    - Navigate to the main page of your repo.
+    - Click the Pull Request tab at the top of your repo page.
+    - **Base Repository** should be set to `FredHutch/coop`
+    - **Base** should be set to `gh-pages`
+    - **Head Repository** should be set to `<your-gh-handle>/coop`
+    - **Compare** should be set to `<your-working-branch>`
+    - Click `Create Pull Request` to request a review of your material!
+----
 ## Errata
 
 The information below is for maintainers of this blog (members of the team coop-blog-maintainers). This includes:
