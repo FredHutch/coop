@@ -11,8 +11,6 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - uw msds
   - data science
 ---
-## Cancer Survivorship, Collaborations, and the Lessons of a First Time Through
-
 Since beginning work at Fred Hutch, I’ve had a series of distinct experiences that seem to follow a common pattern. You might find it familiar: Someone learns about my work at a cancer research center and they share how their life has been touched by cancer. 
 
 I’ve heard stories I didn’t know from close friends and intimate details from strangers. Stories of diagnosis and treatment, stories of their own health and of loved ones and teachers and colleagues. A notable aspect of what society calls cancer is that these diseases, taken together, seem to highlight the fragility of all human life. Many of these stories, after all, are punctuated by death and there is no known action or group membership that can guarantee us safety. 
