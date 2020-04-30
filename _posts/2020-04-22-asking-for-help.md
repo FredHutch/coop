@@ -67,4 +67,4 @@ Fred Hutch offers in-person help in a number of ways, most of which are still of
 
 - Scientific Computing offers _live_ virtual help (text chat/audio/video) Wednesdays from 10am to noon through [Slack](https://fhbig.slack.com/archives/CD3HGJHJT) and [Teams](https://teams.microsoft.com/l/channel/19%3a0d3ec66c4dd1488a87467fa6a8e8b72d%40thread.skype/Office%2520Hours?groupId=1b968d63-dc19-460f-9e6d-cdbd539d1bc6&tenantId=0054a3ea-b394-418b-ad1a-174138231fd6). All topics are welcome including: accounts/permissions, storage/data management, Linux, bash, scripting, cluster use and parallelism, and basic software/language help primarily in R and Python.
 
-Thanks to Ben McGough for his thoughts and contributions to this post!
+*Thanks to Ben McGough for his thoughts and contributions to this post!*
