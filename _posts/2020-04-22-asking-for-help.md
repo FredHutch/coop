@@ -23,7 +23,8 @@ First, I want to note that a fear of asking for help can be compounded by very r
 
 **Clearly state your problem**
 
-- The quality of the answers you receive is directly related to the quality of the question posed. A good question is concise and systematically addresses the problem. Make sure that before posting any code that you properly introduce and give context to the question you are asking. Enough detail should be provided that someone could answer you without requesting more information. For example, if you're having trouble with software installation, it's incredibly helpful to include both the exact error message or behavior you're receiving, as well as the operating system of your computer. Extra points for versions (language/library/software) and network details if applicable (wifi/VPN).
+- The quality of the answers you receive is directly related to the quality of the question posed. A good question is concise and systematically addresses the problem. Make sure that before posting any code that you properly introduce and give context to the question you are asking. Enough detail should be provided that someone could answer you without requesting more information. 
+- For example, if you're having trouble with software installation, it's incredibly helpful to include both the exact error message or behavior you're receiving, as well as the operating system of your computer. Extra points for versions (language/library/software) and network details if applicable (wifi/VPN).
 
 **Make sure your problem is reproducible**
 
@@ -37,7 +38,7 @@ First, I want to note that a fear of asking for help can be compounded by very r
 
 - We welcome questions at every level. You may feel a question is too basic or simple to ask, but you are not the only person with that question. A searchable answer will help other users.
 
-- After doing a basic search for your answer, please _ask you question_. You will not be chastised for not finding the answer on your own. This isn't the Internet - no one will send a [Let Me Google That For You](https://lmgtfy.com/?q=importerror).
+- After doing a basic search for your answer, please _ask your question_. You will not be chastised for not finding the answer on your own. This isn't the Internet - no one will send a [Let Me Google That For You](https://lmgtfy.com/?q=importerror).
 
 **Be nice!**
 
@@ -51,7 +52,7 @@ First, I want to note that a fear of asking for help can be compounded by very r
 
 - No one else should have to suffer through pages of purple links to find the answer they're looking for. It's always good practice to share back what you've learned.
   - [File an issue](https://github.com/FredHutch/wiki/issues) for the content to be added to the Biomedical Data Science Wiki
-  - Write a post about what you've learned for the [Coop Blog](https://fredhutch.github.io/coop/)!
+  - Write up what you've learned and create your own blog post here or on a personal blog!
 
 - If you have requested help through a forum and a response solved your problem make sure you go back and mark the correct answer to let folks know what worked. It can even be helpful to note what answers did not work for you and why.
   - This idea applies when asking for help through the Coop Slack channels. It's always encouraged to report back with what worked and what did not. Replying to/starting a thread on the original post is the best way.
