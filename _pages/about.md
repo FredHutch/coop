@@ -15,7 +15,7 @@ This blog is the informal and conversational outlet for the The Coop. Posts cove
 **For more information about The Coop please check out:**
 - Public facing site at [thecoop.fredhutch.org](https://research.fhcrc.org/coop/en.html)
 
-**Get involved!:**
+**Get involved:**
 - Chat with us on [Slack](https://fhbig.slack.com/)
 - Join us at our [upcoming events](https://research.fhcrc.org/coop/en/community/participate.html) 
 - Stop by during our [office hours](https://sciwiki.fredhutch.org/scicomputing/reference_training/#office-hours) or in our [community groups](https://sciwiki.fredhutch.org/scicomputing/reference_training/#community-groups)
