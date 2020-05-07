@@ -3,10 +3,12 @@ permalink: /about/
 title: "About"
 author: Coop
 ---
-**About The Coop**
+**About The Coop:**
+
 The [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html) at Fred Hutch, or The Coop for short, is a cooperative that includes all groups and individuals at Fred Hutch interested in bioinformatics and data science. Started at [Fred Hutch](https://www.fredhutch.org/en.html) in 2018, The Coop aims to address duplication of effort, wasted resources including time and money, lack of shared knowledge and best practices, and lost collaboration opportunities as it relates to data science. 
  
-**About this blog**
+**About this blog:**
+
 This blog is the informal and conversational outlet for the The Coop. Posts cover topics relating to science, technology, and the data science community at Fred Hutch. This blog is a community-driven project that is wonderfully created and maintained by [our contributors]({{ site.baseurl }}/contributors/). We encourage anyone with an idea for a post to reach out or create an issue on GitHub! Our team is happy to help you through the process of drafting and publishing a post. Read [here](https://github.com/FredHutch/coop/blob/gh-pages/CONTRIBUTING.md) to learn more about contributing.  
 
 - [View blog posts by categories]({{ site.baseurl }}/categories/)
