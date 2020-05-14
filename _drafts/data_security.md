@@ -1,5 +1,14 @@
-Susan Glick as author
-
+---
+title: "Title goes here" # replace with the title of your post, a short catchy description to entice readers
+author: Susan Glick
+categories: # delete the categories that do not apply and keep at least one
+  - Community
+  - Technical
+tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
+  - data security
+  - privacy
+  - hippa
+---
 - Does not address remote security or security in the era of Covid.
 - links are internal, should be noted
 - include links to public sites with relevant info?
