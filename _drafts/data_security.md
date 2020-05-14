@@ -1,5 +1,5 @@
 ---
-title: "Data security: common mistakes" # replace with the title of your post, a short catchy description to entice readers
+title: "Keeping research data secure: Common mistakes and how to avoid them" # replace with the title of your post, a short catchy description to entice readers
 author: Susan Glick
 categories: # delete the categories that do not apply and keep at least one
   - Community
@@ -7,7 +7,8 @@ categories: # delete the categories that do not apply and keep at least one
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - data security
   - privacy
-  - hippa
+  - data management
+  - information security
 ---
 Landing squarely at the feet of the Hutch Integrated Data and Archives (HIDRA) project, I soon understood the textured value of data.  Data generation, capture, curation and computation is both the vessel and lifeblood of research.  Data generation and curation is pushed by the confluence of improved capabilities of next generation sequencing, electronic health records (EHR), and open science.  Analysis rests on the strength of computational abilities, including scripting and compute power.  In essence, it is the ability to master the dynamic convergence and ramification of multiple data streams that pushes information towards medical discovery.
 
