@@ -12,13 +12,13 @@ Tech and data science spaces tend to be overwhelmingly white. This is true here 
 
 ## Get involved at Fred Hutch
 
-Fred Hutch's Office of Diversity, Equity, and Inclusion (ODEI) is holding sessions to engage the Fred Hutch commuity in structured conversation about racisim. You can register for either of the following sessions by emailing the ODEI at `diversity@fredhutch.org` and requesting a registration link.
+Fred Hutch's Office of Diversity, Equity, and Inclusion (ODEI) is holding sessions to engage the Fred Hutch commuity in structured conversation about racisim. If you're a Fred Hutch employee you can register for either of the following sessions by emailing the ODEI at `diversity` at `fredhutch.org` and requesting a registration link.
 
 * The first session, June 3, is specifically for People of Color at the Hutch, to discuss racism’s specific impacts on People of Color and responds to the need for healing space. 
 
 * The second session, June 10, is open to all employees. We will facilitate an honest conversation about racism and discuss what we can do to foster a greater sense of inclusion among our community — inside and outside of the Hutch. 
 
-Year-round we have an amazing group of organizers running [Diversity Council](https://centernet.fredhutch.org/cn/u/di/erg/diversity-council.html). Diversity Council serves the Fred Hutch community by giving a voice to racial and ethnic minorities, promoting employee engagement through diversity and inclusion educational initiatives, and celebrating successes through inclusive representation in internal and external communications. Join their listserv via the link provided to learn more about upcoming events.
+Year-round we have an amazing group of organizers running [Diversity Council (internal link)](https://centernet.fredhutch.org/cn/u/di/erg/diversity-council.html). Diversity Council serves the Fred Hutch community by giving a voice to racial and ethnic minorities, promoting employee engagement through diversity and inclusion educational initiatives, and celebrating successes through inclusive representation in internal and external communications. Join their listserv via the link provided to learn more about upcoming events.
 
 ## Learn more
 
