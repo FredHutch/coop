@@ -22,7 +22,7 @@ Year-round we have an amazing group of organizers running [Diversity Council (in
 
 ## Learn more
 
-* [Yes, articifial intelligence can be racist - Vox](https://www.vox.com/science-and-health/2019/1/23/18194717/alexandria-ocasio-cortez-ai-bias)
+* [Yes, artificial intelligence can be racist - Vox](https://www.vox.com/science-and-health/2019/1/23/18194717/alexandria-ocasio-cortez-ai-bias)
 
 * [The 1619 Project - The New York Times](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html)
 
