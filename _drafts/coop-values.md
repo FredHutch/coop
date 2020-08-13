@@ -30,12 +30,8 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
 
 **Prioritize learning over knowing** ([https://brenebrown.com/blog/2020/02/13/the-courage-to-not-know/](https://brenebrown.com/blog/2020/02/13/the-courage-to-not-know/))
 
-- Rather than valuing a select group of people as 'knowers' we aim to promote the continuous learning of all community members.
-- Reward and value asking questions and curiosity
-- Prioritize "getting it right" over "needing to be right"
+Rather than valuing a select group of people as 'knowers' we aim to promote the continuous learning of all community members. Rather than putting a high premium on being right we will reward and value asking questions and curiosity.
 
 **Facilitate building connections**
 
-- Folks doing data driven work are spread across fred hutch in different labs and departments
-- Create a space for folks to come together to leverage their diverse experiences
-- Aim to support professional development through training, seminars, and networking
+Fred Hutch is structured in a way that distributes people doing data driven work widely across different labs and departments within The Hutch. The Coop is a space for our diverse data driven community to come together to share their skills and collaborate. We support the development of the community through providing seminars, working groups, and communication channels like the Coop Slack.
