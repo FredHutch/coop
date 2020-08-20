@@ -1,11 +1,12 @@
 ---
-title: "The Coop in Review: 2019" # replace with the title of your post
-author: Carly Strasser
+title: "Coop community values" # replace with the title of your post
+author: The Coop Team
 categories: # delete the categories that do not apply
   - Community
 tags: # add a few lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
-  - announcement
-  - year in review
+  - values
+  - diversity equity inclusion
+  - strategy
 ---
 
 We are pleased to release this draft of community values for the Coop. 
