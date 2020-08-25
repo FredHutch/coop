@@ -10,6 +10,8 @@ tags:
   - announcement
 ---
 
+> Our draft of community values is now available [here!](https://fredhutch.github.io/coop/community/coop-values/)
+
 The Coop team would like to announce a new project for our community, led by Lauren Wolfe: development of the Coop's community values. Recent transitions for the Coop and conversations [public health](https://fredhutch.github.io/coop/science/tableau-covid/) and [social justice](https://fredhutch.github.io/coop/community/coop-values-racial-injustice/) in the United States have promted us to take a step back and consider why we do what we do--in other words, clarifying our values.
 
 ## Why develop community values?
