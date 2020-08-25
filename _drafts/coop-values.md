@@ -42,7 +42,7 @@ We acknowledge and reward the courage and vulnerability our community members sh
 One of the main goals of the Coop is to make data-intensive research accessible to all groups and individuals at Fred Hutch. 
 Accessible means that information to assist in computational research is discoverable and interpretable.
 Additionally, a goal of accessibility requires acknowledging and actively addressing systematic barriers to entry and success in data-intensive research throughout our society, 
-including issues related to disability justice, anti-Blackness, and sexism. 
+including issues related to anti-Blackness, disability justice, and sexism. 
 The Coop is committed to learning how to best serve a community with diverse and dynamic needs. 
 
 ### Facilitate building connections
@@ -51,12 +51,12 @@ Community members involved in data and computational research at Fred Hutch are 
 The Coop is a space, both physical and virtual, for our diverse and distributed community to build connections and collaborate across campus. 
 Whether brand-new to computing, or a programming expert, we help community members connect with like-minded colleagues,
 and identify patterns of common interests in research and methodologies.
-We connect our computational community with the outside world by highlighting and publicizing their work, especially at the trainee level, 
+We connect our computational community with the outside world by publicizing their work, especially at the trainee level, 
 to highlight the contributions they make to exciting and high-profile research.
 
 ## Share your thoughts!
 
-Given our [previous post]((https://fredhutch.github.io/coop/community/values-announce/)
+Given our [previous post](https://fredhutch.github.io/coop/community/values-announce/)
 describing the process and rationale for this project,
 how do you feel about our values?
 What is important to you about our community,
