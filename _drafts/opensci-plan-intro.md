@@ -38,11 +38,12 @@ Shifting a group's culture and practice is slow and consistant work and so it ca
 
 The posts in this series are meant to be a suggestion for ten meetings to orient your research group’s approach to open science. These meetings should be encouraged by a team leader, but they don't necessarily have to attend. Activities can span multiple weeks and should be revisited as needed, like when a new member join the lab. While these resources are R focused, they remain illustrative of good theory and practice no matter the coding language.
 
-**Each post has four central components:**
+**Each post has five central components:**
 - Question statement
 - List of long term goals
 - Readings
 - Discussion prompts
+- Activities
 
 We will use these posts to dive into the reading and explore how it relates to the discussion prompts and long term goals.
 
