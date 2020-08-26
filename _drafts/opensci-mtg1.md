@@ -8,11 +8,47 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - open science
 ---
 
-Week 1: What does a team workflow using open data science look like? What does the transition look like?
+- First post of the open science series!
+- For more information on this series see our previous post [needs link]
 
-Long-term goals: Transition into open data science incrementally, and involve peer-to-peer learning and online communities.
+**Question**: This week revolves around the question of what does a team workflow using open data science look like and what does the transition to this system look like?
 
-Read: Lowndes, J. S. S. et al. Nature Ecol. Evol. 1, 0160 (2017).
-https://www.nature.com/articles/s41559-017-0160
+**Goals to keep in mind**:
+- Transition into open data science incrementally
+- Involve peer-to-peer learning and online communities.
 
-Discuss: How do we approach reproducibility, collaboration and communication?
+**Read**: [Lowndes, J. S. S. et al. Nature Ecol. Evol. 1, 0160 (2017)](https://www.nature.com/articles/s41559-017-0160)
+- Reproducibility is taught to be a central pillar of doing science
+  - goes hand in hand with open science - what is the use in sharing code/software/analyses if a user cannot reproduce the results you came to anyways?
+  - Think of open science as "transparent, reproducible, collaborative and openly shared and communicated science"
+- It's become more and more challenging to achieve
+  - The authors of this paper are Environmental scientists and often are required to re-run analyses with new data as it becomes available
+    - Found it very difficult to reproduce their OWN analyses
+    - Not unique to esci, high profile papers from cancer biology, psychology illustrate this problem (see bibliography)
+- Most folks doing analysis in esci (similar to biology) are self taught
+  - develop workarounds to keep pace with publishing a paper (have to balance learning "the right way" with time/output)
+  - wastes time and effort reinventing the wheel just to create a result that is likely unintelligable to someone else or themselves a year down the line 
+- This lab utilized workflows, tools, and philosiphies from sfotware dev to improve their ability to and the speed that they reproduce their results
+- (Fig 1) Notice that this is a highly iterative and long term process!
+  - This has been ongoing from 2012 - 2017!
+  - Each year there is a different focus to work through (Rather than trying to solve it all at once)
+  - Started with code/analyses and moved into documentation/version controlling/data management
+- Changing the way you have always worked is intimidating
+- key lessons
+  - "powerful tools exist and are freely available to use"
+  - "The barriers to entry seem to be exposure to relevant tools and building confidence using them"
+- They thought they were doing reproducible science!
+  - Focused on reproducible science methods rather than data science methods
+  - Data was being prepared manually in Excel. Documentation on this process was scattered in Excel, emails, word files and difficult to recover/make sense of
+  - Communicate in shared files, often vaguely named and manually versioned via the title
+- Second assessment in 2013 showed that this approach did not work. Relies on human memory, email chains and personal organization.
+    - especially problemnatic when someone moves on from the lab
+- Identified three areas to improve in 2013 assessment - reproducibility, communication, collaboration
+- Focused on learning R for modeling and visualization, Git for version control, GitHub for collaboration and communication
+
+![Image of Yaktocat](https://www.nature.com/articles/s41559-017-0160/tables/1)
+
+
+**Discussion prompt**: 
+- How do we approach reproducibility
+- Collaboration and communication?
