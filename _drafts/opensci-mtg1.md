@@ -45,8 +45,23 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
     - especially problemnatic when someone moves on from the lab
 - Identified three areas to improve in 2013 assessment - reproducibility, communication, collaboration
 - Focused on learning R for modeling and visualization, Git for version control, GitHub for collaboration and communication
+- Open data science tools took a substantial investment to learn
+  - Most in the lab had only learned enough programming to achieve a desired result using their own unique practices/workflows along the way
+  - working collaboratively and effectively using these tools would require adopting best practices
+- focus for reproducibility:
+  - methods are transparent, reproducible, and also repeatable with additional data for tracking changes through time
+- focus for collaboration:
+  - Our team collaborates in real-time and also treats our future selves as collaborators, knowing that ‘future us’ can only rely on detailed records
+- focus for communication:
+  - share our code online, but to create reports, e-books, interactive web applications, and entire websites, which we can share for free to communicate our work.
+- Closing thoughts
+  - many researchers don't even try to reproduce their past work
+  - This process, while painful, is enlightening and makes it easier to identify inefficiencies
+ 
 
-![Image of Yaktocat](https://www.nature.com/articles/s41559-017-0160/tables/1)
+
+
+[Include this table??](https://www.nature.com/articles/s41559-017-0160/tables/1)
 
 
 **Discussion prompt**: 
