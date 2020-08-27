@@ -6,6 +6,10 @@ categories: # delete the categories that do not apply and keep at least one
   - Science
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - open science
+  - reproducibility
+  - workflow
+  - collaboration
+  - communication
 ---
 
 - First post of the open science series!
@@ -57,8 +61,10 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
 - Closing thoughts
   - many researchers don't even try to reproduce their past work
   - This process, while painful, is enlightening and makes it easier to identify inefficiencies
- 
-
+  - without visible examples of how to use open data tools in scientific research fields folks will continue to recreate the wheel
+  - reproducibility across all disciplines in modern science is working effectively and collaboratively with data, including wrangling, formatting and other tasks that can take 50–80% of a data scientist's time
+  - Scientific progress requires that we build off of the previous work of others. How can we do this if work isn't reproducable?
+  - "benefits of openness can be a by-product of time-saving efficiencies, because tools that reduce data headaches also result in science that is more transparent, reproducible, collaborative and freely accessible to others"
 
 
 [Include this table??](https://www.nature.com/articles/s41559-017-0160/tables/1)
