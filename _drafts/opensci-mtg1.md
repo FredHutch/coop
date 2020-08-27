@@ -47,3 +47,9 @@ Main themes:
 **Discussion prompt**: 
 - How do we approach reproducibility
 - Collaboration and communication?
+
+## Closing
+
+## We want to hear from you!
+
+Maybe this post prompted your group to begin a dialogue on how to improve reproducibility or maybe your group is seasoned at thinking about these things. Regardless, we would love to hear from you about your groups open-science barriers, transition process, and/or solutions and share your story with the Coop community. It doesn't have to be as comprehensive as this paper which, and I cannot stress this enough, covers incremental changes a lab made over the course of **years**. Whether you came up with a solution for communicating and sharing data with your collaborators, improved documentation in your lab, or were just prompted to started the conversation let us know by Slack, MS Teams, the `FredHutch/coop` GitHub, or by emailing us at `coophelp`.
