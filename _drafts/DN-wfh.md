@@ -10,3 +10,5 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - python
 ---
 ##Replace this with the content for your blog post
+
+https://devnambi.com/2020/wfh.html
