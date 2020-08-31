@@ -1,5 +1,5 @@
 ---
-title: "R Package Development"
+title: "Introducing my first R package from scratch: CoopMetrics"
 author: Lauren Wolfe
   - Technical
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
@@ -32,6 +32,8 @@ The hardest part of function development for me is getting started. Often times 
 
 As someone who is a little out of practice when it comes to coding, developing this package was a great reminder that coding is a messy and iterative process (or at least it is for me). Sometimes you have to burn it down and try again and that is ok! For example, I originally built a function that pulls a single month of metrics at a time. Then, when I started building out the monthly report for the blog, I realized that I would obviously want to pull multiple months at a time! I was a little annoyed with myself for having to overhaul my code. Ultimately, it only took a couple hours for me to figure out how to adapt things. This is to say, don’t let the fear of having to rework a code keep you from getting started! It's all part of the process.
 
+When I ran into more complicated roadblocks I wanted to have a face-to-face discussion to ask for folks thoughts on best practices. I used the `#R-user-comm` Slack channel to host a quick lunch time video call and discuss things related to package development with my more experienced coworkers. The Coop's Slack and MS Teams channels are available to the community to host discussions and are a great opportunity to engage with coworkers you might not see regularly while work remains remote.
+
 ## Next steps
 
 There is still quite a bit that I want to do with this package! My next steps are the following:
@@ -46,7 +48,7 @@ If you have a GitHub pages blog that you'd like to collect metrics on feel free 
 
 ## Closing thoughts
 
-This project has been great practice in learning and coding openly and vulnerably. When I first began writing code with a small team a few years ago the idea of sharing the code I wrote was terrifying and I absolutely hated it!  Even now, when Kate first told me that she wanted me to write this post I was not very excited about it. I'm someone who hates making mistakes and I feel pretty uncomfortable letting "the world" see an unfinished and imperfect project. I think this is pretty common, especially in academic settings. But here we are at the end of the post and I’m glad I wrote it!
+This project has been great practice in learning and coding openly and vulnerably. When I first began writing code with a small team a few years ago the idea of sharing the code I wrote was terrifying and I absolutely hated it!  Even recently, when Kate first told me that she wanted me to write this post I was not very excited about it. I don't consider myself a great coder and even worse I considered my package to be far from ready for it's debut! The idea of letting "the world" see my unfinished and imperfect project sounded pretty terrible to me. I think it is pretty common, especially in academic settings, to avoid putting what you don't know on full display. But here we are at the end of the post and I’m glad I wrote it!
 
 ## Other resources related to this project
 
