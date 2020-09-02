@@ -45,7 +45,21 @@ This blog is published through [GitHub](https://github.com), and we are happy to
 
 - Fork the [repository](https://github.com/FredHutch/coop)
 - In your fork, create a new branch with a name that reflects your blog post (e.g., `python-december`)
-- Copy the [markdown blog post template](/drafts/TEMPLATE-post-title.md) to a new file named to reflect your post (e.g., `python-december.md`)
+- Copy the template below to a new file named to reflect your post (e.g., `python-december.md`)
+```
+---
+title: "Title goes here" # replace with the title of your post, a short catchy description to entice readers
+author: AUTHOR_NAME # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
+categories: # delete the categories that do not apply and keep at least one
+  - Community
+  - Technical
+  - Science
+tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
+  - r
+  - python
+---
+##Replace this with the content for your blog post
+```
 - Modify the header and body of the template to reflect [required content](#required-content-for-a-blog-post), save to the [drafts folder](https://github.com/FredHutch/coop/tree/gh-pages/_drafts), and commit to your branch
 - Submit a PR to the `gh-pages` branch in [this repository](https://github.com/FredHutch/coop)
 
@@ -65,21 +79,18 @@ If you would prefer to not be listed on our contributors page, you should encase
 *See [this Github Guide](https://guides.github.com/activities/hello-world/) for more information on contributing using the GUI and an overview of branching, committing, and creating pull requests with helpful gifs*
 
 1. Fork the blog repository @ [https://github.com/FredHutch/coop](https://github.com/FredHutch/coop) by clicking `Fork` in the top right corner.
-
 2. In your forked repo click the `Branch` button in the top left corner.
     - Should drop down, showing a text box and listing all branches.
-
 3. In the text box that says `Find or create branch` type in your new branch name and hit `Enter`.
     - Branch names should be concise and descriptive of the work you will be doing on that branch.
         - ex: `typo-fixes`
     - This should take you to your new branch. You should see your branch name listed on the branch button. You can toggle between branches using this button.
-
 4. If you haven't done so already - create a contributor file.
     - From the main repo page click `_contributors`.
     - To create your file click `Create new file` in the top right corner.
     - Name your file `<hutchid>.md`
         - Ex: `lwolfe.md`
-    - Copy and paste this template into your file.
+    - Copy and paste the template below into your file.
 ```
         ---
         title: #Replace this comment with your name
