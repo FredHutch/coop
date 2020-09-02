@@ -48,9 +48,9 @@ If you have a GitHub pages blog that you'd like to collect metrics on feel free 
 
 ## Closing thoughts
 
-This project has been great practice in learning and coding openly and vulnerably. When I first began writing code with a small team a few years ago the idea of sharing the code I wrote was terrifying and I absolutely hated it!  Even recently, when Kate first told me that she wanted me to write this post I was not very excited about it. I don't consider myself a great coder and even worse I considered my package to be far from ready for its debut! The idea of letting "the world" see my unfinished and imperfect project sounded pretty terrible to me. I think it is pretty common, especially in academic settings, to avoid putting what you don't know on full display. But here we are at the end of the post and I’m glad I wrote it!
+This project has been great practice in learning and coding openly and vulnerably. When I first began writing code with a small team a few years ago the idea of sharing the code I wrote was terrifying and I absolutely hated it!  Even recently, when Kate first told me that she wanted me to write this post I was not very excited about it. I don't consider myself a great coder and even worse I considered my package to be far from ready for its debut! The idea of letting "the world" see my unfinished and imperfect project sounded pretty terrible to me. I think it is pretty common, especially in academic settings, to avoid putting what you don't know on full display. But here we are at the end of the post and I’m glad I wrote it! If you're developing an R package and would like to write about it let us know! You can reach us on MS Teams, Slack, and by emailing `coophelp`.
 
-## Other resources related to this project
+## Resources related to this project
 
 - [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
 - [Devtools cheatsheet](https://rstudio.com/wp-content/uploads/2015/06/devtools-cheatsheet.pdf)
