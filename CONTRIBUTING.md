@@ -91,7 +91,7 @@ If you would prefer to not be listed on our contributors page, you should encase
     - Name your file `<hutchid>.md`
         - Ex: `lwolfe.md`
     - Copy and paste the template below into your file.
-```
+       ```
         ---
         title: #Replace this comment with your name
         position: #Replace this comment with your job title
@@ -109,7 +109,7 @@ If you would prefer to not be listed on our contributors page, you should encase
         - [Github](https://github.com/<your_github_handle>)
         - [Twitter](https://twitter.com/<your_twitter_handle>)
         - [<descriptive text>](<url>) #follow this format to create links
-```
+        ```
     - See an example filled out template [here](https://raw.githubusercontent.com/FredHutch/coop/gh-pages/_contributors/lwolfe.md).
     - Add a descriptive commit message and commit your changes.
 
@@ -117,7 +117,7 @@ If you would prefer to not be listed on our contributors page, you should encase
     - Navigate to the `_drafts` folder.
     - To create your file click `Create new file` in the top right corner.
     - Copy this template into your new file and fill in with your post.
-```
+    ```
         ---
         title: "Title goes here" # replace with the title of your post, a short catchy description to entice readers
         author: AUTHOR_NAME # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
@@ -130,7 +130,7 @@ If you would prefer to not be listed on our contributors page, you should encase
           - python
         ---
         ##Replace this with the content for your blog post 
-```
+    ```
     - Add a descriptive commit message and commit your changes.
 
 6. If you need to you can go back to your post at any time and edit by clicking the button with a pencil icon on it in the upper right corner of your document. Remember to add a descriptive commit message to log what changes you made!
