@@ -45,12 +45,15 @@ So now that we have some ideas of things to change, I had to come up with a desi
 And then I iterated.... get feedback, analyze it, design, prototype, repeat. You can use the final product (for now) to explore datasets on [immunespace.com](http://immunespace.com). Full disclosure: you will be required to make a free account by providing your email and some basic user information to access it. If making an account isn't your thing, thats ok! You can see images of the original datafinder, an intermediate prototype, and the current datafinder below.
 
 Original Datafinder:
+
 ![ImmuneSpace before]({{ site.baseurl }}/assets/datafinder-ux/df-before.png)
 
 Prototype Datafinder:
+
 ![ImmuneSpace intermediate]({{ site.baseurl }}/assets/datafinder-ux/df_intermediate.png)
 
 Current Datafinder:
+
 ![ImmuneSpace after]({{ site.baseurl }}/assets/datafinder-ux/df_after.png)
 
 It was sure a lot more work than I expected! It's easy to iterate and update design when I, the developer, look at the site and think "I think this would make it better!" But when I took the time to see how users interacted with it, I got some surprises. You can't give the users what they want or what they need unless you ask them! 
