@@ -1,6 +1,7 @@
 ---
 title: "Introducing my first R package from scratch: CoopMetrics"
 author: Lauren Wolfe
+categories:
   - Technical
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - r
