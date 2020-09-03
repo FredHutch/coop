@@ -4,8 +4,9 @@ author: Helen Miller # the author value should match the 'title' value of your c
 categories: # delete the categories that do not apply and keep at least one
   - Technical
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
-  - ux/ui
+  - ux
   - data sharing
+  - open science
 ---
 About a year and a half ago, shortly after I started working at Fred Hutch, I took on redesigning part of the user interface on the website I work on: [ImmuneSpace](https://www.immunespace.org/). ImmuneSpace is a public data portal which holds biological assay data from over 100 different studies, and includes tools for visualizing and analyzing, and downloading it. I like working with public data. I think data sharing and public data portals can be really useful to science. But it can be frustrating sometimes too. For public data to be useful, it has to be well-documented and accessible. And as there's more and more of it, the challenge of even finding something useful becomes more daunting. 
 
