@@ -17,7 +17,7 @@ The Coop is pleased to publish our first post in a ten-post series inspired by [
 ## Meeting 1: Beginning the conversation
 
 **Motivating question**: 
-- What does a team workflow using open data science look like
+- What does a team workflow using open data science look like?
 - What does the transition to this system look like?
 
 **Goals to keep in mind**:
@@ -32,7 +32,7 @@ The Coop is pleased to publish our first post in a ten-post series inspired by [
 
 **Related work at the Hutch**:  
 _Changing the way you do things is intimidating! Luckily Fred Hutch has resources to help!_
-- See [this page](https://sciwiki.fredhutch.org/scicomputing/reference_training/) from the Fred Hutchinson Biomedical Data Science Wiki resources on training, community groups, and how to ask for help.
+- See [this page](https://sciwiki.fredhutch.org/scicomputing/reference_training/) from the Fred Hutchinson Biomedical Data Science Wiki for resources on training, community groups, and how to ask for help.
 - [Check out open source projects happening now at Fred Hutch!](https://github.com/FredHutch/)
 
 ## Up Next
