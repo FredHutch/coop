@@ -39,7 +39,7 @@ _Changing the way you do things is intimidating! Luckily Fred Hutch has resource
 
 ## Up Next
 
-- What are our values? How do we build trust and facilitate collaboration?
+- How do we store and share our data, methods and code?
 
 ## We want to hear from you!
 
