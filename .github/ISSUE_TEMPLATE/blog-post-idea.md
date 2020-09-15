@@ -8,7 +8,10 @@ assignees: ''
 **Description:** _(Describe your idea!)_
 
 
-**Reference:** _(What articles/papers inspired this post and/or will be used for reference?)_
+**Related values:** _You can reference the Coop Values [here](https://fredhutch.github.io/coop/community/coop-values/)_
+
+
+**Reference:** _(What articles/papers/conversations inspired this post and/or will be used for reference?)_
 
 
 **Category:** _(choose Community, Technical, or Science as described in the contributing guidelines)_
