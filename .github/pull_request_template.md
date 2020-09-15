@@ -5,6 +5,7 @@
 - [ ] _Categories_ - Select 1 at minimum of either Community, Technical, or Science as [describe here](https://github.com/FredHutch/coop/blob/gh-pages/CONTRIBUTING.md#what-kind-of-posts-are-appropriate-for-our-blog)
 - [ ] _Tags_ - Suggested keywords that can help readers find information from among our blog posts. Please suggest a few tags following [our guidelines](https://github.com/FredHutch/coop/blob/gh-pages/CONTRIBUTING.md#tags).
 - [ ] _Content_ - This is the body of the blog post! We recommend relatively short posts (no more than five paragraphs), equivalent to a three minute read. Pictures and links to other sites are also great!
+- [ ] _Reviewer_ - Make sure your post has a tagged reviewer! Select either @k8hertweck or @lakikowolfe for review by clicking the `reviewers` button on the right hand side of the page.
 
 The Coop team member reviewing the submission will check for the following:
 
