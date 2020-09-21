@@ -1,14 +1,14 @@
 ---
-title: "Title goes here" # replace with the title of your post, a short catchy description to entice readers
-author: AUTHOR_NAME # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
-categories: # delete the categories that do not apply and keep at least one
-  - Community
+title: "Community highlight: Dev Nambi's blog!"
+author: Lauren Wolfe
+categories: 
   - Technical
-  - Science
+  - Community
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
-  - r
-  - python
+  - productivity
+  - remote work
+  - work habits
+  - highlight
 ---
-##Replace this with the content for your blog post
 
-https://devnambi.com/2020/wfh.html
+This week the Coop is excited to highlight Dev Nambi and his blog, [DevNambi.com](https://devnambi.com/)! Dev is currently a principle data scientist working on building cloud infrastrcuture and single-cell genomics pipelines for the [Data Visualization Center](https://viz.fredhutch.org/). Dev writes about all sorts of things related to data science and his work in this blog. The posts on DevNambi.com are practical and fairly concise, but the addition of gifs, pictures, and Dev's humor are sprinkled throughout to keep things entertaining. I love that liberal use of easy to digest bulleted lists and workflow diagrams and that each post is packed with links out to relevant articles and past posts. Dev's recent [post on working from home](https://devnambi.com/2020/wfh.html) is an excellent follow up to [this](https://fredhutch.github.io/coop/community/wfh-tips/) Coop blog post from early in the pandemic. In this post Dev reflects on his the difficulties of remote work and how he's optimized his productivity
