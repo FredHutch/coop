@@ -10,10 +10,6 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - python
 ---
 
-- Intro, link previous posts
-
----
-
 ## Meeting 4: Streamlining other aspects of research (i.e. presentations and teaching)
 
 **Motivating questions**: 
