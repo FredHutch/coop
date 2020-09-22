@@ -21,7 +21,6 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
 **Read**: 
 - [GitHub for project management](https://openscapes.github.io/series/github-issues.html)
 
-
 **Discussion prompt**: 
 - What programs do we use, and what accounts does our institution have?
 
@@ -30,10 +29,8 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
 
 **Related work at the Hutch**:  
 
-_Fred Hutch supports MS Teams as a way to communicate and share documents._
-
-- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and a [quick overview of using MS Teams for online meetings](https://fredhutch.github.io/coop/community/ms-teams/).
-- [Get started with MS Teams and Sharepoint (Fred Hutch internal link)](https://centernet.fredhutch.org/cn/u/center-it/help-desk/microsoft-teams/sharepoint-and-msteams.html)
+- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and guidance for using [Slack](https://fredhutch.github.io/coop/community/slack-discussions/) and [MS Teams](https://fredhutch.github.io/coop/community/ms-teams/).
+- See the [Fred Hutch Video Conferencing Guide (internal link)](https://centernet.fredhutch.org/content/dam/centernet/u/center-it/V2_AllHutch_ConferencingandCollaboration_Options.pdf) for a full breakdown of video conferencing options.
 
 ## Up next
 
