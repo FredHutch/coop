@@ -16,16 +16,16 @@ Welcome to the second post in a ten-post series inspired by [this](https://www.n
 
 ## Meeting 2: Storing data, methods, and code
 
-**Motivating question**: 
+**Motivating questions**: 
 - How do we store and share our data, methods and code?
 
 **Goals to keep in mind**:
 - Have clear systems for data management, storage and backup, as well as for documentation of methods and code.
 
-**Read**: 
+**Reading**: 
 - [Wilson, G. et al. PLoS Comput. Biol. 13, e1005510 (2017).](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 
-**Discussion prompt**: 
+**Discussion prompts**: 
 - What are our data-management systems?
 
 **Related work at the Hutch**:  
