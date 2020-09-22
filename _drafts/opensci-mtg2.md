@@ -29,6 +29,9 @@ Welcome to the second post in a ten-post series inspired by [this](https://www.n
 - What are our data-management systems?
 
 **Related work at the Hutch**:  
+
+_Many folks at Fred Hutch are thinking about how to manage and store data, methods, and code!_
+
 - See [this](https://sciwiki.fredhutch.org/scicomputing/store_overview/) page from the Fred Hutchinson Biomedical Data Science Wiki for information on different data storage options at the Hutch.
 - Check out [dataPackageR](https://github.com/ropensci/DataPackageR). This package is for processing raw data into tidy data sets and bundling them into R packages to make analyses easier to share and reproduce.
 
