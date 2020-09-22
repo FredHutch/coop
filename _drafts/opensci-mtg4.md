@@ -32,7 +32,7 @@ No reading.
 
 _Fred Hutch supports MS Teams as a way to communicate and share documents._
 
-- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and a [quick overview of using MS Teams for online meetings](https://fredhutch.github.io/coop/community/ms-teams/).
+- Read a [quick overview of using MS Teams for online meetings](https://fredhutch.github.io/coop/community/ms-teams/) from the Coop Blog.
 - [Get started with MS Teams and Sharepoint (Fred Hutch internal link)](https://centernet.fredhutch.org/cn/u/center-it/help-desk/microsoft-teams/sharepoint-and-msteams.html)
 
 ## Up next
