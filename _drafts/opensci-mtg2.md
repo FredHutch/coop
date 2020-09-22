@@ -37,7 +37,3 @@ _Many folks at Fred Hutch are thinking about how to manage and store data, metho
 ## Up next
 
 - What are our values? How do we build trust and facilitate collaboration?
-
-## We want to hear from you!
-
-Whether you came up with a solution for communicating and sharing data with your collaborators, improved documentation in your lab, or were just prompted to started the conversation let us know by Slack, MS Teams, the `FredHutch/coop` GitHub, or by emailing us at `coophelp`.
