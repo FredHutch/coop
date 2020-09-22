@@ -14,23 +14,31 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
 
 ---
 
-**Question**:  How do we streamline other aspects of our research, such as presentations and teaching?
+## Meeting 4: Streamlinking other aspects of research (i.e. presentations and teaching)
 
-**Goals to keep in mind**: Create a culture of sharing text (for example, manuscripts and proposals), photos, posters and presentations.
+**Motivating questions**: 
+- How do we streamline other aspects of our research, such as presentations and teaching?
+
+**Goals to keep in mind**:
+- Create a culture of sharing text (for example, manuscripts and proposals), photos, posters and presentations.
 
 **Read**: 
+No reading.
 
-No reading
+**Discussion prompt**: 
+- What are we comfortable sharing with each other? 
+- How can we streamline organization and sharing of files?
 
-**Discussion prompt**: What are we comfortable sharing with each other? How can we streamline organization and sharing of files?
+**Task**:
+- Create and organize a Google Drive/MS Team for the group. Explore the options for sharing within your chosen platform.
 
-**Task** Create and organize a Google Drive for the group. Explore Google Slides and Drawings.
+**Related work at the Hutch**:  
 
-**Hutch specific prompts**:
+_Fred Hutch supports MS Teams as a way to communicate and share documents._
 
-## About/link to next post
+- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and a [quick overview of using MS Teams for online meetings](https://fredhutch.github.io/coop/community/ms-teams/).
+- [Get started with MS Teams and Sharepoint (Fred Hutch internal link)](https://centernet.fredhutch.org/cn/u/center-it/help-desk/microsoft-teams/sharepoint-and-msteams.html)
 
+## Up next
 
-## We want to hear from you!
-
-Maybe this post prompted your group to begin a dialogue on how to improve reproducibility or maybe your group is seasoned at thinking about these things. Regardless, we would love to hear from you about your groups open-science barriers, transition process, and/or solutions and share your story with the Coop community. It doesn't have to be as comprehensive as this paper which, and I cannot stress this enough, covers incremental changes a lab made over the course of **years**. Whether you came up with a solution for communicating and sharing data with your collaborators, improved documentation in your lab, or were just prompted to started the conversation let us know by Slack, MS Teams, the `FredHutch/coop` GitHub, or by emailing us at `coophelp`.
+- Collaborating remotely
