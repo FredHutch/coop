@@ -16,7 +16,7 @@ The Coop is pleased to publish our first post in a ten-post series inspired by [
 
 ## Meeting 1: Beginning the conversation
 
-**Motivating question**: 
+**Motivating questions**: 
 - What does a team workflow using open data science look like?
 - What does the transition to this system look like?
 
@@ -24,10 +24,10 @@ The Coop is pleased to publish our first post in a ten-post series inspired by [
 - Transition into open data science incrementally.
 - Involve peer-to-peer learning and online communities in your plan.
 
-**Read**: 
+**Reading**: 
 - [Lowndes, J. S. S. et al. Nature Ecol. Evol. 1, 0160 (2017)](https://www.nature.com/articles/s41559-017-0160)
 
-**Discussion prompt**: 
+**Discussion prompts**: 
 - How do we approach reproducibility, collaboration, and communication?
 
 **Related work at the Hutch**:  
