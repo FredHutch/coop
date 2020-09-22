@@ -14,7 +14,7 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
 
 ---
 
-## Meeting 4: Streamlinking other aspects of research (i.e. presentations and teaching)
+## Meeting 4: Streamlining other aspects of research (i.e. presentations and teaching)
 
 **Motivating questions**: 
 - How do we streamline other aspects of our research, such as presentations and teaching?
