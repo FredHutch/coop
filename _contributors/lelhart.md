@@ -1,6 +1,6 @@
 ---
 title: Lindsey Elhart
-position: Data Analyst
+position: Data Analyst (2018-2020)
 affiliation: The Coop, Tableau Community Leader, Fred Hutchinson Cancer Research Center
 ---
 ## Title
