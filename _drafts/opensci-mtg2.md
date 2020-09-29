@@ -22,7 +22,7 @@ Welcome to the second post in a ten-post series inspired by [this](https://www.n
 - Have clear systems for data management, storage and backup, as well as for documentation of methods and code.
 
 **Reading**: 
-- [Wilson, G. et al. PLoS Comput. Biol. 13, e1005510 (2017).](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 
 **Discussion prompts**: 
 - What are our data-management systems?
