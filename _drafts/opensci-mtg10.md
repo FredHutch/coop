@@ -1,5 +1,5 @@
 ---
-title: "Supercharge your research with open science meeting 5: Collaborating remotely"
+title: "Supercharge your research with open science meeting 10: Continuing to improve and learn"
 author: Lauren Wolfe
 categories: # delete the categories that do not apply and keep at least one
   - Community
@@ -13,28 +13,22 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - project management
 ---
 
-## Meeting 5: Collaborating remotely
-
 **Motivating questions**: 
-- How do I collaborate easily with people who are remote or in different time zones?
+- How do we continue learning and improving how we work together?
 
 **Goals to keep in mind**:
-- Reduce barriers to remote participation, and enable asynchronous collaboration.
+- Create a shared vision for future meetings so they provide a mix of skill development and team building.
 
 **Read**: 
-- [GitHub for project management](https://openscapes.github.io/series/github-issues.html)
+- No reading.
 
 **Discussion prompt**: 
-- What programs do we use, and what accounts does our institution have?
+- How can we set topics, and how do we rotate who leads?
 
 **Task**:
-- Explore software options for video conferencing, group chat and project management, such as Zoom, Slack and GitHub.
+- Identify learning opportunities (for example, rOpenSci, R-Ladies or The Carpentries). Work out what allies you have at your institution (such as data librarians or coding clubs).
 
-**Related work at the Hutch**:  
+## Closing
 
-- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and guidance for using [Slack](https://fredhutch.github.io/coop/community/slack-discussions/) and [MS Teams](https://fredhutch.github.io/coop/community/ms-teams/).
-- See the [Fred Hutch Video Conferencing Guide (internal link)](https://centernet.fredhutch.org/content/dam/centernet/u/center-it/V2_AllHutch_ConferencingandCollaboration_Options.pdf) for a full breakdown of video conferencing options.
-
-## Up next
-
-- Utilizing version control
+- note where to find all the links
+- ask for folks to let us know if they have these meetings?
