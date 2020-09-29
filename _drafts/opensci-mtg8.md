@@ -1,5 +1,5 @@
 ---
-title: "Supercharge your research with open science meeting 5: Collaborating remotely"
+title: "Supercharge your research with open science meeting 8: Data management to streamline analysis"
 author: Lauren Wolfe
 categories: # delete the categories that do not apply and keep at least one
   - Community
@@ -13,28 +13,24 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - project management
 ---
 
-## Meeting 5: Collaborating remotely
-
 **Motivating questions**: 
-- How do I collaborate easily with people who are remote or in different time zones?
+- How do we record and organize data to streamline analyses?
 
 **Goals to keep in mind**:
-- Reduce barriers to remote participation, and enable asynchronous collaboration.
+-  Promote good data-entry etiquette and keep raw data separate from analyses.
 
 **Read**: 
-- [GitHub for project management](https://openscapes.github.io/series/github-issues.html)
+- [Data organization in spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 **Discussion prompt**: 
-- What programs do we use, and what accounts does our institution have?
+- Do we keep raw data raw and recorded with future analyses in mind?
 
 **Task**:
-- Explore software options for video conferencing, group chat and project management, such as Zoom, Slack and GitHub.
+- No task.
 
 **Related work at the Hutch**:  
-
-- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and guidance for using [Slack](https://fredhutch.github.io/coop/community/slack-discussions/) and [MS Teams](https://fredhutch.github.io/coop/community/ms-teams/).
-- See the [Fred Hutch Video Conferencing Guide (internal link)](https://centernet.fredhutch.org/content/dam/centernet/u/center-it/V2_AllHutch_ConferencingandCollaboration_Options.pdf) for a full breakdown of video conferencing options.
+- 
 
 ## Up next
 
-- Utilizing version control
+- Onboarding new lab members and retaining knowledge when people leave.
