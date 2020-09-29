@@ -1,40 +1,33 @@
 ---
-title: "Supercharge your research with open science meeting 5: Collaborating remotely"
+title: "Supercharge your research with open science meeting 9: Onboarding new lab members and retaining continuity when people leave"
 author: Lauren Wolfe
 categories: # delete the categories that do not apply and keep at least one
   - Community
-  - Technical
   - Science
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
-  - github
   - open science
   - collaboration
-  - remote work
-  - project management
+  - onboarding
 ---
 
-## Meeting 5: Collaborating remotely
-
 **Motivating questions**: 
-- How do I collaborate easily with people who are remote or in different time zones?
+- How do we help new group members to learn how we work, and how do we retain continuity when people leave?
 
 **Goals to keep in mind**:
-- Reduce barriers to remote participation, and enable asynchronous collaboration.
+- Create a strategy for onboarding and offboarding members that promotes openness and inclusion.
 
 **Read**: 
-- [GitHub for project management](https://openscapes.github.io/series/github-issues.html)
+- [How we work: Pinksy lab onboarding](https://github.com/pinskylab/how_we_work/blob/master/onboarding.md)
 
 **Discussion prompt**: 
-- What programs do we use, and what accounts does our institution have?
+- What would help to onboard new group members?
 
 **Task**:
-- Explore software options for video conferencing, group chat and project management, such as Zoom, Slack and GitHub.
+-  Create and share a document outlining the onboarding and offboarding processes for your group.
 
 **Related work at the Hutch**:  
-
-- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and guidance for using [Slack](https://fredhutch.github.io/coop/community/slack-discussions/) and [MS Teams](https://fredhutch.github.io/coop/community/ms-teams/).
-- See the [Fred Hutch Video Conferencing Guide (internal link)](https://centernet.fredhutch.org/content/dam/centernet/u/center-it/V2_AllHutch_ConferencingandCollaboration_Options.pdf) for a full breakdown of video conferencing options.
+- Include links to the [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/) for onboarding to computational infrastructure at the Hutch.
 
 ## Up next
 
-- Utilizing version control
+- How do we continue to learn and improve? 
