@@ -13,8 +13,6 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - project management
 ---
 
-## Meeting 5: Collaborating remotely
-
 **Motivating questions**: 
 - How do I collaborate easily with people who are remote or in different time zones?
 
