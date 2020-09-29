@@ -1,5 +1,5 @@
 ---
-title: "Supercharge your research with open science meeting 5: Collaborating remotely"
+title: "Supercharge your research with open science meeting 6: Using versioning software"
 author: Lauren Wolfe
 categories: # delete the categories that do not apply and keep at least one
   - Community
@@ -13,28 +13,27 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - project management
 ---
 
-## Meeting 5: Collaborating remotely
-
 **Motivating questions**: 
-- How do I collaborate easily with people who are remote or in different time zones?
+- Which version of my code was I using, and where is it?
 
 **Goals to keep in mind**:
-- Reduce barriers to remote participation, and enable asynchronous collaboration.
+- Use collaborative versioning software, and think ahead for ‘future you’ and ‘future us’.
 
 **Read**: 
-- [GitHub for project management](https://openscapes.github.io/series/github-issues.html)
+- [Excuse me, do you have a moment to talk about version control?](https://openscapes.github.io/series/github-issues.html)
 
 **Discussion prompt**: 
-- What programs do we use, and what accounts does our institution have?
+- How can we help the whole group to use version control collaboratively?
 
 **Task**:
-- Explore software options for video conferencing, group chat and project management, such as Zoom, Slack and GitHub.
+- No task.
 
 **Related work at the Hutch**:  
 
-- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and guidance for using [Slack](https://fredhutch.github.io/coop/community/slack-discussions/) and [MS Teams](https://fredhutch.github.io/coop/community/ms-teams/).
-- See the [Fred Hutch Video Conferencing Guide (internal link)](https://centernet.fredhutch.org/content/dam/centernet/u/center-it/V2_AllHutch_ConferencingandCollaboration_Options.pdf) for a full breakdown of video conferencing options.
+- The Coop Blog is maintained in and deployed from GitHub. You can view the entire history of our work in the [repository](https://github.com/FredHutch/coop)! Contributing to the Coop Blog is a great way to get familiar with the basics version control.
+- The Biomedical Data Science Wiki has a list of [tips and tricks for Git and GitHub](https://sciwiki.fredhutch.org/compdemos/git_tips/)
+- Check out the standalone course materials for the [Intro to Git and GitHub course from Fredhutch.io](https://github.com/fredhutchio/git_github_intro).
 
 ## Up next
 
-- Utilizing version control
+- Adopting shared coding practices
