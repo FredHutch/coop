@@ -1,5 +1,5 @@
 ---
-title: "Supercharge your research with open science meeting 5: Collaborating remotely"
+title: "Supercharge your research with open science meeting 7: Adopting shared coding practices"
 author: Lauren Wolfe
 categories: # delete the categories that do not apply and keep at least one
   - Community
@@ -13,28 +13,24 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - project management
 ---
 
-## Meeting 5: Collaborating remotely
-
 **Motivating questions**: 
-- How do I collaborate easily with people who are remote or in different time zones?
+- I can’t understand or run other group members’ code!
 
 **Goals to keep in mind**:
-- Reduce barriers to remote participation, and enable asynchronous collaboration.
+- Adopt shared practices so that it’s easier to collaborate using code.
 
 **Read**: 
-- [GitHub for project management](https://openscapes.github.io/series/github-issues.html)
+- [What they forgot to teach you about R (Chapters 1-4)](https://rstats.wtf/)
+- [Declutter your R workflow with tidy tools](https://peerj.com/preprints/3180v1/)
 
 **Discussion prompt**: 
-- What programs do we use, and what accounts does our institution have?
+- How do we organize files, code and projects? Could we adopt shared conventions?
 
 **Task**:
-- Explore software options for video conferencing, group chat and project management, such as Zoom, Slack and GitHub.
+- No task.
 
 **Related work at the Hutch**:  
-
-- Read the Coop Blog's [tips on remote teamwork](https://fredhutch.github.io/coop/community/remote-teamwork/) and guidance for using [Slack](https://fredhutch.github.io/coop/community/slack-discussions/) and [MS Teams](https://fredhutch.github.io/coop/community/ms-teams/).
-- See the [Fred Hutch Video Conferencing Guide (internal link)](https://centernet.fredhutch.org/content/dam/centernet/u/center-it/V2_AllHutch_ConferencingandCollaboration_Options.pdf) for a full breakdown of video conferencing options.
+- Check out the [Data for data science](https://github.com/fredhutchio/data_for_data_science) course offered through FredHutch.io!
 
 ## Up next
-
-- Utilizing version control
+- Organizing data to streamline analysis.
