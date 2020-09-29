@@ -25,7 +25,7 @@ The Coop is pleased to publish our first post in a ten-post series inspired by [
 - Involve peer-to-peer learning and online communities in your plan.
 
 **Reading**: 
-- [Lowndes, J. S. S. et al. Nature Ecol. Evol. 1, 0160 (2017)](https://www.nature.com/articles/s41559-017-0160)
+- [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)
 
 **Discussion prompts**: 
 - How do we approach reproducibility, collaboration, and communication?
