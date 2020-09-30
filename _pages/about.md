@@ -18,7 +18,7 @@ This blog is the informal and conversational outlet for the The Coop. Posts cove
 
 **Get involved:**
 - Chat with us on [Slack](https://fhbig.slack.com/)
-<!--- - Join us at our [upcoming events](https://research.fhcrc.org/coop/en/community/participate.html) link doesn't work?? --->
+- Join us at our [upcoming events](https://research.fhcrc.org/coop/en/community.html)
 - Stop by during our [office hours](https://sciwiki.fredhutch.org/scicomputing/reference_training/#office-hours) or in our [community groups](https://sciwiki.fredhutch.org/scicomputing/reference_training/#community-groups)
 - View our [available classes](http://www.fredhutch.io/resources/) at [Fredhutch.io](http://www.fredhutch.io/)
 - Find answers in or make contributions to [Fred Hutch's Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/)
