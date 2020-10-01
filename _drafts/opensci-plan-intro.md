@@ -20,9 +20,11 @@ Analysis in scientific research tends to be solo work. Researchers, often self t
 
 The transition to more reproducible and open research requires a shift in perspective as well as a significant investment in team building and skill development, but the results are well worth it. If you're uncertain about whether your group could benefit from more open science try reproducing the results from an analysis you or your coworker did a year ago! This can be a great exercise to figure out which areas your group can improve in.
 
+More info on open science and its importance in research [here](https://fredhutchio.github.io/tfcb_2020/lectures/lecture04/#reproducible-science).
+
 ## Ten meetings to improve open science
 
-Each post in this series corrosponds to a topic for a group-wide discussion. These meetings should be encouraged by a team leader, but they don't necessarily have to attend the meeting itself. Activities can span multiple weeks and should be revisited as needed, like when a new member joins the lab. The resources provided for each meeting are R focused but they remain illustrative of good theory and practice regardless of coding language.
+Each post in this series corresponds to a topic for a group-wide discussion. These meetings should be encouraged by a team leader, but they don't necessarily have to attend the meeting itself. Activities can span multiple weeks and should be revisited as needed, like when a new member joins the lab. The resources provided for each meeting are R focused but they remain illustrative of good theory and practice regardless of coding language.
 
 1. What does a team workflow using open data science look like? What does the transition look like?
 2. How do we store and share our data, methods and code?
