@@ -61,8 +61,8 @@ describing the process and rationale for this project,
 how do you feel about our values?
 What is important to you about our community,
 and what are we missing?
-We welcome comments or questions via [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScayI4E6eXTh7ombVe72PVqaj8QP42R7LyEsbDicKQ5qfH6rw/viewform?usp=sf_link), 
-or by emailing `coophelp`.
+
+We welcome any comments or feedback on our values. You can reach out to us at `coophelp`.
 
 ---
 
@@ -70,5 +70,4 @@ or by emailing `coophelp`.
 > * We've updated the value "champion accessibility" to "champion inclusivity and accessibility".
 > * We have begun developing a Code of Conduct to translate our values to explicit behavioral expectations.
 
-
-> As of 10/03 these values have been formally adopted.
+> As of 10/03 these values have been formally adopted and have been posted on the [About page](https://fredhutch.github.io/coop/about/).
