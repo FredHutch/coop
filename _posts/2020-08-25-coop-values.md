@@ -37,7 +37,7 @@ All knowledge, whether technical (like computer coding) or biological (about dat
 Rather than identifying a select group of people as 'knowers' or 'experts', the Coop is a space where input from individuals of all areas of research and levels of expertise are valued. 
 We acknowledge and reward the courage and vulnerability our community members show in asking questions or not knowing an answer immediately.
 
-### Champion accessibility
+### Champion inclusivity and accessibility
 
 One of the main goals of the Coop is to make data-intensive research accessible to all groups and individuals at Fred Hutch. 
 Accessible means that information to assist in computational research is discoverable and interpretable.
@@ -63,3 +63,12 @@ What is important to you about our community,
 and what are we missing?
 We welcome comments or questions via [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScayI4E6eXTh7ombVe72PVqaj8QP42R7LyEsbDicKQ5qfH6rw/viewform?usp=sf_link), 
 or by emailing `coophelp`.
+
+---
+
+> Based on community feedback:
+> * We've updated the value "champion accessibility" to "champion inclusivity and accessibility".
+> * We have begun developing a Code of Conduct to translate our values to explicit behavioral expectations.
+
+
+> As of 10/03 these values have been formally adopted.
