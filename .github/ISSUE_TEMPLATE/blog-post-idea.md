@@ -17,6 +17,5 @@ assignees: ''
 **Category:** _(choose Community, Technical, or Science as described in the contributing guidelines)_
 
 
-**Tags:** _(Suggested keywords that can help readers find information from among our blog posts)_
-_Please first reference [this list](https://fredhutch.github.io/coop/tags/) of pre-existing tags_
+**Tags:** _(Suggested keywords that can help readers find information from among our blog posts. Please first reference [this list](https://fredhutch.github.io/coop/tags/) of pre-existing tags)_
 
