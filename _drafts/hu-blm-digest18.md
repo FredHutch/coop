@@ -10,6 +10,10 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - algorithmic justice
 ---
 
+Over the summer [Hutch United](https://www.fredhutch.org/en/research/education-training/hutch-united.html) began putting together a weekly digest. The focus of the digest is to uplift Black voices and support the Black lives matter movement by providing resources for readers to learn and act on. This week the Coop guest-edited the HU Black Lives Matter Digest, focusing on the intersection between technology, the upcoming election, and racism. If you haven't signed up for Hutch United's email list you can view the digest below.
+
+## Hutch United Black Lives Matter Digest #18
+
 This week the newscycle has been gripped by the presidential debates, the [president’s failure to denounce white supremacy during the debate](https://youtu.be/ugKBWaXfNZQ), and the president and many of his staff members contracting COVID-19. In short, the presidential election has become even more chaotic. For this digest we’ll focus on the upcoming election, Black voter suppression, and how social media influences these topics.
 
 This week [the UK news station, Channel 4, obtained a large data cache used by the 2016 Trump campaign](https://www.channel4.com/news/revealed-trump-campaign-strategy-to-deter-millions-of-black-americans-from-voting-in-2016). This database contained the data of 200 million American voters and analysis shows that the Trump campaign used this database to systematically target voters in key swing states with anti-Clinton ads to try and deter them from voting. Black voters were disproportionately targeted for deterrence and [Jamal Watkins](https://naacp.org/jamal-watkins/) of the NAACP has branded this tactic as modern day [voter suppression](https://www.aclu.org/news/civil-liberties/block-the-vote-voter-suppression-in-2020/). 
@@ -29,3 +33,8 @@ The Trump voter deterrence campaign is only one example of how social media is b
 **In solidarity,**
  
 **The Coop and Hutch United**
+
+## Get involved
+
+- [Learn more about Hutch United and join their listserv to recieve the Black Lives Matter Digest directly to your inbox (internal link)](https://centernet.fredhutch.org/cn/u/di/erg/hutch-united.html).
+- If you or your lab would like to get involved with guest editing the digest fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeYQfIynmRS8s5H182nSfltQAZKhs1EFPCniv2KtlFtA6h4fg/viewform).
