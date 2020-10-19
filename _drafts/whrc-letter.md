@@ -4,8 +4,9 @@ author: Lauren Wolfe
   - Community
   - Science
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
-  - 
-  - 
+  - data science
+  - best practices
+  - communication
 ---
 
 Recently the [Women's HIV Research Collaboartive (WHRC)](https://www.hanc.info/legacy/Pages/workingGroups.aspx) released a call to action for groups to commit to  scientifically accurate and culturally affirming messaging about study populations in COVID-19 and HIV research. While the Coop does not publish on or conduct any research in these areas, a large portion of what we do is related to data and scientific communication. We feel that this call to action is important and relevant to our work so we have signed to show our commitment to this effort. This post will go into what actions the letter calls for and why we believe this effort is so important.
@@ -42,5 +43,6 @@ The Women's HIV Research Collaborative's statement invites you to join them by s
 
 ## Take action!
 
-- If you or your group feel that this effort is important and wish to sign you can view the full document [here]()
+- If you or your group feel that this effort is important and wish to sign you can view the full document [here](https://docs.google.com/forms/d/e/1FAIpQLScGiGIMfFhHZlDZqoMFl9TciIjVLrcE5C0fn7xwHs3uigH25g/viewform)
+- For more information on bias-free and affirming language check out the [APA Style Guide for Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language) and implement it in your life and work.
 - 
