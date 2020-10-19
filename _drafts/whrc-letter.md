@@ -43,6 +43,6 @@ The Women's HIV Research Collaborative's statement invites you to join them by s
 
 ## Take action!
 
-- If you or your group feel that this effort is important and wish to sign you can view the full document [here].(https://docs.google.com/forms/d/e/1FAIpQLScGiGIMfFhHZlDZqoMFl9TciIjVLrcE5C0fn7xwHs3uigH25g/viewform)
+- If you or your group feel that this effort is important and wish to sign you can view the full document [here.](https://docs.google.com/forms/d/e/1FAIpQLScGiGIMfFhHZlDZqoMFl9TciIjVLrcE5C0fn7xwHs3uigH25g/viewform)
 - For more information on bias-free and affirming language check out the [APA Style Guide for Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language) and implement it in your life and work.
 - FHREE (Fred Hutch Rainbow Employees for Equity) LGBTQ+ Employee Resource Group is working on building out language guidance for researchers at the Hutch. This effort is currently seeking researchers/labs that would be willing to beta test the guidelines. If you're interested in this please contact Anders McConachie for more information!
