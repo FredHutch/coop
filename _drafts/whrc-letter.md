@@ -12,19 +12,26 @@ Recently the [Women's HIV Research Collaboartive (WHRC)](https://www.hanc.info/l
 
 ## Finding humanity in data
 
-Studies and datasets that have human participants require extra care. We often talk about that extra care in terms of privacy, HIPPA laws, and data governance. While these things are incredibly important the conversation needs to go further. When we only talk about participants in terms of the data that they provide to a study, it becomes easy to forget that each data point is actually representative of a human who's personhood and identity extend far beyond the confines of whatever metrics we've captured. As Inioluwa Deborah Raji writes in her article [_The Discomfort of Death Counts: Mourning through the Distorted Lens of Reported COVID-19 Death Data_:](https://www.cell.com/patterns/fulltext/S2666-3899(20)30086-6#%20)
+Studies and datasets that have human participants require extra care. We often talk about that extra care in terms of privacy, HIPPA laws, and data governance. While these things are incredibly important the conversation needs to go further. When we only talk about participants in terms of the data that they provide to a study, it becomes easy to forget that each data point is actually representative of a human who's personhood and identity extend far beyond the confines of whatever metrics we've captured. As Inioluwa Deborah Raji writes in her paper [_The Discomfort of Death Counts: Mourning through the Distorted Lens of Reported COVID-19 Death Data_:](https://www.cell.com/patterns/fulltext/S2666-3899(20)30086-6#%20)
 
 >It is disquieting to imagine these data points as anything other than a compact resource, one in which we as data scientists and dashboard builders feel entitled to package and expose, to harvest and exploit. But data are not bricks to be stacked, oil to be drilled, gold to be mined, opportunities to be harvested. Data are humans to be seen, maybe loved, hopefully taken care of.
 
-There is a lot of work to be done to bring a more humane approach to data science and research. Dr. Raji highlights one aspect of this - how filtering, aggregating, and analyzing COVID-19 death counts flattens and dehumanizes the people these numbers represent. The WHRC letter aims to address a slightly different facet - how we communicate about participants that take part in a study. 
+There is a lot of work to be done to bring a more humane approach to data science and research. Dr. Raji highlights one aspect of this - how filtering, aggregating, and analyzing COVID-19 death counts flattens and dehumanizes the people these numbers represent. She reminds us that data science is human subjects research and that we need to do better by the humans that our data is supposed to represent.
 
 ## Accurate and affirming messaging
 
-Take, for example, this year's groundbreaking news about a long-acting injectable drug for HIV prevention. In the hours after the initial announcement, here are some examples of how participants in two of these studies were described in major press releases and media outlets:
+The WHRC letter aims to address a slightly different facet of how research and data science can dehumanize participants. Their focus is on how we communicate in our research papers and in more mainstream media about participants that take part in a study.
 
-![]({{ site.baseurl }}/assets/studyLang.png)
+In their statement the WHRC highlights how this year's groundbreaking news about a long-acting injectable drug for HIV prevention was communicated to the public. They note that in the hours after the initial announcement major press releases and media outlets referred to the participants in the study using a broad range of language. In the image below, they have indicated how to describe the study participants accurately and juxtopose this with some of the inaccurate descriptions found in the articles written on the study.
 
-The broad range of inaccurate and insensitive descriptions of these study populations signals a pervasive, systemic issue in research reporting that is certainly not limited to these two studies. WHRC asks that signees agree to 3 commitments:
+![description of study participants]({{ site.baseurl }}/assets/studyLang.png)
+
+The WHRC writes:
+>The broad range of inaccurate and insensitive descriptions of these study populations signals a pervasive, systemic issue in research reporting that is certainly not limited to these two studies.
+
+## 3 commitments
+
+The Women's HIV Research Collaborative's statement invites you to join them by signing on to commit to 3 main points:
 
 1. **Commit to scientific accuracy.** When we fail to describe study populations with precision, we undermine the science. For example, when a study finds that a product works for cisgender men who have sex with men, it is inaccurate to say that it works for all men who have sex with men. When a study includes only cisgender women, it is inaccurate to say that its results apply to all women. Transgender women are women. Transgender men are men. We implore protocol teams to set the example; if you use precise language to describe the populations in your studies, others will follow. We urge reporters and community members to do your fact-checking; verify the study populations before you start writing or reporting. In the name of science, use the terms 'cisgender' and 'transgender' when describing study populations. 
     * For more information see the National Institute of Allergy and Infectious Diseases (NIAID) Division of AIDS Cross-Network Transgender Working Group's [Guidance on Transgender Inclusive Research](https://www.hanc.info/legacy/Documents/Guidance%20for%20Transgender%20Inclusive%20Research%20FINAL%2011-19-2019.pdf)
@@ -33,3 +40,7 @@ The broad range of inaccurate and insensitive descriptions of these study popula
 
 3. **Commit to equity in representation.** Structural factors such as racism and misogyny continue to echo throughout clinical research, resulting in the underrepresentation of the most affected populations. When a study does not include cisgender women and/or transgender people, ask why. When a study in the US has no plan for engaging Black, Latinx, and Native participants, team up and create one. When a COVID-19 study excludes people living with HIV with no scientific justification, demand an amendment--and win! We applaud the HPTN and advisory groups such as the HPTN Black Caucus for setting an example in HPTN 083, which set, met, and exceeded measurable goals for the recruitment of transgender women and African American participants. We celebrate the activists and advocates holding COVID-19 researchers accountable for equitable and ethical inclusion. We invite all of our colleagues to ensure that these examples are followed and improved upon.
 
+## Take action!
+
+- If you or your group feel that this effort is important and wish to sign you can view the full document [here]()
+- 
