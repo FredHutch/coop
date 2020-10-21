@@ -1,6 +1,7 @@
 ---
 title: "Accurate and affirming messaging in research communications" # replace with the title of your post, a short catchy description to entice readers
-author: Lauren Wolfe 
+author: Lauren Wolfe
+categories:
   - Community
   - Science
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
