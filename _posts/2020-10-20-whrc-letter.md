@@ -25,7 +25,7 @@ The WHRC letter aims to address a slightly different facet of how research and d
 
 In their statement, the WHRC highlights how this year's groundbreaking news about a long-acting injectable drug for HIV prevention was communicated to the public. They note that in the hours after the initial announcement major press releases and media outlets referred to the participants in the study using a broad range of language. In the image below, they have indicated how to describe the study participants accurately and juxtapose this with some of the inaccurate descriptions found in the articles written on the study.
 
-![description of study participants]({{ site.baseurl }}/assets/studyLang.png)
+![description of study participants]({{ site.baseurl }}/assets/whrc-letter/studyLang.png)
 
 The WHRC writes:
 >The broad range of inaccurate and insensitive descriptions of these study populations signals a pervasive, systemic issue in research reporting that is certainly not limited to these two studies.
