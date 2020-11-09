@@ -49,7 +49,7 @@ It may help to look at some of the information about existing groups to get an i
 We'll use this information to:
 
 * Post to the Google and Outlook calendars
-* Announce the group in our monthly newsletter and on Slack
+* Announce the group in our quarterly newsletter and on Slack
 * List the group on our webpage and the training page on the Fred Hutch Biomedical Data Science Wiki
 
 Thanks for supporting the bioinformatics and data science community!
