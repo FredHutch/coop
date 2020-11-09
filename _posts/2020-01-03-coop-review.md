@@ -19,7 +19,7 @@ In the 14 months since The Coop was launched, we have made great strides towards
 As we enter 2020, Kate and I are excited about the possibilities for growing the Coop community. We also want to reflect on our successes from the previous 14 months, so here are some stats for your consideration:
 - The Coop has hosted more than 20 events, including guest speakers, community meetings, panels, trainings, social hours, and interest groups.
 - The Coop Launch (Oct 2018) and Coop Anniversary Party (Nov 2019) both had more than 100 attendees.
-- Our monthly newsletter has 330 subscribers (email coophelp at fredhutch.org to subscribe!)
+- Our quarterly newsletter has 330 subscribers (email coophelp at fredhutch.org to subscribe!)
 - The Coop facilitates hosting of 6-10 standing events weekly, including office hours, courses, and interest groups
 - The Coop Slack channel has 320 members, ~120 of which are active on a weekly basis
 - fredhutch.io has taught more than 300 people in 24 different sessions. fredhutch.io has also hosted two Carpentries bootcamps.
