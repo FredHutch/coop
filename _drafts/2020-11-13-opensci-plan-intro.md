@@ -24,6 +24,7 @@ The transition to more reproducible and open research requires a shift in perspe
 
 Each post in this series corresponds to a topic for a group-wide discussion. These meetings should be encouraged by a team leader, but they don't necessarily have to attend the meeting itself. Activities can span multiple weeks and should be revisited as needed, like when a new member joins the lab. The resources provided for each meeting are R focused but they remain illustrative of good theory and practice regardless of coding language.
 
+You can view the whole series below (links will be added as the posts are published):
 1. What does a team workflow using open data science look like? What does the transition look like?
 2. How do we store and share our data, methods and code?
 3. What are our values? How do we build trust and facilitate collaboration?
@@ -34,3 +35,5 @@ Each post in this series corresponds to a topic for a group-wide discussion. The
 8. How do we record and organize data to streamline analyses?
 9. How do we help new group members to learn how we work, and how do we retain continuity when people leave?
 10. How do we continue learning and improving how we work together?
+
+Keep an eye on the Coop Slack `#general` channel for updates on this series! You can expect a post or two per month and can always reference this post for links out to each post in the series!
