@@ -12,7 +12,7 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - communication
 ---
 
-The Coop is pleased to publish our first post in a ten-post series inspired by [this](https://www.nature.com/articles/d41586-019-03335-4) Nature article on how to transition a lab to better facilitate open science! For more information on the motivation behind this series please see the series [introduction post]().
+The Coop is pleased to publish our first post in a ten-post series inspired by [this](https://www.nature.com/articles/d41586-019-03335-4) Nature article on how to transition a lab to better facilitate open science! For more information on the motivation behind this series please see the series [introduction post](https://fredhutch.github.io/coop/technical/science/opensci-plan-intro/).
 
 ## Meeting 1: Beginning the conversation
 
