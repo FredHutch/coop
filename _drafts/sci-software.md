@@ -40,9 +40,9 @@ From easybuild docs:
 >- retain logs for traceability of the build processes
 
 From Fredhutch/easybuild-life-science:
->FredHutch Scientific Computing uses Easybuild to provide 100s of OSS packages to our Scientists
->Scientists can load multiple versions of any software via Environment modules (LMOD)
->All software is built to offer high reproducibility, it can be rebuilt exactly even 10 years from now
+>- FredHutch Scientific Computing uses Easybuild to provide 100s of OSS packages to our Scientists.
+>- Scientists can load multiple versions of any software via Environment modules (LMOD).
+>- All software is built to offer high reproducibility, it can be rebuilt exactly even 10 years from now.
 
 Managed by John Dey here at the Hutch.
 
