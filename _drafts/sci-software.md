@@ -22,7 +22,7 @@ This channel is most relevant to people who use the [High Performance Computing 
 
 ## What is Easybuild?
 
-Easybuild is a software build and installation framework that makes managing scientific software on High Performance Computing Systems (HPCs) efficiently. For more information on EasyBuild check out the [Introductory Topics](https://easybuild.readthedocs.io/en/latest/#introductory-topics) in their documentation. 
+Easybuild is a software build and installation framework that makes managing scientific software on High Performance Computing Systems (HPCs) easier and more efficient. For more information on EasyBuild check out the [Introductory Topics](https://easybuild.readthedocs.io/en/latest/#introductory-topics) in their documentation. 
 
 Fred Hutchinson's Scientific Computing group uses Easybuild to provide hundreds of open source software packages to scientists. With easybuild, users are able to load multiple versions of any software and all software is built so that it can be rebuilt exactly the same way even a decade from now. This is incredibly useful for making computational research reproducible! Check out [this](https://fredhutch.github.io/easybuild-life-sciences/) site for Fred Hutch specific easybuild information including announcements and a full inventory of software available on the clusters.
 
@@ -30,7 +30,7 @@ Fred Hutchinson's Scientific Computing group uses Easybuild to provide hundreds 
 
 ## Making sense of posts sent from GitHub
 
-If you're not familiar with GitHub it can be a little disorienting when you first look at the `#scientific-software` channel. The automated posts from GitHub look a little different than standard messages sent from other Slack users.
+If you're not familiar with GitHub it can be a little disorienting when you first look at the `#scientific-software` channel. The automated posts from GitHub look a little different than the standard messages sent from other Slack users.
 
 ### Lets break down a post!
 
