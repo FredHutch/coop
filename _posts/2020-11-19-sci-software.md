@@ -1,5 +1,5 @@
 ---
-title: "The `#scientific-software` channel explained!" # replace with the title of your post, a short catchy description to entice readers
+title: "The #scientific-software channel explained!" # replace with the title of your post, a short catchy description to entice readers
 author: Lauren Wolfe 
 categories: # delete the categories that do not apply and keep at least one
   - Technical
