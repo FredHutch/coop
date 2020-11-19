@@ -6,13 +6,20 @@ categories: # delete the categories that do not apply and keep at least one
   - Community
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - easybuild
-  - software
   - scientific computing
   - slack
 ---
 
-## What is the `#scientific-software` channel on the Coop Communities Slack
+The Coop Communities Slack is the main way in which the Coop and Scientific Computing communicate with the research community in real time. Each channel in Slack is meant to have a specific purpose. You're automatically subscribed to a few channels like `#generic` and , but the rest are available for folks to add to their workspace as they see fit. Some channels are straightforward. For example, `#question-and-answer` is a place to ask questions and get answers! Other channels are less straightforward, like `#scientific-software`. If you need more information about a channel you can always click the circled 'i' icon in the top right corner of your screen to view the description of each channel.
 
+For this post we are going to deep dive into the `#scientific-software` channel! If this channel isn't on your sidebar it means that you haven't joined it yet! For more information on how to join a Slack channel follow [this link](https://slack.com/help/articles/205239967-Join-a-channel).
+
+## Why follow the `#scientific-software` channel?
+
+This channel is linked to the `FredHutch/easybuild-life-sciences` GitHub repository and recieves real time updates on GitHub [commits](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary#commit), [issues](https://guides.github.com/features/issues/), and [pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+
+
+# Outline
 Two main things to explain:
 
 1. How to read and understand this channel
