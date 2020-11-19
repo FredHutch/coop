@@ -34,7 +34,7 @@ If you're not familiar with GitHub it can be a little disorienting when you firs
 
 ### Lets break down a post!
 
-![a slack post example]({{ site.baseurl }}/assets/sci-software/slack-img.png)
+![a slack post example]({{ site.baseurl }}/assets/sci-software/slack-img.png){:height="50%" width="50%"}
 
 - Starting from the top left you can see that this is an message sent by GitHub at 11:22 AM. We know that this means it is an automated message sent from a linked GitHub repository. 
 - Next we can see that this message was sent because of an "issue opened by [`dtenenba`](https://github.com/dtenenba)". You can see by going to that GitHub profile that this is Dan Tenenbaum from Scientific Computing at Fred Hutch!
