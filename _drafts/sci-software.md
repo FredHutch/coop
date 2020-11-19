@@ -14,43 +14,29 @@ The Coop Communities Slack is the main way in which the Coop and Scientific Comp
 
 For this post we are going to deep dive into the `#scientific-software` channel! If this channel isn't on your sidebar it means that you haven't joined it yet! For more information on how to join a Slack channel follow [this link](https://slack.com/help/articles/205239967-Join-a-channel).
 
+## What is Easybuild?
+
+Easybuild is a software build and installation framework that makes managing scientific software on [High Performance Computing Systems (HPCs)](https://www.usgs.gov/core-science-systems/sas/arc/about/what-high-performance-computing#:~:text=High%20Performance%20Computing%20most%20generally,science%2C%20engineering%2C%20or%20business.) efficiently. For more information on EasyBuild check out the [Introductory Topics](https://easybuild.readthedocs.io/en/latest/#introductory-topics) in their documentation. 
+
+Fred Hutchinson's Scientific Computing group uses Easybuild to provide hundreds of open source software packages to scientists. With easybuild, users are able to load multiple versions of any software and all software is built so that it can be rebuilt exactly the same way even a decade from now. This is incredibly useful for making computational research reproducible! All the code is open source and managed through the [`FredHutch/easybuild-life-sciences`](https://github.com/FredHutch/easybuild-life-sciences) respository on GitHub. Check out [this](https://fredhutch.github.io/easybuild-life-sciences/) site for Fred Hutch specific easybuild information including announcements and a full inventory of software available on the clusters.
+
+If you have questions about easybuild or need to request a software update email `scicomp@fredhutch.edu`
+
 ## Why follow the `#scientific-software` channel?
 
-This channel is linked to the `FredHutch/easybuild-life-sciences` GitHub repository and recieves real time updates on GitHub [commits](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary#commit), [issues](https://guides.github.com/features/issues/), and [pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+This channel is most relevant to people who use the high performance computing clusters for development and analysis. It is linked to the `FredHutch/easybuild-life-sciences` GitHub repository and recieves real time updates on 
+GitHub [commits](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary#commit), [issues](https://guides.github.com/features/issues/), and [pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) from that repository. Linking the GitHub repostiory to a Slack channel helps to centralize all of your updates into one place. 
 
+## Making sense of posts sent from GitHub
 
-# Outline
-Two main things to explain:
+If you're not familiar with GitHub it can be a little disorienting when you first look at the `#scientific-software` channel. The automated posts from GitHub look a little different than standard messages sent from other Slack users.
 
-1. How to read and understand this channel
-    - Automated github updates
-      - Link to or briefly explain what an issue, commit, pull request
-      - provide a screenshot of the channel and walk through what each post means
-    - Why connect your slack and github?
-      - Another place to update users on whats happening 
-      - users can file an issue and get notified about it's progress in real time
-      - This is important esp for folks doing analysis on Rhino
+Lets break down a post!
 
-2. What is [easybuild](https://easybuild.readthedocs.io/en/latest/index.html)?
+FIXME PIC OF SLACK
 
-From easybuild docs:
-
->EasyBuild is a software build and installation framework that allows you to manage (scientific) software on High Performance Computing (HPC) systems in an efficient way. It is motivated by the need for a tool that combines the following features:
-
->- a flexible framework for building/installing (scientific) software 
->- fully automates software builds divert from the standard `configure` / `make` / `make install` with custom procedures
->- allows for easily reproducing previous builds
->- keep the software build recipes/specifications simple and human-readable
->- supports co-existence of versions/builds via dedicated installation prefix and module files
->- enables sharing with the HPC community (win-win situation)
->- automagic dependency resolution
->- retain logs for traceability of the build processes
-
-From Fredhutch/easybuild-life-science:
->- FredHutch Scientific Computing uses Easybuild to provide 100s of OSS packages to our Scientists.
->- Scientists can load multiple versions of any software via Environment modules (LMOD).
->- All software is built to offer high reproducibility, it can be rebuilt exactly even 10 years from now.
-
-Managed by John Dey here at the Hutch.
-
-The scientific software channel automatically logs updates to the `FredHutch/easybuild-life-sciences` repository.
+- Starting from the top left you can see that this is an message sent by GitHub at 11:22 AM. We know that this means it is an automated message sent from a linked GitHub repository. 
+- Next we can see that this message was sent because an "issue opened by [`dtenenba`](https://github.com/dtenenba)". You can see by going to that GitHub profile that this is Dan Tenenbaum from Scientific Computing at Fred Hutch!
+- Underneath this we can see that Dan opened this issue to report a problem with the new version of `rstudio-server`. You can see the full text of the issue as well as click the links to go to the relevant page in GitHub. 
+- If you scan even further down the post you can see that the user [`fizwit`](https://github.com/fizwit) has been assigned to fix this problem. Again, if you go to this users GitHub profile you will see that this is John Dey! John works in Scientific Computing at the Hutch and manages the easybuild software. He's involved in the global easybuild community and an excellent resource if anyone has questions!
+- Last, at the very bottom of the post you can see that this message was sent from the `FredHutch/easybuild-life-science` repository on October 19. This is important information because sometimes a Slack channel might be linked to multiple repositories.
