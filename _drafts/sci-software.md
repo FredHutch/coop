@@ -41,3 +41,7 @@ If you're not familiar with GitHub it can be a little disorienting when you firs
 - Underneath this we can see that Dan opened this issue to report a problem with the new version of `rstudio-server`. You can see the full text of the issue as well as click the links to go to the relevant page in GitHub. 
 - If you scan even further down the post you can see that the user [`fizwit`](https://github.com/fizwit) has been assigned to fix this problem. Again, if you go to this users GitHub profile you will see that this is John Dey! John works in Scientific Computing at the Hutch and manages the easybuild software. He's very involved in the global easybuild community and an excellent resource if you have questions!
 - Last, at the very bottom of the post you can see that this message was sent from the `FredHutch/easybuild-life-science` repository on October 19. This is important information because sometimes a Slack channel might be linked to multiple repositories. However, `#sci-software` only recieves updates from `FredHutch/easybuild-life-sciences`
+
+---
+
+I hope that this post provided some insight into the `#scientific-software` channel! If you ever have questions about what a channel is for or what a message means please reach out to either `@Kate` or me (`@Lauren`) on Slack.
