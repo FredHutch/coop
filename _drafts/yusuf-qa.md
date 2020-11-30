@@ -1,40 +1,26 @@
 ---
 title: "Title goes here" # replace with the title of your post, a short catchy description to entice readers
-author: Lauren Wolfe # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
+author: Lauren Wolfe
 categories: # delete the categories that do not apply and keep at least one
   - Community
   - Technical
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - highlight
-  - career
+  - career development
   - 
 ---
 
-Yusuf Background:
-- 2019 bio grad from UW, interested in in education
-- Interns @ SEP
-  - Mostly packing boxes for the SEP program
-  - Feels that the program lacks real connection with the students
-  - Not intellectually stimulating enough, not using his full potential
-  - Asks JC for more and is connected to Kate Hertweck
-- Connects with Kate
-  - Kate provides resources and opportunities
-  - Connects Yusuf with Dane
-  - Introduces Yusuf to the carpentries
-- Certified as an instructor and co-teaches Python course
-- Dane involves Yusuf on his project
-  - Yusuf learns git and python fundamentals through this mentorship/collaboration
-- Goes back to schoold and teaches himself everything he needs to get hired as a software engineer
-- Lands 6 mo LEAP Internship - https://www.microsoft.com/en-us/leap/
-  - Goes IN - works late, weekends
-- Converted from LEAP intern to full time staff at MSFT
-  - Learning a lot of different technologies on the job
-  
-  Main points:
-  - Context/Background
-  - Internship and connection to the Coop
-  - Learning to code
-    - discuss resources/mentorship/mindset
-  - Decision to leave Hutch, go back to school/self teach code
-  - LEAP internship -> microsoft job
-  - Whats next for Yusuf? Anything else he wants to share?
+QUESTIONS:
+
+- Describe your background and what brought you to the Hutch.
+- Describe your internship with the Science Education Partnership (SEP) program. What did you do there?
+- It was during this internship that you decided to learn to code. What prompted you to start learning to code?
+- I think a lot of folks get stuck early on in the process of learning to code. There are so many different languages and tools available it can be hard to figure out where to start. Did you ever feel overwhelmed when you first started coding? What did you do to keep up your momentum?
+- What resources did you take advantage of to improve your coding skills?
+- From our conversation it sounds like you found mentorship through your connections at the Hutch. What steps did you take to find a mentor? How did you develop that relationship?
+- You left the Hutch just over a year ago to pursue coding full time. What was your thought process leading up to this? How did you know when you were ready to take this step?
+- You completed a six month internship at Microsoft through the LEAP internship program. Tell us how you found out about LEAP and what drew you to the program.
+- Describe your internship at Microsoft. What did you work on? How did you make the most of this time?
+- Once you completed your internship you were hired on at Microsoft as a software engineer. Congrats! What have you been working on at Microsoft? Do you incorporate any of your biology background into your work?
+- Reflecting back on your journey from biologist to software engineer what do you believe has been the most important to get you to where you are today? Is there anything that you would have done differently?
+- Lastly, what is next for you Yusuf?
