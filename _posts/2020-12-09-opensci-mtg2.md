@@ -11,7 +11,7 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
   - work habits
 ---
 
-Welcome to the second post in a ten-post series inspired by [this](https://www.nature.com/articles/d41586-019-03335-4) Nature article on how to transition a lab to better facilitate open science! This series is meant to be used as inspiration for those looking to make open science a core part of the lab. For more information on the motivation behind this series and for links to all the posts in this series please see the [introduction post]().
+Welcome to the second post in a ten-post series inspired by [this](https://www.nature.com/articles/d41586-019-03335-4) Nature article on how to transition a lab to better facilitate open science! This series is meant to be used as inspiration for those looking to make open science a core part of the lab. For more information on the motivation behind this series and for links to all the posts in this series please see the [introduction post](https://fredhutch.github.io/coop/technical/science/opensci-plan-intro/).
 
 ---
 
