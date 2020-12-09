@@ -26,7 +26,7 @@ Each post in this series corresponds to a topic for a group-wide discussion. The
 
 You can view the whole series below (links will be added as the posts are published):
 1. [What does a team workflow using open data science look like? What does the transition look like?](https://fredhutch.github.io/coop/technical/science/opensci-mtg1/)
-2. How do we store and share our data, methods and code?
+2. [How do we store and share our data, methods and code?](https://fredhutch.github.io/coop/technical/science/opensci-mtg2/)
 3. What are our values? How do we build trust and facilitate collaboration?
 4. How do we streamline other aspects of our research, such as presentations and teaching?
 5. How do I collaborate easily with people who are remote or in different time zones?
