@@ -17,3 +17,5 @@ Does not require VPN:
 - rsync and rclone
 - Motuz (requires VPN)
 - NoMachine
+
+THIS IS DONE
