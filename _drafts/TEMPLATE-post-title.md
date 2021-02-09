@@ -8,7 +8,7 @@ categories: # delete the categories that do not apply and keep at least one
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - r
   - python
-  ---
+---
 	In a group full of people, women are 75% less likely to speak up than a male group member. Because chances are their ideas will get rejected or gaslighted by their male peers. Now imagine how much lower that percentage is in a STEM field that’s highly maledominated. In a world where the demand for computer science workers is increasing day by day, then why has the representation of women in this field been declining over the past 30 years? This is where Girls Who Code (GWC) steps in. An organization that grows young female identifying students to join the coding field. Every session the group aims to close the gender ratio gap little by little. 
 	
 I applied for the GWC program in September of 2020 and was enrolled for the fall session by October. Although I have a family member whose career is in computer science sadly immense python and programming skills aren't genetically passed down. 
