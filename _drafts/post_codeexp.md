@@ -7,8 +7,9 @@ categories: # delete the categories that do not apply and keep at least one
   - Science
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - programming
-  - python
+  - womeninstem
   - motivation
+  - perserverance 
 ---
 For the record, **I haven’t always loved coding,** and it's still not my favorite, but hear me out: </br>
 Towards my later elementary school and early middle school years, my mom has been trying to put me in summer coding classes. If I was enrolled in a total of 4 weeks of summer camp per summer, meaning 4 different camps, 3 out of the 4 were my choice- whether it be cooking, art, or jump rope. However, the last one (you probably assumed), was the coding camp. At the time, I didn’t really acknowledge how much agency my mom was actually giving me. I was the first one to complain, I wanted another cooking camp or art camp instead. I probably got out of it for maybe one summer, but that was it. Being the adamant and loving mother my mom is, she insisted that I take a coding class. </br>
