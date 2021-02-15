@@ -12,5 +12,4 @@
  
  ### Links
  <!-- Add your links below -->
- - [Github](https://github.com/<casandralaney>)
- - [<descriptive text>](<url>) #follow this format to create links
+ - [Github](https://github.com/casandralaney)
