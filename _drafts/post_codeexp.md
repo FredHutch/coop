@@ -7,7 +7,7 @@ categories: # delete the categories that do not apply and keep at least one
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - girls who code
   - coding
-  - womeninstem
+  - women in stem
   - motivation
 ---
 For the record, **I haven’t always loved coding.** And it's still not my favorite, but hear me out:
