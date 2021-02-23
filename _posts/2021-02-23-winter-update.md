@@ -1,5 +1,5 @@
 ---
-title: "The Coop year in review: 2020"
+title: "The Coop Year in Review: 2020"
 author: The Coop Team
 categories: # delete the categories that do not apply and keep at least one
   - Community
@@ -46,7 +46,7 @@ and the head of the Genomics and Bioinformatics Team.
 We've spent the last few months learning more about how Shared Resources currently supports training and outreach for both data generation and analysis,
 and thinking about ways that we can share information about and contibute to these efforts.
 
-## 2020 Summary
+## 2020 Year in Review summary
 
 Given the number of adjustments to our team's placement at the Hutch,
 we spent a lot of time this year adjusting to work with new teams.
