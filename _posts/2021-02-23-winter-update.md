@@ -71,10 +71,10 @@ we converted our classes to accessible, fully-rendered websites
 that are available for reference during class,
 as well as for self-led, work-at-your-own-pace learning.
 These materials include:
-- [Intro to R](https://github.com/fredhutchio/r_intro)
-- [Intro to Python](https://github.com/fredhutchio/python_intro)
-- [Intermediate Python: Programming](https://github.com/fredhutchio/python_programming)
-- [Intro to Git and GitHub](https://github.com/fredhutchio/git_github_intro)
+- [Intro to R](https://fredhutchio.github.io/r_intro/)
+- [Intro to Python](https://fredhutchio.github.io/python_intro/)
+- [Intermediate Python: Programming](https://fredhutchio.github.io/python_programming/)
+- [Intro to Git and GitHub](https://fredhutchio.github.io/git_github_intro/)
 
 In accordance with our [Coop community values](https://fredhutch.github.io/coop/community/coop-values/),
 we don't wait until materials are complete before making them publicly available.
