@@ -1,14 +1,16 @@
 ---
-title: "GWC Blog" # replace with the title of your post, a short catchy description to entice readers
+title: "How a Girls Who Code is closing the gender gap in Coding" # replace with the title of your post, a short catchy description to entice readers
 author: Shalom_Abi # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
 categories: # delete the categories that do not apply and keep at least one
   - Community
   - Science
+  - Gender Gap
+  - Female Empowerment 
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - r
   - python
 ---
-	In a group full of people, women are 75% less likely to speak up than a male group member. Because chances are their ideas will get rejected or gaslighted by their male peers. Now imagine how much lower that percentage is in a STEM field that’s highly male-dominated. Yet, while the demand for computer science workers is increasing, the representation of women in this field has been declining for 30 years. This is where Girls Who Code (GWC) steps in. An organization that grows young female identifying students to join the coding field. Every session the group aims to close the gender ratio gap little by little. 
+In a group full of people, women are 75% less likely to speak up than a male group member. Because chances are their ideas will get rejected or gaslighted by their male peers. Now imagine how much lower that percentage is in a STEM field that’s highly male-dominated. Yet, while the demand for computer science workers is increasing, the representation of women in this field has been declining for 30 years. This is where Girls Who Code (GWC) steps in. An organization that grows young female identifying students to join the coding field. Every session the group aims to close the gender ratio gap little by little. 
 	
 I applied for the GWC program in September of 2020 and was enrolled for the fall session by October. Although I have a family member whose career is in computer science sadly immense python and programming skills aren't genetically passed down. 
 We started the course by breaking up the four fundamentals of coding. Variables, conditionals, dictionaries, and loops. To implement these basics we chose groups based on our interests — music, memes and books. I chose to join the music group where we wrote a code that can recommend new music based on your favorite genre and also introduce you to go beyond your regular taste in music. We wanted to write an interactive code that can keep people communicative and creative in these unprecedented times. 
