@@ -1,15 +1,15 @@
- ---
-    title: "Creating a Chatbot... No Coding Experience Required" # replace with the title of your post, a short catchy description to entice readers
-    author: Cassie Laney # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
-    categories: # delete the categories that do not apply and keep at least one
-      - Community
-      - Technical
-    tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
-      - women in stem
-      - python
-      - chatbot
-      - girls who code
-    ---
+---
+title: "Creating a Chatbot... No Coding Experience Required" # replace with the title of your post, a short catchy description to entice readers
+author: Cassie Laney 
+categories: # delete the categories that do not apply and keep at least one
+ - Community
+ - Technical
+tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
+ - women in stem
+ - python
+ - chatbot
+ - girls who code
+---
     
 Throughout the past year, current generation witnessed a large portion of our lives turn digital with the spread of Covid-19. School days turned into zoom schedules and paper turned into Word documents. With this unprecedented transformation into a virtual world, I wanted to understand the basis of what keeps us connected: code. When a peer introduced me to Girls Who Code at Fred Hutch, it seemed like the perfect opportunity to jump into this limitless area. Girls Who Code program offered through Fred Hutch is an opportunity that provides girls near the Seattle area the opportunity to learn how to code and what it can be applied to with no previous coding knowledge required, perfect for curious minds like mine. Not only did it teach me the basics of coding, but it introduced me to an amazing group of intelligent girls and professionals in the STEM field. Although we learned and experimented with code in Python, the material taught could still be applied to any coding syntax. Within this club, girls were split into three groups to brainstorm and code three unique chatbots: a meme bot, a book suggester, and a music suggester. In collaboration with my team members Ashley, Gina, and Jillian, we created a book chatbot that would suggest book titles and authors based on user input. 
  
