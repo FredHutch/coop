@@ -2,9 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
-assets/.DS_Store
-
-assets/images/.DS_Store
-
-.DS_Store
-.vscode/settings.json
+.vscode/
+**/.DS_Store
