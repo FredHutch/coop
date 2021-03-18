@@ -77,10 +77,14 @@ we're very pleased with the ability provided by the new AWS infrastructure to ma
 This makes it easy for us to open up new opportunities for everyone across campus.
 
 We've also been careful about the methods we use to grant and manage access to cloud resources.
-Collaborators external to the Hutch now have the ability to access Hutch accounts with their own credentials,
-and we have processes in place to ensure access doesn't linger past the end of collaboration
+Collaborators external to the Hutch now have the ability to access Hutch accounts with their previously existing AWS credentials,
+making access both more secure and easier to grant,
+and we have processes in place to ensure access doesn't linger past the end of collaboration.
 
 Hutch researchers who have already migrated to the new system report that they are most excited about their access to the [AWS Console](https://aws.amazon.com/console/),
 which makes it easier to understand and manage their account and resources.
 
-We're excited to continue helping labs at Fred Hutch learn more about the capabilities provided by cloud resources!
+---
+
+Thanks again to Jeff for sharing this insights about our new AWS cloud infrastructure! 
+We're excited to continue helping labs at Fred Hutch learn more about the capabilities provided by cloud resources.
