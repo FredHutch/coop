@@ -86,5 +86,3 @@ which makes it easier to understand and manage their account and resources.
 
 ---
 
-Thanks again to Jeff for sharing this insights about our new AWS cloud infrastructure! 
-We're excited to continue helping labs at Fred Hutch learn more about the capabilities provided by cloud resources.
