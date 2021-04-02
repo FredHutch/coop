@@ -1,4 +1,3 @@
-
 ---
 title: "How a Club is Closing the Gender Gap in Coding" # replace with the title of your post, a short catchy description to entice readers
 author: Shalom_Abi # the author value should match the 'title' value of your contributor file located here /gh-pages/_contributors. If you do not have a contributor file, please feel free to make one or contact one of our team members to assist you.
