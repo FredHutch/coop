@@ -61,6 +61,7 @@ the RNAseq course series will be included in the regular rotation of instructor-
 As with all fredhutch.io courses,
 the complete course materials are publicly available while in development,
 and will continue to remain available for anyone to use for self-directed learning.
+**Check out all available course materials [here](http://www.fredhutch.io/resources/)!**
 
 Please contact us at `coophelp` with any questions about these courses.
 We're also happy to hear any other questions or conceror training and documentation for data-intensive and bioinformatics research.
