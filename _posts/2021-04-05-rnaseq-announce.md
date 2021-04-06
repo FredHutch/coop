@@ -18,7 +18,7 @@ we've begun working with experts from the Core facilities to develop training re
 such as genomics.
 
 The new RNAseq course series follows existing design practices for fredhutch.io courses,
-which we have developed and specifically to support our research community.
+which we have developed specifically to support our research community.
 Things you can expect from all fredhutch.io courses include:
 - specific learning objectives for both the entire course and individual classes that relate to common research tasks
 - integration with Fred Hutch data and compute resources, and a goal of applying the skills taught immediately following completion of the course
