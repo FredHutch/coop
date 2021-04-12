@@ -7,8 +7,8 @@ categories: # delete the categories that do not apply and keep at least one
   - Science
 tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, genomics, workflows
   - values
-  - diversity equity and inclusion
   - open science
+  - lab health
 ---
 
 **Motivating questions**: 
