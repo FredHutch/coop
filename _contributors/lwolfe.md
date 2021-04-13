@@ -1,6 +1,6 @@
 ---
 title: Lauren Wolfe
-position: Training Specialist
+position:
 affiliation: The Coop, Fred Hutchinson Cancer Research Center
 ---
 ## Title
