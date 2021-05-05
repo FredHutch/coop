@@ -9,6 +9,10 @@ tags: # add 1-4 lowercase tags that are relevant to your post, ex: r, python, ge
  - training
 ---
 
+> **Announcement:** Pilot testing of these courses has been cancelled.
+> Course materials will remain publicly available,
+> though completion of them will be delayed.
+
 We are pleased to announce pilot testing for a new course series on RNAseq analysis!
 
 The fredhutch.io training program has previously focused largely on teaching general skills in data and computing,

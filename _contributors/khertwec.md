@@ -1,6 +1,6 @@
 ---
 title: Kate Hertweck
-position: Bioinformatics Training Manager 
+position: Bioinformatics Training Manager (2018-2021)
 affiliation: The Coop, fredhutch.io, Fred Hutchinson Cancer Research Center
 ---
 ## Title
@@ -12,6 +12,6 @@ affiliation: The Coop, fredhutch.io, Fred Hutchinson Cancer Research Center
 
 ### Links
 <!-- Add your links below -->
-- [Fredhutch.io](http://www.fredhutch.io/)
+- [Personal website](http://katehertweck.com)
 - [Github](https://github.com/k8hertweck)
 - [Twitter](https://twitter.com/k8hert)
