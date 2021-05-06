@@ -14,8 +14,6 @@ in which a team of MSDS students supported development and implementation of a d
 Based on lessons learned from that experience,
 we decided to again sponsor a group of students in their capstone exercise in the fall 2020 and winter 2021 academic quarters.
 
-This year's students focused on developing publicly-accessible resources aimed at one of the 
-
 Machine learning has been one of the most often requested areas for training suppoer throughout the history of [fredhutch.io](http://www.fredhutch.io).
 We have periodically taught classes focused on both machine learning concepts and specific computing skills.
 However, one of the most frequently cited difficulties is translating basic skills to working with novel datasets.
