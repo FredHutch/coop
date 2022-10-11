@@ -1,3 +1,5 @@
+> Note: as of 10/11/22 this repo is archived as the Fred Hutch Coop is no longer being supported.  
+
 # Fred Hutch Coop Blog
 
 This repository is for the [blog](https://fredhutch.github.io/coop/) maintained by the Fred Hutch Bioinformatics and Data Science Cooperative (The Coop).
